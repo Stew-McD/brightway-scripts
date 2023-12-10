@@ -1,73 +1,77 @@
-from itertools import product
+import os
 
-import bw2data as bd
+from py7zr import SevenZipFile
 import bw2io as bi
-import bw2calc as bc
-import ecoinvent_interface as ei
+import bw2data as bd
 
-DELETE_PROJECT = False
-IMPORT_RELEASES = False
-VALIDATE_DBS = True
+db_dir = "/home/stew/CML/code/DBs/EI/"
+db_files = [x for x in os.listdir(db_dir) if "ecoinvent_3.9.1" in x]
 
-PROJECT = "default"
-VERSIONS = ["3.9.1"]
-SYSTEM_MODELS = ["cutoff", "consequential"]
-DBS = list(product(VERSIONS, SYSTEM_MODELS))
+PROJ_NAME = "default"
+delete_existing = True
+report = False
 
-settings = ei.Settings(username=ei.Settings().username, password=ei.Settings().password)
+EXCLUDE = ['ecoinvent-3.9.1-consequential']
+print("** Let's try to import ecoinvent... **")
+print(f'bw2io version = {bi.__version__}')
+print(f'bw2data version = {bd.__version__}')
 
-if DELETE_PROJECT and PROJECT in bd.projects:
-    print(f"Deleting project {PROJECT}")
-    bd.projects.delete_project(PROJECT, delete_dir=True)
 
-bd.projects.set_current(PROJECT)
+if delete_existing:
+        if PROJ_NAME in bd.projects: 
+            bd.projects.delete_project(PROJ_NAME, True)    
+            print("Deleted existing project:" + PROJ_NAME)
+            print(f"\nMaking new project: {PROJ_NAME}")
 
-print(f"** Using project: {PROJECT} **")
-print(f"\tbw2data version: {bd.__version__}")
-print(f"\tbw2io version: {bi.__version__}")
-print(f"\tecoinvent_interface version: {ei.__version__}")
+for db_file in db_files:
+    db_name = db_file.replace(".7z", "").replace("_", "-")
+    if db_name in EXCLUDE:
+        continue
+    # if '3.9.1' in db_file:
+    #     assert bi.__version__ == "0.8.8", "bw2io version must be 0.8.8 for ecoinvent 3.9.1"
+    
+    bd.projects.set_current(PROJ_NAME)
+    bi.bw2setup()
 
-print(f"** Existing databases **")
-print(bd.databases)
+    tmp = "/tmp/"+db_name
+    if not os.path.isdir(tmp):
+        print("\nExtracting database...")
+        with SevenZipFile(db_dir+db_file, 'r') as archive:
+            archive.extractall(path=tmp)
 
-if IMPORT_RELEASES:
-    print(f"** Importing releases **")
-    # Loop through releases and system models
-    for version, system_model in DBS:
-        db_name = f"ecoinvent-{version}-{system_model}"
-        if db_name not in bd.databases:
-            print(f"** Importing: {db_name}")
-            try:
-                bi.import_ecoinvent_release(version=version, system_model=system_model)
-                print(f"SUCCESS: {db_name}")
-            except Exception as e:
-                print(f"FAILURE: {db_name} - {e}")
-                continue
+    print("bw2io version = ", bi.__version__) #0.8.8 for ei3.9, 0.8.7 for ei3.8
+    print("bw2db version = ", bd.__version__)
 
-if VALIDATE_DBS:
-    # Check the databases
-    print("** Checking databases **")
-    dbs = [x for x in bd.databases if "biosphere" not in x]
-    for db_name in dbs:
-        print(f"Checking {db_name}")
-        try:
-            db = bd.Database(db_name)
-            print(f"\t{db}")
-            # logging.info(f"{db}: \n{bd.Database(db).metadata}")
-            score = 0
-            attempt = 0
-            while score == 0 and attempt <= 10:
-                attempt += 1
-                lca = bc.LCA({db.random(): 1}, bd.methods.random())
-                lca.lci()
-                lca.lcia()
-                score = lca.score
-                print(f"\t {lca.demand}\n\t {lca.method} \n\t {lca.score:.2e}")
-        except Exception as e:
-            logging.error(f"FAILURE VALIDATING: {db} : {e}")
-            print(f"FAILURE VALIDATING: {db} : {e}")
-        if attempt == 10:
-            print(f"** {db_name}: produced {attempt} zero scores **")
-            print("\tProbably something is wrong here...")
+    path = tmp + "/datasets/"
 
-print("Done")
+    db = bi.SingleOutputEcospold2Importer(path, db_name)
+
+    bi.create_core_migrations()
+    db.apply_strategies()
+    db.statistics()
+
+    if db.statistics()[2] == 0:
+        print("ok")
+        db.write_database()
+        db = bd.Database(db_name)
+        db.metadata
+    else:
+        print("There are unlinked exchanges. Quitting.")
+        
+        # db.write_excel()
+        #db.drop_unlinked(i_am_reckless=True)
+
+        # db.write_database()
+        # db = bd.Database(db_name)
+        # db.metadata
+
+if report:
+    # bd.projects.report()
+    for p in bd.projects:
+        print("\n\n**** PROJECT:" + p.name)
+        bd.projects.set_current(p.name)
+        for d in bd.databases:
+            d = bd.Database(d)
+            print("\n** DB:" + d.name)
+            for k, v in d.metadata.items():
+                print(k , ":" , v)

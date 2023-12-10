@@ -9,7 +9,7 @@ import bw2data as bd
 SCENARIO_DIR = pm.filesystem_constants.DATA_DIR / "iam_output_files"
 filenames = sorted([x for x in os.listdir(SCENARIO_DIR) if x.endswith(".csv")])
 
-FILE_LOG = 'make_prospective_databases.log'
+FILE_LOG = "make_prospective_databases.log"
 
 # ---------------------------------------------------------------------------------
 # USER INPUT
@@ -17,15 +17,24 @@ FILE_LOG = 'make_prospective_databases.log'
 
 # Mostly you just need to change these variables
 project_name = "default"
-source_db = "ecoinvent_3.9.1_consequential"
+source_make = "ecoinvent"
+source_version = "3.9.1"
+source_systemmodel = "cutoff"
+source_db = f"{source_make}-{source_version}-{source_systemmodel}"
 new_project = (
-    source_db + "-premise"
+    source_db + "_premise"
 )  # if you want to make a new project, leave a string, otherwise "None"
 
 bd.projects.set_current(project_name)
 
-if new_project:
-    bd.projects.copy_project(new_project)
+if new_project is not None:
+    print(f"Making new project: {new_project}")
+    try:
+        bd.projects.copy_project(new_project)
+    except ValueError:
+        print(f"Project {new_project} already exists, using it")
+        bd.projects.set_current(new_project)
+
 
 # other variables you can change if you want
 premise_key = "tUePmX_S5B8ieZkkM7WUU2CnO8SmShwmAeWK9x2rTFo="
@@ -37,6 +46,8 @@ multiprocessing = True  # use multiprocessing (True) or not (False) (change this
 premise_quiet = (
     True  # if you want to see the output of the premise functions (True) or not (False)
 )
+if len(source_version.split(".")) == 3:
+    premise_version = ".".join(source_version.split(".")[:2])
 
 
 # CHOOSE SCENARIOS
@@ -46,23 +57,23 @@ premise_quiet = (
 
 models = [
     "image",
-    "remind",
+    # "remind",
 ]
 
 ssps = [
-    # "SSP1",
-    "SSP2",
+    "SSP1",
+    # "SSP2",
     # "SSP5",
 ]
 
 rcps = [
-    "Base",  # choose the rcp you want to use, (mostly this comment is to stop the linter from removing the line breaks)
-    "RCP19",
-    "RCP26",
-    "NPi",
-    "NDC",
-    "PkBudg500",
-    "PkBudg1150",
+    "Base",  # comment out the ones you don't want
+    # "RCP19",
+    # "RCP26",
+    # "NPi",
+    # "NDC",
+    # "PkBudg500",
+    # "PkBudg1150",
 ]
 
 # If the years you put here are inside the range of the scenario, in will interpolate the data, otherwise, probably it fails. Most of the scenarios are between 2020 and 2100, I think.
@@ -73,48 +84,73 @@ years = [
     # 2030,
     # 2035,
     # 2040,
-    # 2045,
+    2045,
     2050,
 ]
 
 # this part makes all the possible combinations of the scenarios you want to use, the next part will filter out the ones that are not available
 
-desired_scenarios = []
+desired_scenarios = {}
 for model, ssp, rcp in product(models, ssps, rcps):
-    desired_scenarios.append({"model": model, "pathway": ssp + "-" + rcp})
+    key = f"{source_make}_{source_systemmodel}_{premise_version}_{model}_{ssp}-{rcp}"
+    value = {"model": model, "pathway": ssp + "-" + rcp}
+    desired_scenarios.update({key: value})
 
 # ---------------------------------------------------------------------------------
 # FILTER OUT SCENARIOS THAT ARE NOT AVAILABLE
 # ---------------------------------------------------------------------------------
 
-# Split the string and extract the version number
-parts = source_db.split("_")
-source_version = parts[1] if "." in parts[1] else parts[1].split(".")[0]
-source_systemmodel = parts[-1]
-
 
 # function to make arguments for "new database -- pm.nbd" based on possible scenarios
 def make_possible_scenario_list(filenames, desired_scenarios, years):
-    possible_scenarios = []
+    possible_scenarios = {}
     for filename in filenames:
         climate_model = filename.split("_")[0]
         ssp = filename.split("_")[1].split("-")[0]
         rcp = filename.split("_")[1].split("-")[1].split(".")[0]
-        possible_scenarios.append({"model": climate_model, "pathway": ssp + "-" + rcp})
+        key = (
+            f"{source_make}_{source_systemmodel}_{premise_version}_{model}_{ssp}-{rcp}"
+        )
+        value = {"model": climate_model, "pathway": ssp + "-" + rcp}
+        possible_scenarios.update({key: value})
 
     # scenarios = overlap of desired_scenarios and possible_scenarios
-    scenarios = [x for x in desired_scenarios if x in possible_scenarios]
+    scenarios = {
+        key: possible_scenarios[key]
+        for key in set(desired_scenarios) & set(possible_scenarios)
+    }
 
     # now add the years
-    scenarios = [{**scenario, "year": year} for scenario in scenarios for year in years]
+    new_scenarios = {}
+    for k, v in scenarios.items():
+        for year in years:
+            new_key = f"{k}_{year}"
+            new_value = {**v, "year": year}
+            new_scenarios[new_key] = new_value
 
-    return scenarios
+    return new_scenarios
 
 
 scenarios = make_possible_scenario_list(filenames, desired_scenarios, years)
 
 
-# ---------------------------------------------------------------------------------
+# remove scenarios that exist in the project already
+def remove_existing_scenarios(scenarios):
+    scenarios_to_remove = []
+    for scenario in scenarios.keys():
+        if scenario in bd.databases.keys():
+            print(f"\tSKIPPING EXISTING: Scenario {scenario}")
+            scenarios_to_remove.append(scenario)
+
+    for scenario in scenarios_to_remove:
+        del scenarios[scenario]
+
+    return scenarios
+
+
+scenarios = remove_existing_scenarios(scenarios)
+
+
 # MAKE PREMISE DATABASES
 # ---------------------------------------------------------------------------------
 
@@ -137,7 +173,9 @@ print(
 print(f'{"-"*80}')
 
 with open(FILE_LOG, "a") as f:
-    f.write(f"Making prospective dbs with: {source_db} in project: {bd.projects.current}\n")
+    f.write(
+        f"Making prospective dbs with: {source_db} in project: {bd.projects.current}\n"
+    )
 
 for scenario in scenarios:
     print(f"\t\t **  {scenario}")
@@ -153,7 +191,7 @@ def make_premise_dbs(
     batch_size,
 ):
     count = 0
-
+    scenarios = list(scenarios.items())
     # Loop through scenario batches
     for scenarios_set in grouper(scenarios, batch_size):
         if len(scenarios) < batch_size:
@@ -222,7 +260,9 @@ def make_premise_dbs(
             except Exception as e:
                 print(f"Failed to update with {update.__name__}: {e}")
                 with open(FILE_LOG, "a") as f:
-                    f.write(f"Failed to update with scenario {scenario}, {update.__name__}: {e}\n")
+                    f.write(
+                        f"Failed to update with scenario {scenario}, {update.__name__}: {e}\n"
+                    )
 
         # Write the new database to brightway
         try:
