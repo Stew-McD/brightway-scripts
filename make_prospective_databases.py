@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
-from itertools import product
-from itertools import zip_longest
+from itertools import product, zip_longest
+from math import ceil
 
 import premise as pm
 import bw2data as bd
@@ -39,7 +39,7 @@ if new_project is not None:
 # other variables you can change if you want
 premise_key = "tUePmX_S5B8ieZkkM7WUU2CnO8SmShwmAeWK9x2rTFo="
 batch_size = (
-    5  # number of scenarios to process at once (change this if you have memory issues)
+    3  # number of scenarios to process at once (change this if you have memory issues)
 )
 keep_uncertainty = True
 multiprocessing = True  # use multiprocessing (True) or not (False) (change this if you there are problems)
@@ -199,7 +199,7 @@ def make_premise_dbs(
             scenarios_set = scenarios
 
         else:
-            total_batches = len(scenarios) // batch_size
+            total_batches = ceil(len(scenarios) // batch_size)
 
         count += 1
         print(
@@ -239,18 +239,19 @@ def make_premise_dbs(
             additional_inventories=None,
         )
 
-        # Define the list of methods to call, some are included in all, but may as well try them all just in case
+        # Define the list of methods to call, all includes everything except cars, buses, two wheelers (but two wheelers usually doesnt work)
         updates = [
             ndb.update_all,
             ndb.update_cars,
             ndb.update_buses,
             ndb.update_two_wheelers,
-            ndb.update_electricity,
-            ndb.update_cement,
-            ndb.update_steel,
-            ndb.update_fuels,
-            ndb.update_emissions,
-            ndb.update_dac,
+            # ndb.update_electricity,
+            # ndb.update_cement,
+            # ndb.update_steel,
+            # ndb.update_fuels,
+            # ndb.update_emissions,
+            # ndb.update_dac,
+            # nbd.update_trucks
         ]
 
         # Call each method inside a try/except block
