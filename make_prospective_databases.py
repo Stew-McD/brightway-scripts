@@ -49,20 +49,23 @@ premise_quiet = (
 if len(source_version.split(".")) == 3:
     premise_version = ".".join(source_version.split(".")[:2])
 
-
+# ---------------------------------------------------------------------------------
 # CHOOSE SCENARIOS
+# ---------------------------------------------------------------------------------
+
 # Comment out the scenarios you don't want to use, otherwise all potential scenarios will be attempted
-# The full list of available scenarios is in the `filenames` variable (atm 15, but there could be more in future updates)
+# The full list of available scenarios is in the `filenames` variable
+# (a.t.m. 15, but there could be more in future updates)
 # Not all combinations are available, later, we will filter out the scenarios that are not possible
 
 models = [
-    "image",
-    # "remind",
+    # "image",
+    "remind",
 ]
 
 ssps = [
-    "SSP1",
-    # "SSP2",
+    # "SSP1",
+    "SSP2",
     # "SSP5",
 ]
 
@@ -76,16 +79,21 @@ rcps = [
     # "PkBudg1150",
 ]
 
-# If the years you put here are inside the range of the scenario, in will interpolate the data, otherwise, probably it fails. Most of the scenarios are between 2020 and 2100, I think.
+# If the years you put here are inside the range of the scenario, in will interpolate the data, otherwise, probably it fails. Most of the scenarios are between 2020 and 2100, I think. But the IAMs have 10 year time steps after 2050.
 
 years = [
     # 2020,
     # 2025,
-    # 2030,
+    2030,
     # 2035,
-    # 2040,
-    2045,
+    2040,
+    # 2045,
     2050,
+    # 2060,
+    # 2070,
+    # 2080,
+    # 2090,
+    # 2100,
 ]
 
 # this part makes all the possible combinations of the scenarios you want to use, the next part will filter out the ones that are not available
@@ -151,12 +159,13 @@ def remove_existing_scenarios(scenarios):
 scenarios = remove_existing_scenarios(scenarios)
 
 
+# ---------------------------------------------------------------------------------
 # MAKE PREMISE DATABASES
 # ---------------------------------------------------------------------------------
 
 os.makedirs(
     "premise_data", exist_ok=True
-)  # make a folder for it, or premise makes a mess
+)  # make a folder for it, or premise makes a mess in the main folder
 os.chdir("premise_data")
 
 
@@ -211,16 +220,18 @@ def make_premise_dbs(
         if source_systemmodel == "cutoff":
             model_args = None
 
+        # SEE THE PREMISE DOCUMENTATION (and Ben Maes' paper) FOR MORE INFO ON THESE ARGUMENTS
+        # THEY SHOULD BE CASE, TECHNOLOGY AND MODEL SPECIFIC (these are almost all defaults)
         else:
             model_args = {
                 "range time": 2,
                 "duration": False,
-                "foresight": False,
-                "lead time": True,
-                "capital replacement rate": False,
-                "measurement": 0,
-                "weighted slope start": 0.75,
-                "weighted slope end": 1.00,
+                "foresight": True,  # vs. myopic. should match the scenario, IMAGE = False, REMIND = True
+                "lead time": True,  # otherwise market average lead time is used, not tech specific
+                "capital replacement rate": True,  # otherwise, baseline is used
+                "measurement": 0,  # [slope, linear, area, weighted-slope, split]
+                "weighted slope start": 0.75,  # only for method 3
+                "weighted slope end": 1.00,  # only for method 3
             }
 
         # Create new database based on scenario details
@@ -239,7 +250,7 @@ def make_premise_dbs(
             additional_inventories=None,
         )
 
-        # Define the list of methods to call, all includes everything except cars, buses, two wheelers (but two wheelers usually doesnt work)
+        # Define the list of methods to call, `all` includes everything except cars, buses, two wheelers (but two wheelers usually doesnt work)
         updates = [
             ndb.update_all,
             ndb.update_cars,
