@@ -1,0 +1,132 @@
+2023-12-09 17:11:04,536 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759075066496
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:11:04,539 INFO:Importing ecoinvent releases
+2023-12-09 17:11:04,539 INFO:	bw2data version: (3, 6, 6)
+2023-12-09 17:11:04,539 INFO:	bw2io version: (0, 8, 11)
+2023-12-09 17:11:04,539 INFO:	ecoinvent_interface version: 2.4.1
+2023-12-09 17:11:10,543 INFO:Importing 3.9.1 cutoff
+2023-12-09 17:11:10,544 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759075074800
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:11:31,100 INFO:Fixing versions in unit process datasets
+2023-12-09 17:12:04,754 INFO:Fixing versions in master data
+2023-12-09 17:15:30,263 INFO:SUCCESS: 3.9.1 - cutoff
+2023-12-09 17:15:30,802 INFO:Importing 3.9 cutoff
+2023-12-09 17:15:30,803 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759069777056
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:15:55,957 INFO:Fixing versions in unit process datasets
+2023-12-09 17:16:36,462 INFO:Fixing versions in master data
+2023-12-09 17:21:25,328 INFO:SUCCESS: 3.9 - cutoff
+2023-12-09 17:21:25,809 INFO:Importing 3.7.1 apos
+2023-12-09 17:21:25,810 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759141955104
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:21:54,225 INFO:Fixing versions in unit process datasets
+2023-12-09 17:22:54,866 INFO:Fixing versions in master data
+2023-12-09 17:29:12,268 INFO:SUCCESS: 3.7.1 - apos
+2023-12-09 17:29:12,833 INFO:Importing 3.3 apos
+2023-12-09 17:29:12,853 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759073379808
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:29:35,018 INFO:Fixing versions in unit process datasets
+2023-12-09 17:30:57,332 INFO:Fixing versions in master data
+2023-12-09 17:38:21,631 ERROR:FAILURE: 3.3 - apos
+2023-12-09 17:38:21,632 ERROR:Exception occurred
+Traceback (most recent call last):
+  File "/home/stew/code/gh/bw2basics/testing/importecoinventrelease_test.py", line 56, in <module>
+    bi.import_ecoinvent_release(version=version, system_model=system_model)
+  File "/home/stew/code/gh/brightway2-io_bw2legacy/bw2io/ecoinvent.py", line 307, in import_ecoinvent_release
+    if row[cf_col_label] is None:
+KeyError: 'cf'
+2023-12-09 17:38:23,099 INFO:Importing 3.6 apos
+2023-12-09 17:38:23,111 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759073379088
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:38:45,589 INFO:Fixing versions in unit process datasets
+2023-12-09 17:39:29,820 INFO:Fixing versions in master data
+2023-12-09 17:48:22,051 INFO:SUCCESS: 3.6 - apos
+2023-12-09 17:48:22,557 INFO:Importing 3.10 consequential
+2023-12-09 17:48:22,565 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759069776960
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:57:48,599 INFO:SUCCESS: 3.10 - consequential
+2023-12-09 17:57:49,203 INFO:Importing 3.4 cutoff
+2023-12-09 17:57:49,247 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759069776864
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 17:58:07,636 INFO:Fixing versions in unit process datasets
+2023-12-09 17:58:54,569 INFO:Fixing versions in master data
+2023-12-09 18:10:27,039 INFO:SUCCESS: 3.4 - cutoff
+2023-12-09 18:10:27,577 INFO:Importing 3.5 apos
+2023-12-09 18:10:27,583 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139760236023664
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
+2023-12-09 18:10:49,038 INFO:Fixing versions in unit process datasets
+2023-12-09 18:11:51,755 INFO:Fixing versions in master data
+2023-12-09 18:25:54,262 INFO:SUCCESS: 3.5 - apos
+2023-12-09 18:25:54,821 INFO:Importing 3.01 apos
+2023-12-09 18:25:54,834 INFO:Instantiated ecoinvent_interface class:
+    Class: EcoinventRelease
+    Instance ID: 139759075072928
+    Version: 2.4.1
+    User: LUCML
+    Output directory: /home/stew/.local/share/EcoinventInterface/cache
+    Custom headers: False
+    Custom URLs: False
+    
