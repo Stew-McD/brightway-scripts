@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 261.2 202.7
+Q 261.2 195.7, 264.4 192.0
+Q 267.8 188.3, 274.0 188.3
+Q 279.9 188.3, 283.0 192.4
+L 280.4 194.6
+Q 278.1 191.6, 274.0 191.6
+Q 269.8 191.6, 267.5 194.5
+Q 265.2 197.3, 265.2 202.7
+Q 265.2 208.3, 267.6 211.2
+Q 269.9 214.1, 274.5 214.1
+Q 277.6 214.1, 281.2 212.2
+L 282.4 215.2
+Q 280.9 216.2, 278.6 216.7
+Q 276.4 217.3, 273.9 217.3
+Q 267.8 217.3, 264.4 213.5
+Q 261.2 209.8, 261.2 202.7
+' fill='#000000'/>
+<path class='atom-0' d='M 305.2 186.6
+L 305.2 216.9
+L 302.2 216.9
+L 301.7 214.4
+Q 299.4 217.3, 295.6 217.3
+Q 291.3 217.3, 288.9 214.6
+Q 286.5 211.9, 286.5 207.0
+Q 286.5 201.8, 289.3 198.9
+Q 292.2 196.0, 297.1 196.0
+Q 299.2 196.0, 301.5 196.6
+L 301.5 186.6
+L 305.2 186.6
+M 295.8 214.3
+Q 297.9 214.3, 299.4 213.2
+Q 300.9 212.0, 301.5 210.0
+L 301.5 199.6
+Q 299.4 199.0, 297.1 199.0
+Q 294.0 199.0, 292.2 201.1
+Q 290.4 203.2, 290.4 207.0
+Q 290.4 210.5, 291.8 212.4
+Q 293.2 214.3, 295.8 214.3
+' fill='#000000'/>
+<path class='atom-0' d='M 310.4 186.4
+Q 311.1 184.7, 312.8 183.7
+Q 314.4 182.7, 316.7 182.7
+Q 319.5 182.7, 321.1 184.2
+Q 322.7 185.8, 322.7 188.5
+Q 322.7 191.3, 320.6 193.8
+Q 318.6 196.4, 314.3 199.5
+L 323.0 199.5
+L 323.0 201.6
+L 310.4 201.6
+L 310.4 199.8
+Q 313.9 197.4, 315.9 195.5
+Q 318.0 193.7, 319.0 192.0
+Q 320.0 190.3, 320.0 188.6
+Q 320.0 186.8, 319.1 185.8
+Q 318.2 184.8, 316.7 184.8
+Q 315.2 184.8, 314.2 185.4
+Q 313.2 186.0, 312.4 187.4
+L 310.4 186.4
+' fill='#000000'/>
+<path class='atom-0' d='M 326.5 192.5
+L 331.5 192.5
+L 331.5 187.3
+L 333.7 187.3
+L 333.7 192.5
+L 338.8 192.5
+L 338.8 194.4
+L 333.7 194.4
+L 333.7 199.7
+L 331.5 199.7
+L 331.5 194.4
+L 326.5 194.4
+L 326.5 192.5
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7440-43-9  ---  MW: 112.41</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Cd++]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Cd</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: cadmium</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: cadmium(+2) cation</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['cadmium(+2) cation', '7440-43-9', '22537-48-0', 'Cd2+', 'AIDS-003333', 'AIDS003333', 'C01413', 'Cd(2+)', 'Cadmium (II) ion', 'CADMIUM(II), ION', 'Cadmium cation', 'Cadmium ion', 'Cadmium ions', 'Cadmium(2+)', 'Cadmium(2+) ion', 'Cadmium(2+)ions', 'Cadmium, ion (Cd2+)', 'Cadmium, ion(Cd2+)']</text></svg>

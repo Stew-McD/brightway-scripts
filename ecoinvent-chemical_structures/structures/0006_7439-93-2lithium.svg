@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 285.0 185.8
+L 288.8 185.8
+L 288.8 210.8
+L 301.7 210.8
+L 301.7 214.2
+L 285.0 214.2
+L 285.0 185.8
+' fill='#000000'/>
+<path class='atom-0' d='M 303.9 185.8
+L 307.5 185.8
+L 307.5 189.3
+L 303.9 189.3
+L 303.9 185.8
+M 303.9 193.6
+L 307.5 193.6
+L 307.5 214.2
+L 303.9 214.2
+L 303.9 193.6
+' fill='#000000'/>
+<path class='atom-0' d='M 315.5,200.0 L 315.5,200.2 L 315.5,200.3 L 315.5,200.5 L 315.4,200.7 L 315.4,200.8 L 315.3,201.0 L 315.2,201.1 L 315.1,201.3 L 315.0,201.4 L 314.8,201.5 L 314.7,201.6 L 314.6,201.7 L 314.4,201.8 L 314.3,201.9 L 314.1,201.9 L 313.9,202.0 L 313.8,202.0 L 313.6,202.0 L 313.4,202.0 L 313.2,202.0 L 313.1,201.9 L 312.9,201.9 L 312.7,201.8 L 312.6,201.8 L 312.4,201.7 L 312.3,201.6 L 312.2,201.5 L 312.1,201.3 L 311.9,201.2 L 311.8,201.1 L 311.8,200.9 L 311.7,200.8 L 311.6,200.6 L 311.6,200.4 L 311.6,200.3 L 311.5,200.1 L 311.5,199.9 L 311.6,199.7 L 311.6,199.6 L 311.6,199.4 L 311.7,199.2 L 311.8,199.1 L 311.8,198.9 L 311.9,198.8 L 312.1,198.7 L 312.2,198.5 L 312.3,198.4 L 312.4,198.3 L 312.6,198.2 L 312.7,198.2 L 312.9,198.1 L 313.1,198.1 L 313.2,198.0 L 313.4,198.0 L 313.6,198.0 L 313.8,198.0 L 313.9,198.0 L 314.1,198.1 L 314.3,198.1 L 314.4,198.2 L 314.6,198.3 L 314.7,198.4 L 314.8,198.5 L 315.0,198.6 L 315.1,198.7 L 315.2,198.9 L 315.3,199.0 L 315.4,199.2 L 315.4,199.3 L 315.5,199.5 L 315.5,199.7 L 315.5,199.8 L 315.5,200.0 L 313.5,200.0 Z' style='fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:#000000;stroke-width:0.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7439-93-2  ---  MW: 6.941</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Li]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Li</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: lithium</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: LITHIUM</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['LITHIUM', '7439-93-2', '159577-72-7', '64975-42-4', 'Lithium standard for ICP', 'EINECS 231-484-3', 'HSDB 549', 'Hydrure de lithium [French]', 'Lithium hydride (LiH)', 'Lithium hydride [UN1414]  [Dangerous when wet]', 'Lithium hydride, fused solid [UN2805]  [Dangerous when wet]', 'Lithium monohydride', 'UN1414', 'UN2805', '265977_ALDRICH', '265969_ALDRICH', '265993_ALDRICH', '248827_ALDRICH', '266000_ALDRICH', '228508_ALDRICH', '320080_ALDRICH', '444456_ALDRICH', '207241_ALDRICH', 'Lithium atomic absorption standard solution', '62369_FLUKA', 'Lithium standard for IC', '62373_FLUKA', 'Lithium standard for AAS', '3Li', 'CHEBI:30145', 'litio', '340421_ALDRICH', '201049_ALDRICH', '499811_ALDRICH', 'Lithium-6Li', '265985_ALDRICH', 'HSD690000', 'HSDB 6900', 'Lithium compounds', 'C15473', 'EINECS 231-102-5', 'HSDB 647', 'LITHIUM', 'Lithium [UN1415]  [Dangerous when wet]', 'Lithium, elemental', 'Lithium, metallic', 'UN1415', '278327_ALDRICH', '220914_ALDRICH', '62500_FLUKA', '17073_FLUKA', 'Lithium nitrate solution']</text></svg>

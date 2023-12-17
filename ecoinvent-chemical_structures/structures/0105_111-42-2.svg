@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 81.5,172.0 L 113.2,190.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 113.2,190.3 L 144.8,208.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 144.8,208.6 L 222.7,163.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 222.7,163.6 L 255.4,182.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 255.4,182.4 L 288.0,201.3' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 313.3,201.3 L 345.9,182.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 345.9,182.4 L 378.6,163.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 378.6,163.6 L 456.5,208.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 456.5,208.6 L 488.1,190.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 488.1,190.3 L 519.7,172.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 143.2,207.6 L 144.8,208.6 L 148.7,206.3' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 218.8,165.8 L 222.7,163.6 L 224.3,164.5' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 376.9,164.5 L 378.6,163.6 L 382.4,165.8' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 452.6,206.3 L 456.5,208.6 L 458.1,207.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 30.0 151.0
+L 33.5 151.0
+L 33.5 161.8
+L 46.5 161.8
+L 46.5 151.0
+L 49.9 151.0
+L 49.9 176.4
+L 46.5 176.4
+L 46.5 164.7
+L 33.5 164.7
+L 33.5 176.4
+L 30.0 176.4
+L 30.0 151.0
+' fill='#FF0000'/>
+<path class='atom-0' d='M 55.2 163.6
+Q 55.2 157.5, 58.2 154.1
+Q 61.2 150.7, 66.9 150.7
+Q 72.5 150.7, 75.5 154.1
+Q 78.6 157.5, 78.6 163.6
+Q 78.6 169.8, 75.5 173.4
+Q 72.4 176.8, 66.9 176.8
+Q 61.2 176.8, 58.2 173.4
+Q 55.2 169.9, 55.2 163.6
+M 66.9 174.0
+Q 70.7 174.0, 72.8 171.4
+Q 75.0 168.7, 75.0 163.6
+Q 75.0 158.6, 72.8 156.1
+Q 70.7 153.6, 66.9 153.6
+Q 63.0 153.6, 60.9 156.1
+Q 58.8 158.6, 58.8 163.6
+Q 58.8 168.8, 60.9 171.4
+Q 63.0 174.0, 66.9 174.0
+' fill='#FF0000'/>
+<path class='atom-3' d='M 295.0 195.8
+L 303.3 209.3
+Q 304.2 210.6, 305.5 213.1
+Q 306.8 215.5, 306.9 215.6
+L 306.9 195.8
+L 310.3 195.8
+L 310.3 221.3
+L 306.8 221.3
+L 297.8 206.5
+Q 296.8 204.8, 295.7 202.8
+Q 294.6 200.8, 294.3 200.2
+L 294.3 221.3
+L 291.0 221.3
+L 291.0 195.8
+L 295.0 195.8
+' fill='#0000FF'/>
+<path class='atom-3' d='M 290.7 223.8
+L 294.1 223.8
+L 294.1 234.7
+L 307.1 234.7
+L 307.1 223.8
+L 310.6 223.8
+L 310.6 249.3
+L 307.1 249.3
+L 307.1 237.6
+L 294.1 237.6
+L 294.1 249.3
+L 290.7 249.3
+L 290.7 223.8
+' fill='#0000FF'/>
+<path class='atom-6' d='M 522.7 163.6
+Q 522.7 157.5, 525.7 154.1
+Q 528.7 150.7, 534.4 150.7
+Q 540.0 150.7, 543.1 154.1
+Q 546.1 157.5, 546.1 163.6
+Q 546.1 169.8, 543.0 173.4
+Q 540.0 176.8, 534.4 176.8
+Q 528.8 176.8, 525.7 173.4
+Q 522.7 169.9, 522.7 163.6
+M 534.4 174.0
+Q 538.3 174.0, 540.4 171.4
+Q 542.5 168.7, 542.5 163.6
+Q 542.5 158.6, 540.4 156.1
+Q 538.3 153.6, 534.4 153.6
+Q 530.5 153.6, 528.4 156.1
+Q 526.3 158.6, 526.3 163.6
+Q 526.3 168.8, 528.4 171.4
+Q 530.5 174.0, 534.4 174.0
+' fill='#FF0000'/>
+<path class='atom-6' d='M 550.1 151.0
+L 553.5 151.0
+L 553.5 161.8
+L 566.5 161.8
+L 566.5 151.0
+L 570.0 151.0
+L 570.0 176.4
+L 566.5 176.4
+L 566.5 164.7
+L 553.5 164.7
+L 553.5 176.4
+L 550.1 176.4
+L 550.1 151.0
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:111-42-2  ---  MW: 105.1364</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: OCCNCCO</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C4H11NO2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: diethanolamine</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2-(2-Hydroxyethylamino)ethanol</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2-(2-Hydroxyethylamino)ethanol', '61791-44-4', '8033-73-6', '61791-46-6', '111-42-2', '31590_FLUKA', "2,2'-Dihydroxydiethylamine", "2,2'-Iminobis[ethanol]", "2,2'-Iminodi-1-ethanol", "2,2'-Iminodiethanol", '2-[(2-Hydroxyethyl)amino]ethanol', 'Bis(2-hydroxyethyl)amine', 'Di(2-hydroxyethyl)amine', 'Diaethanolamin', 'Diethanolamin', "Diethylamine, 2,2'-dihydroxy-", 'Diethylolamine', 'Diolamine', "Ethanol, 2,2'-iminobis-", "Ethanol, 2,2'-iminodi-", 'Iminodiethanol', 'N,N-Diethanolamine', 'NCI-C55174', 'NSC4959', 'WLN: Q2M2Q', 'D0681_SIAL', 'C06772', 'Diethanolamine', "2,2'Iminobisethanol", 'ghl.PD_Mitscher_leg0.542', 'D02337', 'Diethanolamine (NF)', "Ethanol, 2,2'-iminobis-, N-tallow alkyl derivs.", 'H2dea', 'CHEBI:28123', "AMINE,DIETHYL,2,2'-DIHYDROXY   DIETHANOLAMINE", 'AIDS-018598', 'AIDS018598', 'InChI=1/C4H11NO2/c6-3-1-5-2-4-7/h5-7H,1-4H', 'Bis(hydroxyethyl)amine', "2,2'-Iminobisethanol, N-tallow alkyl, N-oxide", 'NCIOpen2_008991', '16957_FLUKA', '2,2&#8242;-Iminodiethanol', 'Bis-2-hydroxyethylamine', 'c0589', 'D8885_SIAL', 'DEA', 'NCGC00091478-01', '398179_SIAL', 'EINECS 263-177-5', "2,2'-Iminobisethanol", '2-(2-Hydroxyethylamino)ethanol', '4-04-00-01514 (Beilstein Handbook Reference)', 'AI3-15335', 'BRN 0605315', 'CCRIS 5906', 'Dabco DEOA-LF', 'Di(beta-hydroxyethyl)amine', 'Diaethanolamin [German]', 'Diethanolamin [Czech]', 'Diolamine (VAN)', 'EINECS 203-868-0', 'HSDB 924', "N,N'-Iminodiethanol", 'N,N-Bis(2-hydroxyethyl)amine', 'N,N-Di(hydroxyethyl)amine', 'NSC 4959', 'Niax DEOA-LF', 'Bis(2-hydroxyethyl)tallow amine oxide', 'Dihydroxyethyl tallowamine oxide', 'EINECS 263-179-6', "Ethanol, 2,2'-iminobis-, N-tallow alkyl derivs, N-oxides", "Ethanol, 2,2'-iminobis-, N-tallow alkyl, N-oxide", 'NCGC00091478-02', '31589_FLUKA', 'Amines, tallow alkyl dihydroxyethyl, oxides']</text></svg>

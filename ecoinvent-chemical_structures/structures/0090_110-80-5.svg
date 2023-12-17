@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 32.7,213.5 L 134.0,161.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 134.0,161.7 L 173.4,187.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 173.4,187.2 L 212.8,212.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 246.3,215.0 L 288.6,193.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 288.6,193.3 L 330.9,171.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 330.9,171.7 L 426.4,233.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 426.4,233.5 L 468.7,211.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 468.7,211.9 L 510.9,190.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 129.0,164.3 L 134.0,161.7 L 136.0,163.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 328.8,172.8 L 330.9,171.7 L 335.6,174.8' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 421.6,230.4 L 426.4,233.5 L 428.5,232.5' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-2' d='M 216.6 223.6
+Q 216.6 216.8, 219.9 213.0
+Q 223.3 209.2, 229.6 209.2
+Q 235.8 209.2, 239.2 213.0
+Q 242.6 216.8, 242.6 223.6
+Q 242.6 230.5, 239.2 234.4
+Q 235.8 238.3, 229.6 238.3
+Q 223.3 238.3, 219.9 234.4
+Q 216.6 230.5, 216.6 223.6
+M 229.6 235.1
+Q 233.9 235.1, 236.2 232.2
+Q 238.6 229.3, 238.6 223.6
+Q 238.6 218.1, 236.2 215.3
+Q 233.9 212.4, 229.6 212.4
+Q 225.2 212.4, 222.9 215.2
+Q 220.6 218.0, 220.6 223.6
+Q 220.6 229.3, 222.9 232.2
+Q 225.2 235.1, 229.6 235.1
+' fill='#FF0000'/>
+<path class='atom-5' d='M 514.7 181.8
+Q 514.7 175.0, 518.1 171.2
+Q 521.4 167.4, 527.7 167.4
+Q 534.0 167.4, 537.3 171.2
+Q 540.7 175.0, 540.7 181.8
+Q 540.7 188.7, 537.3 192.6
+Q 533.9 196.5, 527.7 196.5
+Q 521.5 196.5, 518.1 192.6
+Q 514.7 188.7, 514.7 181.8
+M 527.7 193.3
+Q 532.0 193.3, 534.3 190.4
+Q 536.7 187.5, 536.7 181.8
+Q 536.7 176.2, 534.3 173.4
+Q 532.0 170.6, 527.7 170.6
+Q 523.4 170.6, 521.0 173.4
+Q 518.7 176.2, 518.7 181.8
+Q 518.7 187.5, 521.0 190.4
+Q 523.4 193.3, 527.7 193.3
+' fill='#FF0000'/>
+<path class='atom-5' d='M 545.1 167.7
+L 549.0 167.7
+L 549.0 179.8
+L 563.4 179.8
+L 563.4 167.7
+L 567.3 167.7
+L 567.3 196.0
+L 563.4 196.0
+L 563.4 183.0
+L 549.0 183.0
+L 549.0 196.0
+L 545.1 196.0
+L 545.1 167.7
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:110-80-5  ---  MW: 90.1218</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CCOCCO</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C4H10O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: ethylene glycol monoethyl ether</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2-Ethoxyethanol</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2-Ethoxyethanol', '110-80-5', '96231-36-6', 'NSC8837', 'Oxitol', 'Plastiazan 60', 'Poly-Solv EE', 'WLN: Q2O2', 'Ethylene glycol monoethyl ether (EGMEE)', 'NCGC00091522-01', '2-Ethoxyethyl alcohol', 'AI3-01236', 'Athylenglykol-monoathylather [German]', 'Bikanol E 1', 'CCRIS 2294', 'Celosolv [Czech]', 'Dowanol 8', 'EGEE', 'EINECS 203-804-1', 'Ektasolve EE', 'Eter monoetilico del etilenglicol [Spanish]', "Ether monoethylique de l'ethylene-glycol [French]", 'Ethoxyethanol, 2-', 'Ethyl ethylene glycol', 'Ethylene glycol monoethyl ether [UN1171]  [Flammable liquid]', 'Etoksyetylowy alkohol [Polish]', 'HSDB 54', 'Jeffersol EE', 'NSC 8837', 'RCRA waste no. U359', 'Solvid', 'Solvulose', 'UN1171', 'beta-Ethoxyethanol', 'C14687', 'LS-515', '79109_FLUKA', 'InChI=1/C4H10O2/c1-2-6-4-3-5/h5H,2-4H2,1H', '2EE', 'CHEBI:46788', 'HOCH2CH2OC2H5', '128082_ALDRICH', '256374_ALDRICH', 'ETX', '02530_FLUKA', '.beta.-Ethoxyethanol', '2-Ethoxyethanol', 'Cellosolve', 'Cellosolve solvent', 'Dowanol EE', 'Emkanol', 'Ethanol, 2-ethoxy-', "Ether monoethylique de l'ethylene-glycol", 'Ethyl cellosolve', 'Ethyl glycol', 'Ethylene glycol ethyl ether', 'Ethylene glycol monoethyl ether', 'Ethylethylene glycol', 'Etoksyetylowy alkohol', 'ZINC01648262', 'Glycol monoethyl ether', 'Hydroxy ether', 'NCI-C54853']</text></svg>

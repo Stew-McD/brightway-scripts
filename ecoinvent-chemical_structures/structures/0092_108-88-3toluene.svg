@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 570.0,200.0 L 390.0,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 390.0,200.0 L 300.0,355.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 358.8,200.0 L 284.4,328.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 300.0,355.9 L 120.0,355.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 120.0,355.9 L 30.0,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 135.6,328.9 L 61.2,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 30.0,200.0 L 120.0,44.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 120.0,44.1 L 300.0,44.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 135.6,71.1 L 284.4,71.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-1' d='M 300.0,44.1 L 390.0,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 304.5,348.1 L 300.0,355.9 L 291.0,355.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 129.0,355.9 L 120.0,355.9 L 115.5,348.1' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 34.5,207.8 L 30.0,200.0 L 34.5,192.2' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 115.5,51.9 L 120.0,44.1 L 129.0,44.1' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 291.0,44.1 L 300.0,44.1 L 304.5,51.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:108-88-3  ---  MW: 92.1402</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: Cc1ccccc1</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C7H8</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: toluene, liquid</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: methylbenzene</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['methylbenzene', '3101-08-4', '50643-04-4', '108-88-3', 'TOLUENE', 'antisal 1a', 'methacide', 'methylbenzene', 'methylbenzol', 'monomethyl benzene', 'phenyl methane', 'tolu-sol', 'toluol', '314358_SIGMA', 'Toluene-(ring-UL-14C)', 'Toluolo [Italian]', 'Benzene, methyl', '89677_FLUKA', 'UN 1294', 'UN1294', '89680_FLUKA', '89681_FLUKA', 'WLN: 1R', '34866_SIAL', '155004_SIAL', 'MBN', 'C01455', '179965_ALDRICH', '32249_RIEDEL', 'NSC406333', 'Toluene [UN1294]  [Flammable liquid]', 'Tolueen', 'Otoline', '322245_SIGMA', 'Toluen', 'NCGC00090939-02', 'Toluolo', '676756_SIAL', 'c0114', 'methyl-Benzene', 'ST5214497', '48572_SUPELCO', '179418_SIAL', '34413_RIEDEL', 'InChI=1/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H', 'Tolueno [Spanish]', '34494_RIEDEL', '244511_ALDRICH', 'NCGC00090939-01', 'Methylene, phenyl-', 'Phenylmethylene', 'CHEBI:17578', 'AI3-02261', 'Benzene, methyl-', 'CCRIS 2366', 'CP 25', 'Caswell No. 859', 'EINECS 203-625-9', 'EPA Pesticide Chemical Code 080601', 'HSDB 131', 'Methane, phenyl-', 'NCI-C07272', 'NSC 406333', 'Phenylmethane', 'RCRA waste no. U220', 'RCRA waste number U220', 'Tolueen [Dutch]', 'Toluen [Czech]']</text></svg>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 129.1,171.9 L 291.9,171.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 291.9,171.9 L 454.6,171.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 129.1,228.1 L 291.9,228.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 291.9,228.1 L 454.6,228.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 90.8 200.1
+Q 90.8 193.3, 94.2 189.5
+Q 97.5 185.7, 103.8 185.7
+Q 110.1 185.7, 113.4 189.5
+Q 116.8 193.3, 116.8 200.1
+Q 116.8 207.0, 113.4 210.9
+Q 110.0 214.8, 103.8 214.8
+Q 97.6 214.8, 94.2 210.9
+Q 90.8 207.0, 90.8 200.1
+M 103.8 211.6
+Q 108.1 211.6, 110.4 208.7
+Q 112.8 205.8, 112.8 200.1
+Q 112.8 194.5, 110.4 191.7
+Q 108.1 188.9, 103.8 188.9
+Q 99.5 188.9, 97.1 191.7
+Q 94.8 194.5, 94.8 200.1
+Q 94.8 205.8, 97.1 208.7
+Q 99.5 211.6, 103.8 211.6
+' fill='#FF0000'/>
+<path class='atom-1' d='M 466.9 200.1
+Q 466.9 193.1, 470.2 189.4
+Q 473.5 185.7, 479.8 185.7
+Q 485.6 185.7, 488.7 189.8
+L 486.1 192.0
+Q 483.8 189.0, 479.8 189.0
+Q 475.5 189.0, 473.2 191.8
+Q 471.0 194.7, 471.0 200.1
+Q 471.0 205.7, 473.3 208.6
+Q 475.7 211.5, 480.2 211.5
+Q 483.3 211.5, 487.0 209.6
+L 488.1 212.6
+Q 486.6 213.6, 484.4 214.1
+Q 482.1 214.7, 479.7 214.7
+Q 473.5 214.7, 470.2 210.9
+Q 466.9 207.2, 466.9 200.1
+' fill='#000000'/>
+<path class='atom-1' d='M 492.3 208.8
+Q 492.3 205.5, 494.9 203.7
+Q 497.6 201.9, 502.4 201.9
+L 505.4 201.9
+L 505.4 201.1
+Q 505.4 198.5, 504.4 197.4
+Q 503.3 196.4, 500.8 196.4
+Q 499.1 196.4, 497.8 196.7
+Q 496.6 197.0, 494.6 197.8
+L 493.4 195.2
+Q 497.2 193.4, 500.8 193.4
+Q 505.2 193.4, 507.2 195.3
+Q 509.2 197.1, 509.2 201.2
+L 509.2 214.3
+L 506.3 214.3
+Q 506.2 214.2, 506.1 213.6
+Q 506.0 212.9, 505.8 211.9
+Q 502.9 214.8, 499.0 214.8
+Q 496.0 214.8, 494.1 213.2
+Q 492.3 211.5, 492.3 208.8
+M 496.0 208.7
+Q 496.0 210.2, 497.0 211.0
+Q 498.0 211.8, 499.8 211.8
+Q 501.4 211.8, 502.9 211.1
+Q 504.4 210.4, 505.4 209.1
+L 505.4 204.7
+L 502.6 204.7
+Q 499.4 204.7, 497.7 205.7
+Q 496.0 206.7, 496.0 208.7
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:1305-78-8  ---  MW: 56.0794</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: O=[Ca]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: CaO</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: quicklime, in pieces, loose</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: oxocalcium</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['oxocalcium', 'ketocalcium', '60873-85-0', '104624-96-6', '12610-14-9', '1305-78-8', '245321-52-2', 'Lime (USP)', '229539_ALDRICH', 'C13140', 'Aetzkalk', '12047_RIEDEL', 'D01679', '208159_ALDRICH', 'Airlock', 'Bell CML(E)', 'Bell CML(P)', 'Burnt lime', 'CALCIUM OXIDE', 'CALX', 'CCRIS 7496', 'CML 21', 'CML 31', 'CML 35', 'Calcia', 'Calcia (CaO)', 'Calcium monoxide', 'Calcium oxide (CaO)', 'Calcium oxide [UN1910]  [Corrosive]', 'Caloxal CPA', 'Caloxol CP2', 'Caloxol W3', 'Calx usta', 'Calxyl', 'Caswell No. 147A', 'Chaux vive', 'Desical P', 'EINECS 215-138-9', 'EPA Pesticide Chemical Code 075604', 'Gebrannter kalk', 'HSDB 1615', 'Lime', 'Lime, burned', 'Oxyde de calcium [French]', 'QC-X', 'Quick lime', 'Quicklime', 'Rhenosorb C', 'Rhenosorb F', 'UN1910', 'Unslaked lime', 'Vesta PP', 'Wapniowy tlenek [Polish]', '634182_ALDRICH', 'L7161_SIAL', '451711_ALDRICH', 'Branntkalk', 'CHEBI:31344', '248568_SIAL', 'Kalziumoxid', 'caustic lime', 'Calcium oxide (JP15)']</text></svg>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 542.4,20.0 L 470.4,92.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 470.4,92.0 L 429.4,81.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 429.4,81.0 L 388.4,70.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 355.6,82.0 L 335.7,101.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 335.7,101.9 L 315.8,121.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 284.2,153.4 L 264.3,173.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 264.3,173.3 L 244.4,193.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 232.9,227.8 L 243.6,267.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 243.6,267.9 L 254.4,308.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 254.4,308.0 L 182.4,380.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-3 atom-7' d='M 284.2,121.9 L 264.3,101.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-3 atom-7' d='M 264.3,101.9 L 244.4,82.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 211.6,70.0 L 170.6,81.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 170.6,81.0 L 129.6,92.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-8 atom-9' d='M 129.6,92.0 L 57.6,20.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-3 atom-10' d='M 315.8,153.4 L 335.7,173.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-3 atom-10' d='M 335.7,173.3 L 355.6,193.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-10 atom-10 atom-11' d='M 367.1,227.8 L 356.4,267.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-10 atom-10 atom-11' d='M 356.4,267.9 L 345.6,308.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-11 atom-11 atom-12' d='M 345.6,308.0 L 417.6,380.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 474.0,88.4 L 470.4,92.0 L 468.3,91.5' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 253.8,306.0 L 254.4,308.0 L 250.8,311.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 131.7,91.5 L 129.6,92.0 L 126.0,88.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 346.2,306.0 L 345.6,308.0 L 349.2,311.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-2' d='M 359.0 65.7
+Q 359.0 58.9, 362.4 55.1
+Q 365.7 51.3, 372.0 51.3
+Q 378.3 51.3, 381.6 55.1
+Q 385.0 58.9, 385.0 65.7
+Q 385.0 72.6, 381.6 76.5
+Q 378.2 80.4, 372.0 80.4
+Q 365.8 80.4, 362.4 76.5
+Q 359.0 72.6, 359.0 65.7
+M 372.0 77.2
+Q 376.3 77.2, 378.6 74.3
+Q 381.0 71.4, 381.0 65.7
+Q 381.0 60.2, 378.6 57.4
+Q 376.3 54.5, 372.0 54.5
+Q 367.7 54.5, 365.3 57.3
+Q 363.0 60.1, 363.0 65.7
+Q 363.0 71.4, 365.3 74.3
+Q 367.7 77.2, 372.0 77.2
+' fill='#FF0000'/>
+<path class='atom-3' d='M 288.7 147.4
+Q 289.0 147.5, 290.3 148.1
+Q 291.6 148.6, 293.1 149.0
+Q 294.6 149.3, 296.0 149.3
+Q 298.7 149.3, 300.2 148.0
+Q 301.8 146.7, 301.8 144.4
+Q 301.8 142.9, 301.0 141.9
+Q 300.2 141.0, 299.0 140.4
+Q 297.8 139.9, 295.8 139.3
+Q 293.3 138.6, 291.8 137.8
+Q 290.3 137.1, 289.2 135.6
+Q 288.2 134.1, 288.2 131.5
+Q 288.2 128.0, 290.6 125.8
+Q 293.0 123.6, 297.8 123.6
+Q 301.1 123.6, 304.8 125.1
+L 303.9 128.2
+Q 300.5 126.8, 298.0 126.8
+Q 295.2 126.8, 293.7 128.0
+Q 292.2 129.1, 292.2 131.0
+Q 292.2 132.6, 293.0 133.5
+Q 293.8 134.4, 294.9 134.9
+Q 296.0 135.4, 298.0 136.0
+Q 300.5 136.8, 302.0 137.6
+Q 303.6 138.4, 304.6 140.1
+Q 305.8 141.7, 305.8 144.4
+Q 305.8 148.4, 303.1 150.5
+Q 300.5 152.6, 296.2 152.6
+Q 293.6 152.6, 291.7 152.0
+Q 289.8 151.5, 287.6 150.6
+L 288.7 147.4
+' fill='#000000'/>
+<path class='atom-3' d='M 308.7 123.5
+L 312.4 123.5
+L 312.4 127.0
+L 308.7 127.0
+L 308.7 123.5
+M 308.7 131.2
+L 312.4 131.2
+L 312.4 151.8
+L 308.7 151.8
+L 308.7 131.2
+' fill='#000000'/>
+<path class='atom-4' d='M 215.0 209.7
+Q 215.0 202.9, 218.4 199.1
+Q 221.7 195.3, 228.0 195.3
+Q 234.3 195.3, 237.6 199.1
+Q 241.0 202.9, 241.0 209.7
+Q 241.0 216.6, 237.6 220.5
+Q 234.2 224.4, 228.0 224.4
+Q 221.8 224.4, 218.4 220.5
+Q 215.0 216.6, 215.0 209.7
+M 228.0 221.2
+Q 232.3 221.2, 234.6 218.3
+Q 237.0 215.4, 237.0 209.7
+Q 237.0 204.2, 234.6 201.4
+Q 232.3 198.5, 228.0 198.5
+Q 223.7 198.5, 221.3 201.3
+Q 219.0 204.1, 219.0 209.7
+Q 219.0 215.4, 221.3 218.3
+Q 223.7 221.2, 228.0 221.2
+' fill='#FF0000'/>
+<path class='atom-7' d='M 215.0 65.7
+Q 215.0 58.9, 218.4 55.1
+Q 221.7 51.3, 228.0 51.3
+Q 234.3 51.3, 237.6 55.1
+Q 241.0 58.9, 241.0 65.7
+Q 241.0 72.6, 237.6 76.5
+Q 234.2 80.4, 228.0 80.4
+Q 221.8 80.4, 218.4 76.5
+Q 215.0 72.6, 215.0 65.7
+M 228.0 77.2
+Q 232.3 77.2, 234.6 74.3
+Q 237.0 71.4, 237.0 65.7
+Q 237.0 60.2, 234.6 57.4
+Q 232.3 54.5, 228.0 54.5
+Q 223.7 54.5, 221.3 57.3
+Q 219.0 60.1, 219.0 65.7
+Q 219.0 71.4, 221.3 74.3
+Q 223.7 77.2, 228.0 77.2
+' fill='#FF0000'/>
+<path class='atom-10' d='M 359.0 209.7
+Q 359.0 202.9, 362.4 199.1
+Q 365.7 195.3, 372.0 195.3
+Q 378.3 195.3, 381.6 199.1
+Q 385.0 202.9, 385.0 209.7
+Q 385.0 216.6, 381.6 220.5
+Q 378.2 224.4, 372.0 224.4
+Q 365.8 224.4, 362.4 220.5
+Q 359.0 216.6, 359.0 209.7
+M 372.0 221.2
+Q 376.3 221.2, 378.6 218.3
+Q 381.0 215.4, 381.0 209.7
+Q 381.0 204.2, 378.6 201.4
+Q 376.3 198.5, 372.0 198.5
+Q 367.7 198.5, 365.3 201.3
+Q 363.0 204.1, 363.0 209.7
+Q 363.0 215.4, 365.3 218.3
+Q 367.7 221.2, 372.0 221.2
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:78-10-4  ---  MW: 208.3296</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CCO[Si](OCC)(OCC)OCC</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C8H20O4Si</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: tetraethyl orthosilicate</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Tetraethoxysilane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Tetraethoxysilane', '78-10-4', '102903-61-7', '11099-06-2', '115980-35-3', '12627-66-6', '26352-16-9', '37206-11-4', '52768-14-6', '57973-83-8', '72162-09-5', '9044-80-8', '68412-37-3', 'Siloxanes, ethyl, partially hydrolyzed', 'Dynasil A', 'ES 28 ester', 'Ethyl orthosilicate', 'Ethyl silicate(DOT', 'Ethyl silicate, ((EtO)4Si)', 'Etylu krzemian', 'NSC4790', 'Silane, tetraethoxy-', "Silicate d'ethyle", 'Silicate tetraethylique', 'Silicic acid (H4SiO4), tetraethyl ester', 'Silicic acid, tetraethyl ester', 'Silicon ethoxide', 'Silicon tetraethoxide', 'TEOS', 'Tetraethoxysilane', 'Tetraethoxysilicon', 'Tetraethyl orthosilicate', 'Tetraethyl silicate', 'WLN: 2O-SI-O2&O2&O2', '86578_FLUKA', '333859_ALDRICH', 'EINECS 234-324-0', 'Polysilicic acid, ethyl ester', 'Silicic acid (H4SiO4), tetraethyl ester, homopolymer', 'Silicic acid, ethyl ester', 'Silicic acid, tetraethylester polymer', 'Tetraethyl orthosilicate polymer', '131903_ALDRICH', 'LS-145321', '4-01-00-01360 (Beilstein Handbook Reference)', 'AI3-15098', 'BRN 1422225', 'EINECS 201-083-8', 'ES 100', 'ES 28', 'ES 28 (ester)', 'ETHYL SILICATE', 'Etylu krzemian [Polish]', 'HSDB 534', 'NSC 4790', 'Orthosilicic acid, tetraethyl ester', "Silicate d'ethyle [French]", 'Silicate tetraethylique [French]', 'Silicic acid, (H4SiO4), tetraethyl ester', 'Silikan L', 'TEOS (VAN)', 'Tetraethyl silicate [UN1292]  [Flammable liquid]', 'Tetraethyl-O-silicate', 'Tetraethylsilikat [Czech]', 'UN1292', 'Orthosilicic acid tetraethyl ester', 'ST5214498', 'EINECS 270-184-7', 'Hydrolyzed tetraethyl orthosilicate', 'Silicic acid (H4SiO4), tetraethyl ester, hydrolyzed', 'Silicic acid, (H4SiO4), tetraethyl ester, hydrolyzed']</text></svg>

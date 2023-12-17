@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 30.0,256.4 L 94.0,230.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 94.0,230.7 L 158.0,205.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 194.4,212.1 L 247.2,253.6' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 247.2,253.6 L 300.0,295.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 300.0,295.1 L 446.2,236.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 446.2,236.5 L 570.0,333.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-3 atom-5' d='M 446.2,236.5 L 455.9,168.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-3 atom-5' d='M 455.9,168.5 L 465.6,100.5' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 297.4,293.0 L 300.0,295.1 L 307.3,292.1' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-1' d='M 163.2 197.9
+Q 163.2 191.1, 166.5 187.3
+Q 169.9 183.5, 176.2 183.5
+Q 182.4 183.5, 185.8 187.3
+Q 189.2 191.1, 189.2 197.9
+Q 189.2 204.8, 185.8 208.7
+Q 182.4 212.6, 176.2 212.6
+Q 169.9 212.6, 166.5 208.7
+Q 163.2 204.8, 163.2 197.9
+M 176.2 209.4
+Q 180.5 209.4, 182.8 206.5
+Q 185.2 203.6, 185.2 197.9
+Q 185.2 192.3, 182.8 189.5
+Q 180.5 186.7, 176.2 186.7
+Q 171.8 186.7, 169.5 189.5
+Q 167.2 192.3, 167.2 197.9
+Q 167.2 203.6, 169.5 206.5
+Q 171.8 209.4, 176.2 209.4
+' fill='#FF0000'/>
+<path class='atom-5' d='M 455.5 80.7
+Q 455.5 73.9, 458.8 70.1
+Q 462.2 66.3, 468.5 66.3
+Q 474.8 66.3, 478.1 70.1
+Q 481.5 73.9, 481.5 80.7
+Q 481.5 87.5, 478.1 91.5
+Q 474.7 95.3, 468.5 95.3
+Q 462.2 95.3, 458.8 91.5
+Q 455.5 87.6, 455.5 80.7
+M 468.5 92.1
+Q 472.8 92.1, 475.1 89.3
+Q 477.5 86.3, 477.5 80.7
+Q 477.5 75.1, 475.1 72.3
+Q 472.8 69.5, 468.5 69.5
+Q 464.2 69.5, 461.8 72.3
+Q 459.5 75.1, 459.5 80.7
+Q 459.5 86.4, 461.8 89.3
+Q 464.2 92.1, 468.5 92.1
+' fill='#FF0000'/>
+<path class='atom-5' d='M 485.9 66.6
+L 489.7 66.6
+L 489.7 78.6
+L 504.2 78.6
+L 504.2 66.6
+L 508.1 66.6
+L 508.1 94.9
+L 504.2 94.9
+L 504.2 81.8
+L 489.7 81.8
+L 489.7 94.9
+L 485.9 94.9
+L 485.9 66.6
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:107-98-2  ---  MW: 90.1218</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: COCC(C)O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C4H10O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: 1-methoxy-2-propanol</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 1-Methoxypropan-2-ol</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['1-Methoxypropan-2-ol', '107-98-2', '58769-19-0', '65280_FLUKA', 'InChI=1/C4H10O2/c1-4(5)3-6-2/h4-5H,3H2,1-2H', '484407_ALDRICH', 'Propyleneglycol monomethyl ether', '1-Methoxy-2-propanol [UN3092]  [Flammable liquid]', '1-Methoxypropan-2-ol', '3-01-00-02146 (Beilstein Handbook Reference)', 'AI3-15573', 'BRN 1731270', 'Closol', 'Dowanol 33B', 'EINECS 203-539-1', 'HSDB 1016', 'Methoxyisopropanol', 'Methyl proxitol', 'NSC 2409', 'PGME', 'Poly-Solve MPM', 'Propasol solvent M', 'Propylene glycol monomethyl ether', 'UN3092', 'Ucar Solvent LM (Obs.)', '65692_FLUKA', '.alpha.-Propylene glycol monomethyl ether', '1-Methoxy-2-hydroxypropane', '1-Methoxy-2-propanol', '2-Methoxy-1-methylethanol', '2-Propanol, 1-methoxy-', 'Dowanol-33B', 'Dowtherm 209', 'NSC2409', 'Propylene glycol methyl ether', 'Propylenglykol-monomethylaether', 'WLN: QY1 & 1O1']</text></svg>

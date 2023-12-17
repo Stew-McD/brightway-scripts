@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 38.3,267.2 L 295.8,118.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 295.8,118.6 L 415.4,187.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 415.4,187.7 L 535.0,256.7' style='fill:none;fill-rule:evenodd;stroke:#33CCCC;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 282.9,126.0 L 295.8,118.6 L 301.8,122.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-2' d='M 544.9 253.1
+L 561.7 253.1
+L 561.7 256.3
+L 548.7 256.3
+L 548.7 264.9
+L 560.3 264.9
+L 560.3 268.2
+L 548.7 268.2
+L 548.7 281.4
+L 544.9 281.4
+L 544.9 253.1
+' fill='#33CCCC'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:24981-14-4  ---  MW: 48.0599</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CCF</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C2H5F</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: polyvinylfluoride</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: FLUOROETHANE</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['FLUOROETHANE', '353-36-6', '24981-14-4', '95508-16-0', 'POLY(VINYL FLUORIDE)', 'BRN 1730748', 'EINECS 206-531-6', 'Ethane, fluoro-', 'Ethyl fluoride', 'Ethyl fluoride or Refrigerant gas R161 [UN2453]  [Flammable gas]', 'FLUOROETHANE', 'HFC 161', 'Monofluoroethane', 'R 161', 'UN2453', 'InChI=1/C2H5F/c1-2-3/h2H2,1H', 'FCH2CH2', 'Polyvinyl fluoride', 'CH2CH2F', 'Ethene, fluoro-, homopolymer']</text></svg>

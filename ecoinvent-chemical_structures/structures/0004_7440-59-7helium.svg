@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 277.1 185.7
+L 281.0 185.7
+L 281.0 197.7
+L 295.4 197.7
+L 295.4 185.7
+L 299.3 185.7
+L 299.3 214.0
+L 295.4 214.0
+L 295.4 200.9
+L 281.0 200.9
+L 281.0 214.0
+L 277.1 214.0
+L 277.1 185.7
+' fill='#000000'/>
+<path class='atom-0' d='M 304.7 203.7
+Q 304.7 198.6, 307.2 195.9
+Q 309.7 193.1, 314.3 193.1
+Q 318.8 193.1, 320.8 195.8
+Q 322.9 198.5, 322.9 203.6
+L 322.9 204.2
+L 308.5 204.2
+Q 308.6 207.7, 310.2 209.5
+Q 311.7 211.4, 314.6 211.4
+Q 316.2 211.4, 317.7 211.0
+Q 319.2 210.6, 321.0 209.8
+L 322.1 212.4
+Q 320.0 213.4, 318.2 213.9
+Q 316.4 214.3, 314.4 214.3
+Q 309.8 214.3, 307.2 211.5
+Q 304.7 208.7, 304.7 203.7
+M 314.3 196.0
+Q 312.0 196.0, 310.5 197.4
+Q 309.1 198.8, 308.7 201.4
+L 318.9 201.4
+Q 318.6 198.6, 317.5 197.4
+Q 316.4 196.0, 314.3 196.0
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7440-59-7  ---  MW: 4.0026</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [He]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: He</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: helium</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: HELIUM</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['HELIUM', '14762-55-1', '71086-78-7', '494798-31-1', '7440-59-7', 'EINECS 275-187-7', 'Atomic helium', 'EINECS 231-168-5', 'HELIUM', 'HSDB 553', 'Helium, compressed [UN1046]  [Nonflammable gas]', 'Helium, refrigerated liquid (cryogenic liquid) [UN1963]  [Nonflammable gas]', 'Helium-4', 'O-Helium', 'UN1046', 'UN1963', 'p-Helium', 'CHEBI:33681', 'He', '[He]', 'helium(0)', 'D04420', 'Helium (USP)', '(3He)helium', '3He', 'EINECS 238-822-9', 'Helium, isotope of mass 3', 'Helium-3', '295345_ALDRICH', '2He', 'CHEBI:30217', 'helio']</text></svg>

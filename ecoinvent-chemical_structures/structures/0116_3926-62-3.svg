@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-1 atom-2' d='M 472.5,348.2 L 417.9,316.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-1 atom-2' d='M 417.9,316.7 L 363.4,285.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 374.4,291.6 L 374.4,224.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 374.4,224.9 L 374.4,158.2' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 352.4,291.6 L 352.4,224.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 352.4,224.9 L 352.4,158.2' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-4' d='M 363.4,285.2 L 236.4,358.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-4 atom-5' d='M 236.4,358.5 L 176.3,323.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-4 atom-5' d='M 176.3,323.8 L 116.2,289.1' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 366.1,286.8 L 363.4,285.2 L 357.0,288.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 242.8,354.8 L 236.4,358.5 L 233.4,356.8' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 306.4 26.7
+L 315.6 41.7
+Q 316.6 43.2, 318.0 45.9
+Q 319.5 48.6, 319.6 48.7
+L 319.6 26.7
+L 323.4 26.7
+L 323.4 55.1
+L 319.5 55.1
+L 309.5 38.7
+Q 308.4 36.7, 307.1 34.5
+Q 305.9 32.3, 305.6 31.7
+L 305.6 55.1
+L 301.9 55.1
+L 301.9 26.7
+L 306.4 26.7
+' fill='#000000'/>
+<path class='atom-0' d='M 328.6 49.5
+Q 328.6 46.2, 331.2 44.4
+Q 333.9 42.6, 338.7 42.6
+L 341.7 42.6
+L 341.7 41.8
+Q 341.7 39.3, 340.7 38.2
+Q 339.6 37.1, 337.1 37.1
+Q 335.4 37.1, 334.1 37.4
+Q 332.9 37.7, 330.9 38.6
+L 329.7 36.0
+Q 333.5 34.1, 337.1 34.1
+Q 341.5 34.1, 343.5 36.0
+Q 345.5 37.9, 345.5 41.9
+L 345.5 55.1
+L 342.6 55.1
+Q 342.5 54.9, 342.4 54.3
+Q 342.3 53.7, 342.1 52.7
+Q 339.2 55.5, 335.3 55.5
+Q 332.3 55.5, 330.4 53.9
+Q 328.6 52.3, 328.6 49.5
+M 332.3 49.4
+Q 332.3 50.9, 333.3 51.8
+Q 334.3 52.6, 336.1 52.6
+Q 337.7 52.6, 339.2 51.9
+Q 340.7 51.1, 341.7 49.8
+L 341.7 45.4
+L 338.9 45.4
+Q 335.7 45.4, 334.0 46.4
+Q 332.3 47.4, 332.3 49.4
+' fill='#000000'/>
+<path class='atom-0' d='M 350.5 35.3
+L 355.5 35.3
+L 355.5 30.0
+L 357.7 30.0
+L 357.7 35.3
+L 362.8 35.3
+L 362.8 37.2
+L 357.7 37.2
+L 357.7 42.5
+L 355.5 42.5
+L 355.5 37.2
+L 350.5 37.2
+L 350.5 35.3
+' fill='#000000'/>
+<path class='atom-1' d='M 477.3 358.6
+Q 477.3 351.8, 480.7 348.0
+Q 484.1 344.2, 490.3 344.2
+Q 496.6 344.2, 500.0 348.0
+Q 503.3 351.8, 503.3 358.6
+Q 503.3 365.5, 499.9 369.4
+Q 496.5 373.3, 490.3 373.3
+Q 484.1 373.3, 480.7 369.4
+Q 477.3 365.5, 477.3 358.6
+M 490.3 370.1
+Q 494.7 370.1, 497.0 367.2
+Q 499.3 364.3, 499.3 358.6
+Q 499.3 353.0, 497.0 350.2
+Q 494.7 347.4, 490.3 347.4
+Q 486.0 347.4, 483.7 350.2
+Q 481.3 353.0, 481.3 358.6
+Q 481.3 364.3, 483.7 367.2
+Q 486.0 370.1, 490.3 370.1
+' fill='#FF0000'/>
+<path class='atom-1' d='M 507.4 348.8
+L 517.1 348.8
+L 517.1 350.9
+L 507.4 350.9
+L 507.4 348.8
+' fill='#FF0000'/>
+<path class='atom-3' d='M 350.4 138.7
+Q 350.4 131.9, 353.8 128.1
+Q 357.1 124.3, 363.4 124.3
+Q 369.7 124.3, 373.0 128.1
+Q 376.4 131.9, 376.4 138.7
+Q 376.4 145.6, 373.0 149.5
+Q 369.6 153.4, 363.4 153.4
+Q 357.2 153.4, 353.8 149.5
+Q 350.4 145.6, 350.4 138.7
+M 363.4 150.2
+Q 367.7 150.2, 370.0 147.3
+Q 372.4 144.4, 372.4 138.7
+Q 372.4 133.1, 370.0 130.3
+Q 367.7 127.5, 363.4 127.5
+Q 359.1 127.5, 356.7 130.3
+Q 354.4 133.1, 354.4 138.7
+Q 354.4 144.4, 356.7 147.3
+Q 359.1 150.2, 363.4 150.2
+' fill='#FF0000'/>
+<path class='atom-5' d='M 82.9 286.2
+Q 82.9 279.1, 86.2 275.5
+Q 89.5 271.7, 95.8 271.7
+Q 101.7 271.7, 104.8 275.9
+L 102.1 278.0
+Q 99.9 275.0, 95.8 275.0
+Q 91.5 275.0, 89.3 277.9
+Q 87.0 280.7, 87.0 286.2
+Q 87.0 291.8, 89.3 294.7
+Q 91.7 297.5, 96.3 297.5
+Q 99.4 297.5, 103.0 295.7
+L 104.1 298.7
+Q 102.7 299.6, 100.4 300.2
+Q 98.2 300.7, 95.7 300.7
+Q 89.5 300.7, 86.2 297.0
+Q 82.9 293.2, 82.9 286.2
+' fill='#00CC00'/>
+<path class='atom-5' d='M 107.7 270.0
+L 111.3 270.0
+L 111.3 300.4
+L 107.7 300.4
+L 107.7 270.0
+' fill='#00CC00'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:3926-62-3  ---  MW: 116.4794</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Na+].[O-]C(=O)CCl</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C2H2ClNaO2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: sodium chloroacetate</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: sodium 2-chloroacetate</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['sodium 2-chloroacetate', 'sodium 2-chloroethanoate', '3926-62-3', '291773_ALDRICH', '24610_FLUKA', 'Acetic acid, chloro-, sodium salt', 'Caswell No. 755A', 'Chloroacetic acid sodium salt', 'Chloroctan sodny [Czech]', 'Dow defoliant', 'EINECS 223-498-3', 'EPA Pesticide Chemical Code 355200', 'Monoxone', 'SMCA', 'Sodium chloroacetate', 'Sodium chloroacetate [UN2659]  [Poison]', 'Sodium monochloracetate', 'Sodium monochloroacetate', 'UN2659']</text></svg>

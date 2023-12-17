@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 147.1,288.1 L 281.8,210.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 318.2,189.3 L 452.9,111.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 311.6,219.9 L 344.4,276.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 344.4,276.6 L 377.1,333.4' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-1 atom-4' d='M 288.5,179.9 L 254.0,120.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-1 atom-4' d='M 254.0,120.1 L 219.4,60.2' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-1' d='M 288.7 209.6
+Q 289.0 209.7, 290.3 210.3
+Q 291.6 210.8, 293.1 211.2
+Q 294.6 211.5, 296.0 211.5
+Q 298.7 211.5, 300.2 210.2
+Q 301.8 208.9, 301.8 206.6
+Q 301.8 205.1, 301.0 204.1
+Q 300.2 203.1, 299.0 202.6
+Q 297.8 202.1, 295.8 201.5
+Q 293.3 200.7, 291.8 200.0
+Q 290.3 199.3, 289.2 197.8
+Q 288.2 196.3, 288.2 193.7
+Q 288.2 190.1, 290.6 187.9
+Q 293.0 185.7, 297.8 185.7
+Q 301.1 185.7, 304.8 187.3
+L 303.9 190.4
+Q 300.5 189.0, 298.0 189.0
+Q 295.2 189.0, 293.7 190.1
+Q 292.2 191.3, 292.2 193.2
+Q 292.2 194.7, 293.0 195.7
+Q 293.8 196.6, 294.9 197.1
+Q 296.0 197.6, 298.0 198.2
+Q 300.5 199.0, 302.0 199.8
+Q 303.6 200.6, 304.6 202.3
+Q 305.8 203.9, 305.8 206.6
+Q 305.8 210.5, 303.1 212.7
+Q 300.5 214.7, 296.2 214.7
+Q 293.6 214.7, 291.7 214.2
+Q 289.8 213.7, 287.6 212.7
+L 288.7 209.6
+' fill='#000000'/>
+<path class='atom-1' d='M 308.7 185.7
+L 312.4 185.7
+L 312.4 189.1
+L 308.7 189.1
+L 308.7 185.7
+M 308.7 193.4
+L 312.4 193.4
+L 312.4 214.0
+L 308.7 214.0
+L 308.7 193.4
+' fill='#000000'/>
+<path class='atom-3' d='M 377.3 353.7
+Q 377.3 346.6, 380.6 343.0
+Q 383.9 339.2, 390.2 339.2
+Q 396.1 339.2, 399.2 343.4
+L 396.5 345.5
+Q 394.3 342.5, 390.2 342.5
+Q 385.9 342.5, 383.7 345.4
+Q 381.4 348.2, 381.4 353.7
+Q 381.4 359.3, 383.7 362.2
+Q 386.1 365.0, 390.7 365.0
+Q 393.8 365.0, 397.4 363.2
+L 398.5 366.2
+Q 397.1 367.1, 394.8 367.7
+Q 392.6 368.2, 390.1 368.2
+Q 383.9 368.2, 380.6 364.5
+Q 377.3 360.7, 377.3 353.7
+' fill='#00CC00'/>
+<path class='atom-3' d='M 402.1 337.5
+L 405.7 337.5
+L 405.7 367.9
+L 402.1 367.9
+L 402.1 337.5
+' fill='#00CC00'/>
+<path class='atom-4' d='M 185.2 47.9
+Q 185.2 40.9, 188.5 37.2
+Q 191.8 33.5, 198.1 33.5
+Q 203.9 33.5, 207.0 37.6
+L 204.4 39.8
+Q 202.1 36.8, 198.1 36.8
+Q 193.8 36.8, 191.5 39.6
+Q 189.3 42.5, 189.3 47.9
+Q 189.3 53.5, 191.6 56.4
+Q 193.9 59.3, 198.5 59.3
+Q 201.6 59.3, 205.3 57.4
+L 206.4 60.4
+Q 204.9 61.4, 202.7 61.9
+Q 200.4 62.5, 197.9 62.5
+Q 191.8 62.5, 188.5 58.7
+Q 185.2 55.0, 185.2 47.9
+' fill='#00CC00'/>
+<path class='atom-4' d='M 209.9 31.8
+L 213.6 31.8
+L 213.6 62.1
+L 209.9 62.1
+L 209.9 31.8
+' fill='#00CC00'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:75-78-5  ---  MW: 129.0614</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: C[Si](C)(Cl)Cl</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C2H6Cl2Si</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: dimethyldichlorosilane</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: dichloro-dimethylsilane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['dichloro-dimethylsilane', 'dichloro-dimethyl-silane', '75-78-5', 'WLN: G-SI-G1&1', '40140_FLUKA', 'InChI=1/C2H6Cl2Si/c1-5(2,3)4/h1-2H', '80430_FLUKA', 'Silane M2', '440272_ALDRICH', 'Dow Corning product Z-1219', '85127_FLUKA', 'Fluka gel repel II', '33009_SUPELCO', 'DMDCS', 'Silanization solution II', '4-04-00-04111 (Beilstein Handbook Reference)', 'AI3-51462', 'BRN 0605287', 'CCRIS 783', 'Dichloro(dimethyl)silane', 'Dimethyl-dichlorsilan [Czech]', 'Dimethyldichlorosilane [UN1162]  [Flammable liquid]', 'Dimethylsilane dichloride', 'EINECS 200-901-0', 'HSDB 361', 'Inerton dw-dmc', 'LS 130', 'NSC 77070', 'Repel-Silan', 'UN1162', '85121_FLUKA', 'Dimethyldichlorosilane/o-Xylene 1/19 (v/v)', 'Silanization solution V', '40136_FLUKA', '85126_FLUKA', 'Fluka gel repel I', 'Silanization solution I', '40150_FLUKA', '33065U_SUPELCO', 'Dichlorodimethylsilane solution', 'Dimethyldichlorosilane solution', 'Sylon CT', 'Dichlorodimethylsilane', 'Dichlorodimethylsilicon', 'Dimethyl-dichlorsilan', 'Dimethyldichlorosilane', 'Inerton AW-DMCS', 'NSC77070', 'Silane, dichlorodimethyl-']</text></svg>

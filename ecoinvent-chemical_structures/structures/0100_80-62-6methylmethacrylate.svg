@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 47.9,159.6 L 110.2,140.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 110.2,140.1 L 172.4,120.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 208.2,131.6 L 254.1,173.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 254.1,173.8 L 300.0,216.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 290.5,207.3 L 275.6,273.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 275.6,273.6 L 260.8,339.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 312.3,212.2 L 297.5,278.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 297.5,278.5 L 282.6,344.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-4' d='M 300.0,216.1 L 442.3,171.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 442.3,171.6 L 552.1,272.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-4 atom-6' d='M 451.8,180.3 L 485.9,28.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-4 atom-6' d='M 430.0,175.5 L 464.1,23.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 297.7,214.0 L 300.0,216.1 L 307.1,213.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 435.2,173.8 L 442.3,171.6 L 447.8,176.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-1' d='M 177.3 115.1
+Q 177.3 108.3, 180.7 104.5
+Q 184.0 100.7, 190.3 100.7
+Q 196.6 100.7, 199.9 104.5
+Q 203.3 108.3, 203.3 115.1
+Q 203.3 122.0, 199.9 125.9
+Q 196.5 129.8, 190.3 129.8
+Q 184.1 129.8, 180.7 125.9
+Q 177.3 122.1, 177.3 115.1
+M 190.3 126.6
+Q 194.6 126.6, 196.9 123.7
+Q 199.3 120.8, 199.3 115.1
+Q 199.3 109.6, 196.9 106.8
+Q 194.6 103.9, 190.3 103.9
+Q 186.0 103.9, 183.6 106.7
+Q 181.3 109.5, 181.3 115.1
+Q 181.3 120.9, 183.6 123.7
+Q 186.0 126.6, 190.3 126.6
+' fill='#FF0000'/>
+<path class='atom-3' d='M 254.4 361.7
+Q 254.4 354.9, 257.7 351.1
+Q 261.1 347.3, 267.4 347.3
+Q 273.6 347.3, 277.0 351.1
+Q 280.4 354.9, 280.4 361.7
+Q 280.4 368.6, 277.0 372.5
+Q 273.6 376.4, 267.4 376.4
+Q 261.1 376.4, 257.7 372.5
+Q 254.4 368.6, 254.4 361.7
+M 267.4 373.2
+Q 271.7 373.2, 274.0 370.3
+Q 276.4 367.4, 276.4 361.7
+Q 276.4 356.1, 274.0 353.3
+Q 271.7 350.5, 267.4 350.5
+Q 263.0 350.5, 260.7 353.3
+Q 258.4 356.1, 258.4 361.7
+Q 258.4 367.4, 260.7 370.3
+Q 263.0 373.2, 267.4 373.2
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:80-62-6  ---  MW: 100.117</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: COC(=O)C(C)=C</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C5H8O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: methyl methacrylate</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: methyl 2-methylprop-2-enoate</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['methyl 2-methylprop-2-enoate', '2-methylprop-2-enoic acid methyl ester', '2-methylacrylic acid methyl ester', '9065-11-6', '80-62-6', '162221-54-7', '220713-32-6', '64200_FLUKA', 'M55909_ALDRICH', 'NCGC00091089-01', 'InChI=1/C5H8O2/c1-4(2)5(6)7-3/h1H2,2-3H', 'PROPENOIC ACID,2-METHYL,METHYLESTER  (METHACRYLATE METHYLESTER)', 'methyl 2-methylacrylate', 'C14527', '2-(Methoxycarbonyl)-1-propene', '2-Methyl-2-propenoic acid methyl ester', '4-02-00-01519 (Beilstein Handbook Reference)', 'AI3-24946', 'Acryester M', 'Acrylic acid, 2-methyl-, methyl ester', 'BRN 0605459', 'CCRIS 1364', 'EINECS 201-297-1', 'HSDB 195', 'Metakrylan metylu [Polish]', 'Methacrylate de methyle [French]', 'Methacrylsaeuremethyl ester [German]', 'Methyl methacrylate monomer', 'Methyl methacrylate monomer, inhibited [UN1247]  [Flammable liquid]', 'Methyl-methacrylat [German]', 'Methylester kyseliny methakrylove [Czech]', 'Methylmethacrylaat [Dutch]', 'Methylmethacrylate', 'Metil metacrilato [Italian]', 'NSC 4769', 'RCRA waste no. U162', 'RCRA waste number U162', 'TEB 3K', 'UN1247', '2-Methylacrylic acid, methyl ester', '2-Propenoic acid, 2-methyl-, methyl ester', 'Diakon', 'MME', 'Metakrylan metylu', 'Methacrylate de methyle', 'Methacrylic acid methyl ester', 'Methacrylic acid, methyl ester', 'Methacrylsaeuremethyl ester', 'Methyl .alpha.-methylacrylate', 'Methyl 2-methyl-2-propenoate', 'Methyl 2-methylpropenoate', 'Methyl methacrylate', 'Methyl methacrylate monomer, inhibited', 'Methyl methylacrylate', 'Methyl-methacrylat', 'Methylmethacrylaat', 'Metil metacrilato', 'NCI-C50680', 'NSC4769', 'Pegalan', 'WLN: 1UY1&VO1', 'monocite" Methacrylate monomer', 'ZINC01680392', 'Eudragit', 'W400201_ALDRICH']</text></svg>

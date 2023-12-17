@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 477.3,81.1 L 411.5,119.0' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 411.5,119.0 L 345.8,157.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 332.9,149.6 L 332.9,228.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 332.9,228.7 L 332.9,307.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 358.6,149.6 L 358.6,228.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 358.6,228.7 L 358.6,307.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 345.8,157.0 L 197.9,71.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 197.9,71.6 L 50.0,157.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 197.9,101.2 L 62.8,179.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 349.0,155.1 L 345.8,157.0 L 338.4,152.7' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 205.2,75.9 L 197.9,71.6 L 190.5,75.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 487.4 57.5
+L 496.7 72.5
+Q 497.6 73.9, 499.1 76.6
+Q 500.5 79.3, 500.6 79.5
+L 500.6 57.5
+L 504.4 57.5
+L 504.4 85.8
+L 500.5 85.8
+L 490.5 69.4
+Q 489.4 67.5, 488.1 65.3
+Q 486.9 63.1, 486.6 62.4
+L 486.6 85.8
+L 482.9 85.8
+L 482.9 57.5
+L 487.4 57.5
+' fill='#0000FF'/>
+<path class='atom-0' d='M 509.8 57.5
+L 513.6 57.5
+L 513.6 69.5
+L 528.1 69.5
+L 528.1 57.5
+L 532.0 57.5
+L 532.0 85.8
+L 528.1 85.8
+L 528.1 72.7
+L 513.6 72.7
+L 513.6 85.8
+L 509.8 85.8
+L 509.8 57.5
+' fill='#0000FF'/>
+<path class='atom-0' d='M 537.5 84.8
+Q 538.2 83.0, 539.8 82.0
+Q 541.5 81.0, 543.7 81.0
+Q 546.6 81.0, 548.1 82.6
+Q 549.7 84.1, 549.7 86.8
+Q 549.7 89.6, 547.7 92.2
+Q 545.6 94.8, 541.4 97.8
+L 550.0 97.8
+L 550.0 99.9
+L 537.5 99.9
+L 537.5 98.2
+Q 540.9 95.7, 543.0 93.8
+Q 545.1 92.0, 546.1 90.3
+Q 547.1 88.7, 547.1 86.9
+Q 547.1 85.2, 546.2 84.2
+Q 545.3 83.1, 543.7 83.1
+Q 542.2 83.1, 541.2 83.8
+Q 540.2 84.4, 539.5 85.7
+L 537.5 84.8
+' fill='#0000FF'/>
+<path class='atom-2' d='M 332.8 327.9
+Q 332.8 321.1, 336.1 317.3
+Q 339.5 313.5, 345.8 313.5
+Q 352.0 313.5, 355.4 317.3
+Q 358.8 321.1, 358.8 327.9
+Q 358.8 334.7, 355.4 338.7
+Q 352.0 342.5, 345.8 342.5
+Q 339.5 342.5, 336.1 338.7
+Q 332.8 334.8, 332.8 327.9
+M 345.8 339.3
+Q 350.1 339.3, 352.4 336.5
+Q 354.8 333.5, 354.8 327.9
+Q 354.8 322.3, 352.4 319.5
+Q 350.1 316.7, 345.8 316.7
+Q 341.4 316.7, 339.1 319.5
+Q 336.8 322.3, 336.8 327.9
+Q 336.8 333.6, 339.1 336.5
+Q 341.4 339.3, 345.8 339.3
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:79-06-1  ---  MW: 71.0786</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: NC(=O)C=C</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C3H5NO</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: polyacrylamide</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: prop-2-enamide</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['prop-2-enamide', 'Acrylamide', '79-06-1', '9003-05-8', 'Superfloc 84', 'Acrylic amide', 'Akrylamid', 'Ethylenecarboxamide', 'NSC7785', 'Propenamide', 'WLN: ZV1U1', 'Superfloc 900', 'Sursolan P 5', 'Taloflote', 'Acrylamide polymers', 'Acrylamide, polymer', 'Versicol W 11', 'NSC116574', 'A3553_SIGMA', '2-Propenamide', 'Acrylamide', 'C01659', 'NSC116575', '434930_ALDRICH', 'A9099_SIGMA', 'Polyacrylamide solution', '4-02-00-01471 (Beilstein Handbook Reference)', 'AI3-04119', 'Acrylagel', 'Acrylamide [UN2074]  [Poison]', 'Acrylamide solution', 'Acrylamide solution (50% or less)', 'Acrylic acid amide', 'Akrylamid [Czech]', 'Amid kyseliny akrylove [Czech]', 'Amresco Acryl-40', 'BRN 0605349', 'CCRIS 7', 'EINECS 201-173-7', 'HSDB 191', 'NSC 7785', 'Optimum', 'Propeneamide', 'Propenoic acid amide', 'RCRA waste no. U007', 'RCRA waste number U007', 'UN2074', 'Vinyl amide', 'A5934_SIGMA', 'AIDS-018361', 'NSC116573', 'AIDS018361', '01696_FLUKA', '01697_FLUKA', '2-Propeneamide', 'Acrylamide Monome', 'Amide propenoic acid', 'Ethylene Carboxamide', 'c0149', '434949_ALDRICH', '01698_FLUKA', 'A8887_SIGMA', 'PAA-25', 'NCGC00090736-02', 'CHEBI:28619', 'prop-2-enamide', '23701_FLUKA', 'NCGC00090736-03', 'NCGC00090736-01', 'A4058_SIGMA', 'InChI=1/C3H5NO/c1-2-3(4)5/h2H,1H2,(H2,4,5', 'ZINC00901075', 'NSC118185', '2-Propenamide, homopolymer', 'AP 273', 'Acrylamide homopolymer', 'Acrylamide polymer', 'Acrylamide, polymers', 'Aerofloc 3453', 'American Cyanamid KPAM', 'American Cyanamid P-250', 'Aminogen PA', 'Bio-Gel P 2', 'BioGel P-100', 'Cyanamer P 250', 'Cyanamer P 35', 'Cytame 5', 'Dow ET 597', 'Dow J 100', 'ET 597', 'Flokonit E', 'Flygtol GB', 'Gelamide 250', 'Himoloc OK 507', 'Himoloc SS 200', 'J 100', 'J 100 (polymer)', 'K 4 (acrylic polymer)', 'K-PAM', 'Magnafloc R 292', 'Nacolyte 673', 'P 250', 'P 250 (polymer)', 'P 300', 'PAA 1 (homopolymer)', 'PAA 70L', 'PAA-1', 'PAARK 123sh', 'PAM (polymer)', 'PAM-50', 'POLYACRYLAMIDE', 'Pamid', 'Percol 720', 'Polyacrylamide resin', 'Polyhall 27', 'Polyhall 402', 'Polystolon', 'Polystoron', 'Porisutoron', 'Praestol 2800', 'Q 41F', 'Reten 420', 'Sanpoly A 520', 'Solvitose 433', 'Stipix AD', 'Stokopol D 2624', 'Sumirez A 17', 'Sumirez A 27', 'Sumitex A 1']</text></svg>

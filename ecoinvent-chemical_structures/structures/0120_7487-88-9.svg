@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-1 atom-2' d='M 97.6,267.2 L 148.8,237.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-1 atom-2' d='M 148.8,237.7 L 199.9,208.2' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 229.0,191.4 L 284.0,159.6' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 284.0,159.6 L 339.1,127.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-4' d='M 215.5,226.3 L 245.2,277.8' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-4' d='M 245.2,277.8 L 274.9,329.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-4' d='M 236.9,213.9 L 266.7,265.4' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-4' d='M 266.7,265.4 L 296.4,316.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-5' d='M 213.9,174.0 L 184.1,122.4' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-5' d='M 184.1,122.4 L 154.2,70.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-5' d='M 192.4,186.4 L 162.6,134.7' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-5' d='M 162.6,134.7 L 132.8,83.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 483.9 213.9
+L 480.2 213.9
+L 477.3 190.8
+L 469.6 213.9
+L 465.8 213.9
+L 458.1 190.8
+L 455.2 213.9
+L 451.5 213.9
+L 455.1 185.6
+L 459.9 185.6
+L 467.7 208.4
+L 475.5 185.6
+L 480.3 185.6
+L 483.9 213.9
+' fill='#000000'/>
+<path class='atom-0' d='M 507.4 193.3
+L 507.4 215.1
+Q 507.4 224.0, 498.0 224.0
+Q 493.5 224.0, 489.5 221.9
+L 490.7 219.1
+Q 492.9 220.2, 494.5 220.6
+Q 496.0 221.0, 498.0 221.0
+Q 501.0 221.0, 502.3 219.7
+Q 503.6 218.3, 503.6 215.2
+L 503.6 211.6
+Q 501.5 214.3, 497.7 214.3
+Q 493.5 214.3, 491.1 211.6
+Q 488.7 208.9, 488.7 204.0
+Q 488.7 198.8, 491.5 195.9
+Q 494.3 193.0, 499.3 193.0
+Q 501.9 193.0, 504.3 193.8
+L 504.4 193.3
+L 507.4 193.3
+M 498.0 211.3
+Q 500.1 211.3, 501.5 210.2
+Q 503.1 209.0, 503.6 207.0
+L 503.6 196.6
+Q 501.6 196.0, 499.3 196.0
+Q 496.1 196.0, 494.3 198.1
+Q 492.5 200.2, 492.5 204.0
+Q 492.5 207.5, 493.9 209.4
+Q 495.4 211.3, 498.0 211.3
+' fill='#000000'/>
+<path class='atom-0' d='M 513.0 183.3
+Q 513.7 181.5, 515.3 180.6
+Q 516.9 179.6, 519.2 179.6
+Q 522.0 179.6, 523.6 181.1
+Q 525.2 182.6, 525.2 185.3
+Q 525.2 188.1, 523.1 190.7
+Q 521.1 193.3, 516.9 196.3
+L 525.5 196.3
+L 525.5 198.5
+L 512.9 198.5
+L 512.9 196.7
+Q 516.4 194.2, 518.5 192.4
+Q 520.5 190.5, 521.5 188.9
+Q 522.6 187.2, 522.6 185.5
+Q 522.6 183.7, 521.7 182.7
+Q 520.8 181.7, 519.2 181.7
+Q 517.7 181.7, 516.7 182.3
+Q 515.7 182.9, 515.0 184.2
+L 513.0 183.3
+' fill='#000000'/>
+<path class='atom-0' d='M 529.3 189.4
+L 534.3 189.4
+L 534.3 184.2
+L 536.5 184.2
+L 536.5 189.4
+L 541.6 189.4
+L 541.6 191.3
+L 536.5 191.3
+L 536.5 196.6
+L 534.3 196.6
+L 534.3 191.3
+L 529.3 191.3
+L 529.3 189.4
+' fill='#000000'/>
+<path class='atom-1' d='M 58.4 282.5
+Q 58.4 275.7, 61.7 271.9
+Q 65.1 268.1, 71.4 268.1
+Q 77.6 268.1, 81.0 271.9
+Q 84.4 275.7, 84.4 282.5
+Q 84.4 289.4, 81.0 293.3
+Q 77.6 297.2, 71.4 297.2
+Q 65.1 297.2, 61.7 293.3
+Q 58.4 289.4, 58.4 282.5
+M 71.4 294.0
+Q 75.7 294.0, 78.0 291.1
+Q 80.4 288.2, 80.4 282.5
+Q 80.4 276.9, 78.0 274.1
+Q 75.7 271.3, 71.4 271.3
+Q 67.0 271.3, 64.7 274.1
+Q 62.4 276.9, 62.4 282.5
+Q 62.4 288.2, 64.7 291.1
+Q 67.0 294.0, 71.4 294.0
+' fill='#FF0000'/>
+<path class='atom-1' d='M 88.4 272.7
+L 98.1 272.7
+L 98.1 274.8
+L 88.4 274.8
+L 88.4 272.7
+' fill='#FF0000'/>
+<path class='atom-2' d='M 206.5 209.5
+Q 206.8 209.6, 208.1 210.2
+Q 209.4 210.7, 210.9 211.1
+Q 212.3 211.4, 213.8 211.4
+Q 216.5 211.4, 218.0 210.1
+Q 219.6 208.8, 219.6 206.5
+Q 219.6 205.0, 218.8 204.0
+Q 218.0 203.1, 216.8 202.5
+Q 215.6 202.0, 213.6 201.4
+Q 211.1 200.7, 209.6 199.9
+Q 208.1 199.2, 207.0 197.7
+Q 206.0 196.2, 206.0 193.6
+Q 206.0 190.1, 208.4 187.9
+Q 210.8 185.7, 215.6 185.7
+Q 218.9 185.7, 222.6 187.2
+L 221.7 190.3
+Q 218.3 188.9, 215.7 188.9
+Q 213.0 188.9, 211.5 190.1
+Q 209.9 191.2, 210.0 193.1
+Q 210.0 194.7, 210.7 195.6
+Q 211.5 196.5, 212.7 197.0
+Q 213.8 197.5, 215.7 198.1
+Q 218.3 198.9, 219.8 199.7
+Q 221.3 200.5, 222.4 202.2
+Q 223.5 203.8, 223.5 206.5
+Q 223.5 210.5, 220.9 212.6
+Q 218.3 214.7, 213.9 214.7
+Q 211.4 214.7, 209.5 214.1
+Q 207.6 213.6, 205.4 212.7
+L 206.5 209.5
+' fill='#CCCC00'/>
+<path class='atom-3' d='M 344.5 117.2
+Q 344.5 110.4, 347.9 106.6
+Q 351.3 102.8, 357.5 102.8
+Q 363.8 102.8, 367.2 106.6
+Q 370.5 110.4, 370.5 117.2
+Q 370.5 124.1, 367.1 128.0
+Q 363.7 131.9, 357.5 131.9
+Q 351.3 131.9, 347.9 128.0
+Q 344.5 124.2, 344.5 117.2
+M 357.5 128.7
+Q 361.9 128.7, 364.2 125.8
+Q 366.5 122.9, 366.5 117.2
+Q 366.5 111.7, 364.2 108.9
+Q 361.9 106.0, 357.5 106.0
+Q 353.2 106.0, 350.9 108.8
+Q 348.5 111.6, 348.5 117.2
+Q 348.5 123.0, 350.9 125.8
+Q 353.2 128.7, 357.5 128.7
+' fill='#FF0000'/>
+<path class='atom-3' d='M 374.6 107.5
+L 384.3 107.5
+L 384.3 109.6
+L 374.6 109.6
+L 374.6 107.5
+' fill='#FF0000'/>
+<path class='atom-4' d='M 284.1 343.0
+Q 284.1 336.2, 287.4 332.4
+Q 290.8 328.6, 297.1 328.6
+Q 303.3 328.6, 306.7 332.4
+Q 310.1 336.2, 310.1 343.0
+Q 310.1 349.8, 306.7 353.8
+Q 303.3 357.6, 297.1 357.6
+Q 290.8 357.6, 287.4 353.8
+Q 284.1 349.9, 284.1 343.0
+M 297.1 354.4
+Q 301.4 354.4, 303.7 351.6
+Q 306.1 348.6, 306.1 343.0
+Q 306.1 337.4, 303.7 334.6
+Q 301.4 331.8, 297.1 331.8
+Q 292.7 331.8, 290.4 334.6
+Q 288.1 337.4, 288.1 343.0
+Q 288.1 348.7, 290.4 351.6
+Q 292.7 354.4, 297.1 354.4
+' fill='#FF0000'/>
+<path class='atom-5' d='M 118.8 56.8
+Q 118.8 50.0, 122.2 46.2
+Q 125.6 42.4, 131.8 42.4
+Q 138.1 42.4, 141.5 46.2
+Q 144.8 50.0, 144.8 56.8
+Q 144.8 63.6, 141.4 67.6
+Q 138.0 71.4, 131.8 71.4
+Q 125.6 71.4, 122.2 67.6
+Q 118.8 63.7, 118.8 56.8
+M 131.8 68.2
+Q 136.2 68.2, 138.5 65.4
+Q 140.8 62.4, 140.8 56.8
+Q 140.8 51.2, 138.5 48.4
+Q 136.2 45.6, 131.8 45.6
+Q 127.5 45.6, 125.2 48.4
+Q 122.8 51.2, 122.8 56.8
+Q 122.8 62.5, 125.2 65.4
+Q 127.5 68.2, 131.8 68.2
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7487-88-9  ---  MW: 120.3626</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Mg++].[O-][S]([O-])(=O)=O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: MgO4S</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: magnesium sulfate</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: MAGNESIUM SULFATE</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['MAGNESIUM SULFATE', '139939-75-6', '7487-88-9', '18939-43-0', '68081-97-0', '34276_RIEDEL', 'Magnesium sulfate solution', 'MgSO4', 'magnesium(II) sulfate', '63139_FLUKA', 'CHEBI:32599', 'Magnesiumsulfat', 'magnesium sulfate hexahydrate', '(C10-C16) Alkylalcohol sulfuric acid, magnesium salt', 'C10-C16 Alkyl alcohol sulfuric acid magnesium salt', 'EINECS 268-365-0', 'SDA 15-062-07', 'Sulfuric acid, C10-16 alkyl ester, magnesium salt', 'Sulfuric acid, mono-C10-16-alkyl esters, magnesium salts', 'M2643_SIGMA', '63126_FLUKA', 'M3409_SIGMA', '63136_FLUKA', '203726_ALDRICH', '38146_RIEDEL', 'M8150_SIGMA', 'Magnesium sulfate hydrate', 'M7506_SIAL', '00627_FLUKA', '208094_SIAL', 'AI3-02029', 'EINECS 242-691-3', 'Sulfuric acid, magnesium salt', '13143_RIEDEL', 'Caswell No. 534', 'EINECS 231-298-2', 'EPA Pesticide Chemical Code 050503', 'Epsom salt', 'HSDB 664', 'MAGNESIUM SULFATE', 'Magnesium sulfate (1:1)', 'Magnesium sulfate anhydrous', 'Magnesium sulphate', 'NSC 146179', 'OT-S', 'OT-S (drying agent)', 'Sal Angalis', 'Sal De sedlitz', 'Sulfuric acid magnesium salt', 'Sulfuric acid magnesium salt (1:1)', 'Sulfuric acid magnesium salt (VAN)', 'Sulfuric acid, magnesium salt (1:1)', 'Tomix OT']</text></svg>

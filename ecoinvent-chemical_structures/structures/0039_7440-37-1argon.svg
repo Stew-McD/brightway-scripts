@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 301.5 214.2
+L 298.6 205.8
+L 287.3 205.8
+L 284.5 214.2
+L 280.6 214.2
+L 290.4 185.8
+L 295.1 185.8
+L 305.2 214.2
+L 301.5 214.2
+M 288.4 202.6
+L 297.4 202.6
+L 292.8 189.8
+L 288.4 202.6
+' fill='#000000'/>
+<path class='atom-0' d='M 310.6 193.6
+L 311.0 196.4
+Q 313.2 193.2, 316.7 193.2
+Q 317.8 193.2, 319.3 193.6
+L 318.8 197.0
+Q 317.0 196.6, 316.1 196.6
+Q 314.4 196.6, 313.3 197.3
+Q 312.2 197.9, 311.3 199.5
+L 311.3 214.2
+L 307.5 214.2
+L 307.5 193.6
+L 310.6 193.6
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7440-37-1  ---  MW: 39.948</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Ar]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Ar</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: argon, crude, liquid</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: ARGON</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['ARGON', '13473-05-7', '137736-93-7', '24494-51-7', '50938-66-4', '7440-37-1', '75714-55-5', 'ARGON', 'Argon, compressed [UN1006]  [Nonflammable gas]', 'Argon, refrigerated liquid (cryogenic liquid) [UN1951]  [Nonflammable gas]', 'Argon-40', 'EINECS 231-147-0', 'UN1006', 'UN1951', 'AR', '295000_ALDRICH']</text></svg>

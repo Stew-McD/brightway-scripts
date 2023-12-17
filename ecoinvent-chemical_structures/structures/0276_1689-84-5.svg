@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 510.7,200.0 L 470.5,200.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 470.5,200.0 L 430.3,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 430.3,200.0 L 382.2,283.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 413.6,200.0 L 373.9,268.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 382.2,283.2 L 401.4,316.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 401.4,316.4 L 420.6,349.6' style='fill:none;fill-rule:evenodd;stroke:#7F4C19;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-4' d='M 382.2,283.2 L 286.2,283.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 286.2,283.2 L 238.1,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 294.5,268.8 L 254.8,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 238.1,200.0 L 286.2,116.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 286.2,116.8 L 382.2,116.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 294.5,131.2 L 373.9,131.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 382.2,116.8 L 401.4,83.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 401.4,83.6 L 420.6,50.4' style='fill:none;fill-rule:evenodd;stroke:#7F4C19;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-5 atom-9' d='M 238.1,200.0 L 142.0,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 142.0,200.0 L 100.8,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 100.8,200.0 L 59.5,200.0' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 142.0,214.4 L 100.8,214.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 100.8,214.4 L 59.5,214.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 142.0,185.6 L 100.8,185.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 100.8,185.6 L 59.5,185.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-10 atom-7 atom-1' d='M 382.2,116.8 L 430.3,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 291.0,283.2 L 286.2,283.2 L 283.8,279.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 283.8,121.0 L 286.2,116.8 L 291.0,116.8' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 146.9,200.0 L 142.0,200.0 L 140.0,200.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 513.8 200.1
+Q 513.8 193.5, 517.1 189.9
+Q 520.3 186.2, 526.3 186.2
+Q 532.4 186.2, 535.6 189.9
+Q 538.8 193.5, 538.8 200.1
+Q 538.8 206.7, 535.5 210.5
+Q 532.3 214.2, 526.3 214.2
+Q 520.3 214.2, 517.1 210.5
+Q 513.8 206.7, 513.8 200.1
+M 526.3 211.1
+Q 530.5 211.1, 532.7 208.3
+Q 535.0 205.5, 535.0 200.1
+Q 535.0 194.7, 532.7 192.0
+Q 530.5 189.3, 526.3 189.3
+Q 522.2 189.3, 519.9 192.0
+Q 517.7 194.7, 517.7 200.1
+Q 517.7 205.6, 519.9 208.3
+Q 522.2 211.1, 526.3 211.1
+' fill='#FF0000'/>
+<path class='atom-0' d='M 543.0 186.6
+L 546.7 186.6
+L 546.7 198.1
+L 560.6 198.1
+L 560.6 186.6
+L 564.3 186.6
+L 564.3 213.8
+L 560.6 213.8
+L 560.6 201.2
+L 546.7 201.2
+L 546.7 213.8
+L 543.0 213.8
+L 543.0 186.6
+' fill='#FF0000'/>
+<path class='atom-3' d='M 434.2 365.7
+Q 436.8 366.4, 438.2 368.0
+Q 439.5 369.6, 439.5 372.0
+Q 439.5 375.7, 437.1 377.9
+Q 434.7 380.0, 430.2 380.0
+L 421.0 380.0
+L 421.0 352.8
+L 429.0 352.8
+Q 433.7 352.8, 436.0 354.7
+Q 438.4 356.6, 438.4 360.0
+Q 438.4 364.1, 434.2 365.7
+M 424.7 355.9
+L 424.7 364.4
+L 429.0 364.4
+Q 431.7 364.4, 433.1 363.3
+Q 434.5 362.2, 434.5 360.0
+Q 434.5 355.9, 429.0 355.9
+L 424.7 355.9
+M 430.2 376.9
+Q 432.8 376.9, 434.2 375.7
+Q 435.7 374.4, 435.7 372.0
+Q 435.7 369.7, 434.1 368.6
+Q 432.5 367.5, 429.6 367.5
+L 424.7 367.5
+L 424.7 376.9
+L 430.2 376.9
+' fill='#7F4C19'/>
+<path class='atom-3' d='M 445.7 360.2
+L 446.1 363.0
+Q 448.2 359.9, 451.6 359.9
+Q 452.6 359.9, 454.1 360.3
+L 453.5 363.5
+Q 451.9 363.1, 450.9 363.1
+Q 449.3 363.1, 448.3 363.8
+Q 447.2 364.4, 446.4 365.9
+L 446.4 380.0
+L 442.8 380.0
+L 442.8 360.2
+L 445.7 360.2
+' fill='#7F4C19'/>
+<path class='atom-8' d='M 434.2 32.9
+Q 436.8 33.6, 438.2 35.3
+Q 439.5 36.8, 439.5 39.2
+Q 439.5 42.9, 437.1 45.1
+Q 434.7 47.2, 430.2 47.2
+L 421.0 47.2
+L 421.0 20.0
+L 429.0 20.0
+Q 433.7 20.0, 436.0 21.9
+Q 438.4 23.8, 438.4 27.2
+Q 438.4 31.3, 434.2 32.9
+M 424.7 23.1
+L 424.7 31.6
+L 429.0 31.6
+Q 431.7 31.6, 433.1 30.5
+Q 434.5 29.4, 434.5 27.2
+Q 434.5 23.1, 429.0 23.1
+L 424.7 23.1
+M 430.2 44.1
+Q 432.8 44.1, 434.2 42.9
+Q 435.7 41.6, 435.7 39.2
+Q 435.7 36.9, 434.1 35.8
+Q 432.5 34.7, 429.6 34.7
+L 424.7 34.7
+L 424.7 44.1
+L 430.2 44.1
+' fill='#7F4C19'/>
+<path class='atom-8' d='M 445.7 27.5
+L 446.1 30.2
+Q 448.2 27.1, 451.6 27.1
+Q 452.6 27.1, 454.1 27.5
+L 453.5 30.7
+Q 451.9 30.3, 450.9 30.3
+Q 449.3 30.3, 448.3 31.0
+Q 447.2 31.6, 446.4 33.1
+L 446.4 47.2
+L 442.8 47.2
+L 442.8 27.5
+L 445.7 27.5
+' fill='#7F4C19'/>
+<path class='atom-10' d='M 40.0 186.4
+L 48.9 200.8
+Q 49.8 202.2, 51.2 204.8
+Q 52.6 207.4, 52.7 207.5
+L 52.7 186.4
+L 56.3 186.4
+L 56.3 213.6
+L 52.6 213.6
+L 43.0 197.8
+Q 41.9 196.0, 40.7 193.9
+Q 39.5 191.8, 39.2 191.1
+L 39.2 213.6
+L 35.7 213.6
+L 35.7 186.4
+L 40.0 186.4
+' fill='#0000FF'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:1689-84-5  ---  MW: 276.9148</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: Oc1c(Br)cc(cc1Br)C#N</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C7H3Br2NO</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: bromoxynil</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 3,5-Dibromo-4-hydroxybenzonitrile</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['3,5-Dibromo-4-hydroxybenzonitrile', '3,5-dibromo-4-hydroxy-benzonitrile', '1689-84-5', '45355_RIEDEL', 'CHEBI:17192', 'AJ-087/41885652', 'Dibromo-4-hydroxyphenyl cyanide', 'ST5308414', 'Dibromo-4-cyanophenol', 'Torch', 'InChI=1/C7H3Br2NO/c8-5-1-4(3-10)2-6(9)7(5)11/h1-2,11', 'c0480', 'NCGC00163844-02', 'Buctril 4EC', 'NCGC00163844-01', 'ZINC00334873', 'Buctril-atrazine', '233005_ALDRICH', 'bromoxynil + atrazine', '3,5-Dibromo-4-hydroxybenzonitrile', '3,5-Dibromo-4-hydroxybenzonitril (ACN)', 'C04178', '3,5-Dibromo-4-hydroxyphenylcyanide', '4-10-00-00475 (Beilstein Handbook Reference)', '4-Cyano-2,6-dibromophenol', '4-Hydroxy-3,5-dibromobenzonitrile', 'BRN 2364039', 'Benzonitrile, 3,5-dibromo-4-hydroxy-', 'Brittox', 'Brominal', 'Brominal Industrial', 'Brominal Plus', 'Brominal Triple', 'Brominex', 'Brominil', 'Bromotril', 'Bromoxynil (ACN)', 'Bromoxynil [ANSI]', 'Broxynil', 'Buctril', 'Buctril industrial', 'Butil chlorofos', 'Butilchorofos', 'CCRIS 2447', 'Caswell No. 119', 'Certrol B', 'Chipco buctril', 'Chipco crab-kleen', 'EINECS 216-882-7', 'ENT 20852', 'EPA Pesticide Chemical Code 035301', 'HSDB 1523', 'Labuctril', 'Labuctril 25', 'Litarol M', 'M&B 10731', 'MB 10064', 'ME 4 Brominal', 'NU-Lawn weeder', 'Novacorn', 'Oxytril M', 'Pardner', 'S 2132', 'Sabre', 'Terset', 'Toplan', 'Brominal ME4', 'Bromoxynil-methyl ether', 'Hydroxy-3,5-dibromobenzonitrile', '2,6-Dibromo-4-cyanophenol', 'MET426B_SUPELCO', 'Bromoxynil', '3,5-Dibromo-4-hydroxyphenyl cyanide', 'Pack', 'Dibromo-4-hydroxybenzonitrile']</text></svg>

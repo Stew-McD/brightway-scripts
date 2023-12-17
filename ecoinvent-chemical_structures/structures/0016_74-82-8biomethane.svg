@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 266.1 193.0
+Q 266.1 186.0, 269.4 182.3
+Q 272.7 178.6, 279.0 178.6
+Q 284.8 178.6, 288.0 182.7
+L 285.3 184.9
+Q 283.0 181.9, 279.0 181.9
+Q 274.7 181.9, 272.4 184.8
+Q 270.2 187.6, 270.2 193.0
+Q 270.2 198.6, 272.5 201.5
+Q 274.9 204.4, 279.4 204.4
+Q 282.6 204.4, 286.2 202.5
+L 287.3 205.5
+Q 285.8 206.5, 283.6 207.0
+Q 281.4 207.6, 278.9 207.6
+Q 272.7 207.6, 269.4 203.8
+Q 266.1 200.1, 266.1 193.0
+' fill='#000000'/>
+<path class='atom-0' d='M 291.7 178.9
+L 295.6 178.9
+L 295.6 191.0
+L 310.1 191.0
+L 310.1 178.9
+L 313.9 178.9
+L 313.9 207.2
+L 310.1 207.2
+L 310.1 194.2
+L 295.6 194.2
+L 295.6 207.2
+L 291.7 207.2
+L 291.7 178.9
+' fill='#000000'/>
+<path class='atom-0' d='M 331.6 215.0
+L 333.9 215.0
+L 333.9 217.1
+L 331.6 217.1
+L 331.6 221.4
+L 329.2 221.4
+L 329.2 217.1
+L 319.5 217.1
+L 319.5 215.4
+L 327.7 202.7
+L 331.6 202.7
+L 331.6 215.0
+M 322.6 215.0
+L 329.2 215.0
+L 329.2 204.4
+L 322.6 215.0
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:74-82-8  ---  MW: 16.0426</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: C</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: CH4</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: biomethane, high pressure, vehicle grade</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: methane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['methane', '74-82-8', 'methane']</text></svg>

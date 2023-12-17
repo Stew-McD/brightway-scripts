@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 264.9 178.9
+L 268.7 178.9
+L 268.7 191.0
+L 283.2 191.0
+L 283.2 178.9
+L 287.1 178.9
+L 287.1 207.2
+L 283.2 207.2
+L 283.2 194.2
+L 268.7 194.2
+L 268.7 207.2
+L 264.9 207.2
+L 264.9 178.9
+' fill='#FF0000'/>
+<path class='atom-0' d='M 292.7 206.2
+Q 293.4 204.5, 295.1 203.5
+Q 296.7 202.5, 299.0 202.5
+Q 301.8 202.5, 303.4 204.0
+Q 305.0 205.6, 305.0 208.3
+Q 305.0 211.1, 302.9 213.6
+Q 300.9 216.2, 296.7 219.3
+L 305.3 219.3
+L 305.3 221.4
+L 292.7 221.4
+L 292.7 219.6
+Q 296.2 217.1, 298.2 215.3
+Q 300.3 213.5, 301.3 211.8
+Q 302.3 210.1, 302.3 208.4
+Q 302.3 206.6, 301.4 205.6
+Q 300.5 204.6, 299.0 204.6
+Q 297.5 204.6, 296.5 205.2
+Q 295.5 205.8, 294.8 207.2
+L 292.7 206.2
+' fill='#FF0000'/>
+<path class='atom-0' d='M 309.1 193.0
+Q 309.1 186.2, 312.5 182.4
+Q 315.8 178.6, 322.1 178.6
+Q 328.4 178.6, 331.7 182.4
+Q 335.1 186.2, 335.1 193.0
+Q 335.1 199.9, 331.7 203.8
+Q 328.3 207.7, 322.1 207.7
+Q 315.9 207.7, 312.5 203.8
+Q 309.1 199.9, 309.1 193.0
+M 322.1 204.5
+Q 326.4 204.5, 328.7 201.6
+Q 331.1 198.7, 331.1 193.0
+Q 331.1 187.4, 328.7 184.6
+Q 326.4 181.8, 322.1 181.8
+Q 317.8 181.8, 315.4 184.6
+Q 313.1 187.4, 313.1 193.0
+Q 313.1 198.7, 315.4 201.6
+Q 317.8 204.5, 322.1 204.5
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7732-18-5  ---  MW: 18.0152</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: H2O</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: water, harvested from rainwater</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: oxidane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['oxidane', 'WATER', '14314-42-2', '558440-22-5', '13670-17-2', '7732-18-5', '17778-80-2', '17749_FLUKA', 'Atomic oxygen', 'Monooxygen', 'Oxygen(sup 3P)', 'Oxygen, atomic', 'Photooxygen', 'Singlet oxygen', 'W1503_SIGMA', 'W1754_SIGMA', '14211_FLUKA', '34877_RIEDEL', 'CHEBI:15377', 'H(2)O', 'Wasser', '[OH2]', 'acqua', 'agua', 'aqua', 'GTE', 'eau', 'oxidane', 'W3513_SIGMA', 'H2O', 'WATER', 'HYD', 'HYDROXY GROUP', 'BOUND OXYGEN', 'OX', '00612_FLUKA', 'QTR', '270733_ALDRICH', '95285_FLUKA', 'C00001', 'NSC147337', 'CHEBI:25698', 'ethers', '195294_ALDRICH', 'Water, deuterium-depleted', '329886_ALDRICH', 'Water-16O', 'W4502_SIGMA', '34673_RIEDEL', 'Water with 0.1% formic acid', '390542_ALDRICH', '95280_FLUKA', '34675_RIEDEL', 'Water with 0.1% acetic acid', '95283_FLUKA', 'HOH', '95284_FLUKA', '34978_RIEDEL', 'Water with 0.1% trifluoroacetic acid', '95287_FLUKA', 'Sterile purified water', 'Water with 0.1% formic acid and 0.01% trifluoroacetic acid', '95289_FLUKA', '320072_SIAL', 'UNKNOWN', 'DIS', 'DISORDERED SOLVENT', 'CCRIS 6115', 'DHMO', 'Deionized water', 'Dihydrogen Monoxide', 'Dihydrogen oxide', 'Distilled water', 'EINECS 231-791-2', 'Ice', 'NSC 147337', 'Purified water', 'Water vapor', 'Water, deionized', 'Water, distilled', 'Water, distilled, conductivity or of similar purity', 'Water, mineral', 'Water, purified', 'dihydridooxygen', '2107_SIGMA', 'E-TOXATE Water', '34478_RIEDEL', '95303_FLUKA', '95305_FLUKA', 'OXO', 'OXO GROUP', 'GLUCOSE 4-O4 GROUP', '39253_RIEDEL', 'BOUND WATER', 'OH', '34677_RIEDEL', 'OXYGEN ATOM', '3H-Water', 'Tritiated water (HTO)', 'Tritiated water, mono-', 'Water, heavy', 'D00001', 'Purified water (JP15)', 'W3500_SIGMA', 'Sterile purified water (JP15)', 'Sterile water', 'Sterile water (TN)', 'Water (JP15/USP)', 'Water for injection', 'Water for injection (JP15)', 'Water, purified (JP15/USP)']</text></svg>

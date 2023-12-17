@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-1 atom-2' d='M 506.1,162.6 L 440.1,200.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-1 atom-2' d='M 440.1,200.7 L 374.1,238.8' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 347.0,226.2 L 281.0,188.1' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 281.0,188.1 L 215.0,150.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 332.4,251.5 L 266.4,213.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 266.4,213.4 L 200.4,175.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 52.2 169.7
+L 61.5 184.7
+Q 62.4 186.2, 63.9 188.9
+Q 65.4 191.5, 65.5 191.7
+L 65.5 169.7
+L 69.2 169.7
+L 69.2 198.0
+L 65.3 198.0
+L 55.4 181.6
+Q 54.2 179.7, 53.0 177.5
+Q 51.8 175.3, 51.4 174.6
+L 51.4 198.0
+L 47.7 198.0
+L 47.7 169.7
+L 52.2 169.7
+' fill='#0000FF'/>
+<path class='atom-0' d='M 74.6 169.7
+L 78.5 169.7
+L 78.5 181.7
+L 93.0 181.7
+L 93.0 169.7
+L 96.8 169.7
+L 96.8 198.0
+L 93.0 198.0
+L 93.0 184.9
+L 78.5 184.9
+L 78.5 198.0
+L 74.6 198.0
+L 74.6 169.7
+' fill='#0000FF'/>
+<path class='atom-0' d='M 114.5 205.8
+L 116.7 205.8
+L 116.7 207.9
+L 114.5 207.9
+L 114.5 212.2
+L 112.0 212.2
+L 112.0 207.9
+L 102.3 207.9
+L 102.3 206.2
+L 110.5 193.5
+L 114.5 193.5
+L 114.5 205.8
+M 105.4 205.8
+L 112.0 205.8
+L 112.0 195.2
+L 105.4 205.8
+' fill='#0000FF'/>
+<path class='atom-0' d='M 103.3 174.8
+L 108.3 174.8
+L 108.3 169.5
+L 110.5 169.5
+L 110.5 174.8
+L 115.7 174.8
+L 115.7 176.7
+L 110.5 176.7
+L 110.5 182.0
+L 108.3 182.0
+L 108.3 176.7
+L 103.3 176.7
+L 103.3 174.8
+' fill='#0000FF'/>
+<path class='atom-1' d='M 512.5 151.5
+Q 512.5 144.7, 515.9 140.9
+Q 519.3 137.1, 525.5 137.1
+Q 531.8 137.1, 535.2 140.9
+Q 538.5 144.7, 538.5 151.5
+Q 538.5 158.4, 535.1 162.3
+Q 531.7 166.2, 525.5 166.2
+Q 519.3 166.2, 515.9 162.3
+Q 512.5 158.4, 512.5 151.5
+M 525.5 163.0
+Q 529.9 163.0, 532.2 160.1
+Q 534.5 157.2, 534.5 151.5
+Q 534.5 145.9, 532.2 143.1
+Q 529.9 140.3, 525.5 140.3
+Q 521.2 140.3, 518.9 143.1
+Q 516.5 145.9, 516.5 151.5
+Q 516.5 157.2, 518.9 160.1
+Q 521.2 163.0, 525.5 163.0
+' fill='#FF0000'/>
+<path class='atom-1' d='M 542.6 141.7
+L 552.3 141.7
+L 552.3 143.8
+L 542.6 143.8
+L 542.6 141.7
+' fill='#FF0000'/>
+<path class='atom-2' d='M 350.7 234.6
+L 359.9 249.6
+Q 360.9 251.1, 362.3 253.8
+Q 363.8 256.4, 363.9 256.6
+L 363.9 234.6
+L 367.7 234.6
+L 367.7 262.9
+L 363.8 262.9
+L 353.8 246.5
+Q 352.7 244.6, 351.4 242.4
+Q 350.2 240.2, 349.9 239.5
+L 349.9 262.9
+L 346.2 262.9
+L 346.2 234.6
+L 350.7 234.6
+' fill='#0000FF'/>
+<path class='atom-3' d='M 175.3 151.5
+Q 175.3 144.7, 178.6 140.9
+Q 182.0 137.1, 188.3 137.1
+Q 194.6 137.1, 197.9 140.9
+Q 201.3 144.7, 201.3 151.5
+Q 201.3 158.4, 197.9 162.3
+Q 194.5 166.2, 188.3 166.2
+Q 182.0 166.2, 178.6 162.3
+Q 175.3 158.4, 175.3 151.5
+M 188.3 163.0
+Q 192.6 163.0, 194.9 160.1
+Q 197.3 157.2, 197.3 151.5
+Q 197.3 145.9, 194.9 143.1
+Q 192.6 140.3, 188.3 140.3
+Q 184.0 140.3, 181.6 143.1
+Q 179.3 145.9, 179.3 151.5
+Q 179.3 157.2, 181.6 160.1
+Q 184.0 163.0, 188.3 163.0
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:13446-48-5  ---  MW: 64.0438</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [NH4+].[O-]N=O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: H4N2O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: ammonium nitrite</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: azanium nitrite</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['azanium nitrite', 'Ammonium nitrite', '13446-48-5', 'Ammonium nitrite [Forbidden]', 'Caswell No. 044C', 'EINECS 236-598-7', 'EPA Pesticide Chemical Code 076201', 'Nitrous acid, ammonium salt', 'AMMONIUM BINITRATE', 'Ammonium nitrite']</text></svg>

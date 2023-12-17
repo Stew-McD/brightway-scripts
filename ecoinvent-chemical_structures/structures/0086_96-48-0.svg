@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 530.7,207.8 L 433.8,207.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 433.8,207.8 L 337.0,207.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 530.7,177.4 L 433.8,177.4' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 433.8,177.4 L 337.0,177.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 348.0,192.6 L 229.1,28.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 229.1,28.9 L 36.7,91.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 36.7,91.5 L 36.7,293.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 36.7,293.8 L 123.0,321.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 123.0,321.9 L 209.4,349.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-1' d='M 244.3,335.3 L 296.2,264.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-1' d='M 296.2,264.0 L 348.0,192.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 342.1,184.4 L 348.0,192.6 L 345.4,196.2' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 235.0,37.1 L 229.1,28.9 L 219.5,32.1' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 46.3,88.3 L 36.7,91.5 L 36.7,101.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 36.7,283.7 L 36.7,293.8 L 41.0,295.2' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 537.3 192.7
+Q 537.3 185.9, 540.7 182.1
+Q 544.1 178.3, 550.3 178.3
+Q 556.6 178.3, 560.0 182.1
+Q 563.3 185.9, 563.3 192.7
+Q 563.3 199.6, 559.9 203.5
+Q 556.5 207.4, 550.3 207.4
+Q 544.1 207.4, 540.7 203.5
+Q 537.3 199.6, 537.3 192.7
+M 550.3 204.2
+Q 554.7 204.2, 557.0 201.3
+Q 559.3 198.4, 559.3 192.7
+Q 559.3 187.1, 557.0 184.3
+Q 554.7 181.5, 550.3 181.5
+Q 546.0 181.5, 543.7 184.3
+Q 541.3 187.1, 541.3 192.7
+Q 541.3 198.4, 543.7 201.3
+Q 546.0 204.2, 550.3 204.2
+' fill='#FF0000'/>
+<path class='atom-5' d='M 216.1 356.4
+Q 216.1 349.6, 219.4 345.8
+Q 222.8 342.0, 229.1 342.0
+Q 235.4 342.0, 238.7 345.8
+Q 242.1 349.6, 242.1 356.4
+Q 242.1 363.3, 238.7 367.2
+Q 235.3 371.1, 229.1 371.1
+Q 222.8 371.1, 219.4 367.2
+Q 216.1 363.3, 216.1 356.4
+M 229.1 367.9
+Q 233.4 367.9, 235.7 365.0
+Q 238.1 362.1, 238.1 356.4
+Q 238.1 350.8, 235.7 348.0
+Q 233.4 345.2, 229.1 345.2
+Q 224.8 345.2, 222.4 348.0
+Q 220.1 350.8, 220.1 356.4
+Q 220.1 362.1, 222.4 365.0
+Q 224.8 367.9, 229.1 367.9
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:96-48-0  ---  MW: 86.0902</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: O=C1CCCO1</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C4H6O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: butyrolactone</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: oxolan-2-one</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['oxolan-2-one', 'tetrahydrofuran-2-one', '2-tetrahydrofuranone', '187997-16-6', '96-48-0', 'Dihydro-2-furanone', 'NCI-C55878', 'NSC4592', 'Tetrahydro-2-furanone', 'WLN: T5OVTJ', '1,4-Lactone', 'C01770', 'ZINC04658567', 'BUTANOIC ACID,4-HYDROXY,LACTONE   GAMMA-BUTYROLACTONE', 'Alpha-Butyrolactone', 'InChI=1/C4H6O2/c5-4-2-1-3-6-4/h1-3H', 'Gamma-Lactone 4-hydroxybutyric acid', 'GBL', 'dihydrofuran-2(3H)-one', 'W329118_ALDRICH', '1,4-Butyrolactone', '1-Oxacyclopentane-2-one', '2-Oxolanone', '3-Hydroxybutyric acid lactone', 'AI3-28121', 'Agrisynth BLO', 'Butanoic acid, 4-hydroxy-, gamma-lactone', 'Butyric acid, 4-hydroxy-, gamma-lactone', 'C-1070', 'CCRIS 2924', 'Caswell No. 132B', 'EINECS 202-509-5', 'EPA Pesticide Chemical Code 122303', 'FEMA No. 3291', 'HSDB 4290', 'NSC 4592', 'No Go', 'gamma-6480', 'gamma-BL', 'gamma-Butyrolactone', 'gamma-Butyrolactone (natural)', 'gamma-Hydroxybutyric acid cyclic ester', 'gamma-Hydroxybutyric acid lactone', 'gamma-Hydroxybutyrolactone', 'B103608_ALDRICH', 'Gamma-Lactone 4-hydroxy-butyric acid', 'oxolan-2-one', 'LS-2010', 'c0033', 'Gamma-Lactone 4-hydroxybutanoic acid', 'Gamma-Lactone 4-hydroxy-butanoic acid', '2-Oxotetrahydrofuran', 'CHEBI:42639', 'Dihyro-2-furanone', 'Gamma-Butanolactone', '.alpha.-Butyrolactone', '.gamma.-6480', '.gamma.-BL', '.gamma.-Butyrolactone', '.gamma.-Hydroxybutyric acid cyclic ester', '.gamma.-Hydroxybutyric acid lactone', '.gamma.-Hydroxybutyrolactone', '1,2-Butanolide', '1,4-Butanolide', '2(3H)-Furanone, dihydro-', '4-Butanolide', '4-Butyrolactone', '4-Deoxytetronic acid', '4-Hydroxybutanoic acid lactone', '4-Hydroxybutanoic acid, .gamma.-lactone', '4-Hydroxybutyric acid lactone', '4-Hydroxybutyric acid, .gamma.-lactone', 'BLO', 'BLON', 'Butanoic acid, 4-hydroxy-, .gamma.-lactone', 'Butyric acid lactone', 'Butyric acid, 4-hydroxy-, .gamma.-lactone', 'Butyrolactone', 'Butyryl lactone', 'Butyrylactone', 'Dihydro-2(3H)-furanone']</text></svg>

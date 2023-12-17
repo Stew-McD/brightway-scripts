@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 281.2 185.7
+L 298.0 185.7
+L 298.0 188.9
+L 285.0 188.9
+L 285.0 197.5
+L 296.6 197.5
+L 296.6 200.8
+L 285.0 200.8
+L 285.0 214.0
+L 281.2 214.0
+L 281.2 185.7
+' fill='#000000'/>
+<path class='atom-0' d='M 300.6 203.7
+Q 300.6 198.6, 303.2 195.9
+Q 305.7 193.1, 310.3 193.1
+Q 314.8 193.1, 316.8 195.8
+Q 318.8 198.5, 318.8 203.6
+L 318.8 204.2
+L 304.5 204.2
+Q 304.6 207.7, 306.1 209.5
+Q 307.7 211.4, 310.6 211.4
+Q 312.2 211.4, 313.7 211.0
+Q 315.2 210.6, 317.0 209.8
+L 318.0 212.4
+Q 316.0 213.4, 314.2 213.9
+Q 312.3 214.3, 310.4 214.3
+Q 305.8 214.3, 303.2 211.5
+Q 300.6 208.7, 300.6 203.7
+M 310.3 196.0
+Q 307.9 196.0, 306.5 197.4
+Q 305.1 198.8, 304.6 201.4
+L 314.9 201.4
+Q 314.6 198.6, 313.5 197.4
+Q 312.4 196.0, 310.3 196.0
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7439-89-6  ---  MW: 55.847</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Fe]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Fe</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: sponge iron</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Iron</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Iron', '14067-02-8', '7439-89-6', '129048-51-7', '195161-83-2', '199281-22-6', '39344-71-3', '70884-35-4', '73135-38-3', '8011-79-8', '8053-60-9', 'GS 6', 'HF 2 (element)', 'HL (iron)', 'HQ (metal)', 'HS (iron)', 'HS 4849', 'HSDB 604', 'Hoeganaes ATW 230', 'Hoeganaes EH', 'Iron (Fe)', 'Iron, elemental', 'LOHA', 'NC 100', 'PZh-1M3', 'PZh-2', 'PZh1M1', 'PZh2M', 'PZh2M1', 'PZh2M2', 'PZh3', 'PZh3M', 'PZh4M', 'PZhO', 'Remko', 'SUY-B 2', '209309_SIAL', '44890_FLUKA', '267945_ALDRICH', '267953_ALDRICH', '26Fe', 'CHEBI:18248', 'Eisen', 'hierro', '12310_RIEDEL', '413054_ALDRICH', '266213_ALDRICH', '266256_ALDRICH', 'Iron monocation', 'Iron(1+)', 'Fe1+', 'Iron (Fe1+)', 'Iron ion (Fe+)', 'Iron ion(1+)', 'FE2', '255637_ALDRICH', 'Iron(1+) ion', 'Iron, ion (Fe1+) (8CI,9CI)', 'C00023', 'Iron', '356808_ALDRICH', 'Iron, ion (Fe1+)', '356824_ALDRICH', '356832_ALDRICH', '513423_ALDRICH', 'FE', 'IRMM524A_FLUKA', 'IRMM524B_FLUKA', '338141_ALDRICH', 'C3518_SIAL', '02583_FLUKA', 'Iron standard for AAS', 'Iron(III) nitrate solution', '3ZhP', 'ATW 230', 'ATW 432', 'Ancor B', 'Ancor en 80/150', 'Armco iron', 'Atomel 28', 'Atomel 300M200', 'Atomel 500M', 'Atomel 95', 'Atomiron 44MR', 'Atomiron 5M', 'Atomiron AFP 25', 'Atomiron AFP 5', 'CCRIS 1580', 'Carbonyl iron', 'Copy Powder CS 105-175', 'DSP 1000', 'DSP 128B', 'DSP 135', 'DSP 135C', 'DSP 138', 'Diseases (animal), iron overload', 'Diseases, iron overload', 'EF 1000', 'EF 250', 'EFV 200/300', 'EFV 250', 'EFV 250/400', 'EINECS 231-096-4', 'EO 5A', 'F 60 (metal)', 'FT 3 (element)', 'Ferrovac E']</text></svg>

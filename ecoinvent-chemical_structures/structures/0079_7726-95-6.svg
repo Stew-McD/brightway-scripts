@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 290.7 199.3
+Q 293.4 200.0, 294.7 201.7
+Q 296.1 203.4, 296.1 205.8
+Q 296.1 209.7, 293.6 212.0
+Q 291.1 214.2, 286.4 214.2
+L 276.9 214.2
+L 276.9 185.8
+L 285.3 185.8
+Q 290.1 185.8, 292.5 187.8
+Q 295.0 189.8, 295.0 193.4
+Q 295.0 197.6, 290.7 199.3
+M 280.7 189.0
+L 280.7 197.9
+L 285.3 197.9
+Q 288.1 197.9, 289.5 196.8
+Q 291.0 195.6, 291.0 193.4
+Q 291.0 189.0, 285.3 189.0
+L 280.7 189.0
+M 286.4 211.0
+Q 289.2 211.0, 290.7 209.6
+Q 292.1 208.3, 292.1 205.8
+Q 292.1 203.5, 290.5 202.3
+Q 288.9 201.1, 285.8 201.1
+L 280.7 201.1
+L 280.7 211.0
+L 286.4 211.0
+' fill='#7F4C19'/>
+<path class='atom-0' d='M 302.5 193.6
+L 303.0 196.4
+Q 305.1 193.2, 308.7 193.2
+Q 309.8 193.2, 311.3 193.6
+L 310.7 197.0
+Q 309.0 196.6, 308.0 196.6
+Q 306.3 196.6, 305.2 197.3
+Q 304.1 197.9, 303.3 199.5
+L 303.3 214.2
+L 299.5 214.2
+L 299.5 193.6
+L 302.5 193.6
+' fill='#7F4C19'/>
+<path class='atom-0' d='M 313.4 194.2
+L 323.1 194.2
+L 323.1 196.3
+L 313.4 196.3
+L 313.4 194.2
+' fill='#7F4C19'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7726-95-6  ---  MW: 79.904</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Br-]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Br</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: bromine</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: bromide</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['bromide', '24959-67-9', '7726-95-6', 'Bromide ions', 'Caswell No. 499D', 'bromide', 'bromide ion', 'Bromine, ion', 'bromide(1-)', 'BR', 'BR-', 'C01324', 'Br(-)', 'CHEBI:15858', 'EPA Pesticide Chemical Code 053200', 'bromine anion', 'Inorganic bromides']</text></svg>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 30.0,121.8 L 120.0,173.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 120.0,173.8 L 120.0,277.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 120.0,173.8 L 210.0,121.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 210.0,121.8 L 300.0,173.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 300.0,173.8 L 336.8,152.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 336.8,152.6 L 373.6,131.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 406.4,131.3 L 443.2,152.6' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 443.2,152.6 L 480.0,173.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 480.0,173.8 L 570.0,121.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-6 atom-8' d='M 472.2,169.3 L 472.2,214.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-6 atom-8' d='M 472.2,214.6 L 472.2,260.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-6 atom-8' d='M 487.8,169.3 L 487.8,214.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-6 atom-8' d='M 487.8,214.6 L 487.8,260.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 205.5,124.4 L 210.0,121.8 L 214.5,124.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 295.5,171.2 L 300.0,173.8 L 301.8,172.7' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 478.2,172.7 L 480.0,173.8 L 484.5,171.2' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-5' d='M 377.0 121.9
+Q 377.0 115.1, 380.4 111.3
+Q 383.7 107.5, 390.0 107.5
+Q 396.3 107.5, 399.6 111.3
+Q 403.0 115.1, 403.0 121.9
+Q 403.0 128.8, 399.6 132.7
+Q 396.2 136.6, 390.0 136.6
+Q 383.8 136.6, 380.4 132.7
+Q 377.0 128.8, 377.0 121.9
+M 390.0 133.4
+Q 394.3 133.4, 396.6 130.5
+Q 399.0 127.6, 399.0 121.9
+Q 399.0 116.4, 396.6 113.6
+Q 394.3 110.7, 390.0 110.7
+Q 385.7 110.7, 383.3 113.5
+Q 381.0 116.3, 381.0 121.9
+Q 381.0 127.6, 383.3 130.5
+Q 385.7 133.4, 390.0 133.4
+' fill='#FF0000'/>
+<path class='atom-8' d='M 467.0 277.8
+Q 467.0 271.0, 470.4 267.2
+Q 473.7 263.4, 480.0 263.4
+Q 486.3 263.4, 489.6 267.2
+Q 493.0 271.0, 493.0 277.8
+Q 493.0 284.7, 489.6 288.6
+Q 486.2 292.5, 480.0 292.5
+Q 473.8 292.5, 470.4 288.6
+Q 467.0 284.7, 467.0 277.8
+M 480.0 289.3
+Q 484.3 289.3, 486.6 286.4
+Q 489.0 283.5, 489.0 277.8
+Q 489.0 272.2, 486.6 269.4
+Q 484.3 266.6, 480.0 266.6
+Q 475.7 266.6, 473.3 269.4
+Q 471.0 272.2, 471.0 277.8
+Q 471.0 283.5, 473.3 286.4
+Q 475.7 289.3, 480.0 289.3
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:123-92-2  ---  MW: 130.1864</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CC(C)CCOC(C)=O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C7H14O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: 3-methyl-1-butyl acetate</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 3-Methylbutyl acetate</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['3-Methylbutyl acetate', 'Isopentyl acetate', 'acetic acid isopentyl ester', 'acetic acid isoamyl ester', '3-Methylbutyl ethanoate', '123-92-2', '29732-50-1', '112674_ALDRICH', 'BRN 1744750', 'CCRIS 6051', 'LS-687', 'EINECS 204-662-3', '306967_ALDRICH', 'ZINC00388082', 'FEMA No. 2055', '1-Butanol, 3-methyl-, acetate', '2-Methylbutyl ethanoate', '3-Methyl-1-butanol, acetate', '3-Methyl-1-butyl acetate', '3-Methylbutyl acetate', '3-Methylbutyl ethanoate', 'Acetic acid, 3-methylbutyl ester', 'Acetic acid, isopentyl ester', 'Isoamyl acetate', 'Isoamyl ethanoate', 'Isopentyl acetate', 'Isopentyl alcohol, acetate', 'Isopentyl ethanoate', 'NSC9260', 'WLN: 1Y1 & 2OV1', 'FEMA Number 2055', 'HSDB 1818', 'I-Amyl acetate', 'In Commercial practice amyl invariably means isoamyl, unless it is prefaced by the n- for normal', 'Iso-amyl acetate', 'Isoamyl acetate (natural)', 'Isoamylester kyseliny octove [Czech]', 'NSC 9260', 'beta-Methylbutyl acetate', 'W205532_ALDRICH', 'C12296', 'Isoamyl  acetate', 'Acetic acid 3-methylbutyl ester', 'W205508_ALDRICH', '3-Methyl-1-butanol acetate', '79857_FLUKA', '4-02-00-00157 (Beilstein Handbook Reference)', 'ST5214469', 'AI3-00576', 'NCGC00091500-01', 'Amyl acetate, common', 'Amylacetic ester']</text></svg>

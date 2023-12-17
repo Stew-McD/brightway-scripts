@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 477.7,200.0 L 346.9,20.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 346.9,20.0 L 135.3,88.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 135.3,88.8 L 135.3,189.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 135.3,189.2 L 135.3,289.6' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 155.7,317.9 L 251.3,348.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 251.3,348.9 L 346.9,380.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-0' d='M 346.9,380.0 L 477.7,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 471.2,191.0 L 477.7,200.0 L 471.2,209.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 353.5,29.0 L 346.9,20.0 L 336.3,23.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 145.9,85.3 L 135.3,88.8 L 135.3,93.8' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 342.1,378.4 L 346.9,380.0 L 353.5,371.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-3' d='M 122.3 311.3
+Q 122.3 304.5, 125.7 300.7
+Q 129.0 296.9, 135.3 296.9
+Q 141.6 296.9, 144.9 300.7
+Q 148.3 304.5, 148.3 311.3
+Q 148.3 318.2, 144.9 322.1
+Q 141.5 326.0, 135.3 326.0
+Q 129.1 326.0, 125.7 322.1
+Q 122.3 318.2, 122.3 311.3
+M 135.3 322.8
+Q 139.6 322.8, 141.9 319.9
+Q 144.3 317.0, 144.3 311.3
+Q 144.3 305.8, 141.9 303.0
+Q 139.6 300.1, 135.3 300.1
+Q 131.0 300.1, 128.6 302.9
+Q 126.3 305.7, 126.3 311.3
+Q 126.3 317.0, 128.6 319.9
+Q 131.0 322.8, 135.3 322.8
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:109-99-9  ---  MW: 72.1066</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: C1CCOC1</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C4H8O</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: tetrahydrofuran</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Oxolane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Oxolane', 'Tetrahydrofuran', '77392-70-2', '24979-97-3', '109-99-9', 'NCGC00090740-01', 'AIDS-001592', 'AIDS001592', 'THYMIC HUMORAL FACTOR', '401757_ALDRICH', '87368_FLUKA', '87369_FLUKA', 'butane alpha,delta-oxide', 'Furan, tetrahydro-, homopolymer', 'Cyclotetramethylene', '494461_ALDRICH', '87371_FLUKA', '242888_ALDRICH', 'Butane .alpha.,.delta.-oxide', 'Butane, 1,4-epoxy-', 'Cyclotetramethylene oxide', 'Furan, tetrahydro-', 'Furanidine', 'Hydrofuran', 'NSC57858', 'Oxacyclopentane', 'Oxolane', 'Tetrahydrofuraan', 'Tetrahydrofuran', 'Tetrahydrofuranne', 'Tetraidrofurano', 'Tetramethylene oxide', 'WLN: T5OTJ', 'Diethylene oxide 1,4-Epoxybutane', 'c0019', 'THF', '72827_FLUKA', 'Mobile Phase A for separation of amino acids on ABI sequencers', 'Tetrahydrofuran solution', '1,4-Epoxybutane', 'AI3-07570', 'Agrisynth THF', 'Butane, alpha,delta-oxide', 'CCRIS 6276', 'EINECS 203-726-8', 'HSDB 125', 'NCI-C60560', 'NSC 57858', 'RCRA waste no. U213', 'RCRA waste number U213', 'Tetrahydrofuraan [Dutch]', 'Tetrahydrofuran [UN2056]  [Flammable liquid]', 'Tetrahydrofuranne [French]', 'Tetraidrofurano [Italian]', 'UN2056', '186562_ALDRICH', '568775_ALDRICH', '178810_ALDRICH', '676764_SIAL', 'Polytetrahydrofuran', '360589_SIAL', '78445_FLUKA', '34865_SIAL', '33709_RIEDEL', 'ST5214349', 'CHEBI:26911', '34946_RIEDEL', 'Butylene oxide', 'InChI=1/C4H8O/c1-2-4-5-3-1/h1-4H']</text></svg>

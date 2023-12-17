@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 36.3,380.0 L 89.0,313.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 89.0,313.0 L 125.3,318.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 125.3,318.3 L 161.5,323.5' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 185.2,310.4 L 205.7,284.3' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 205.7,284.3 L 226.2,258.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 226.2,258.3 L 213.4,226.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 213.4,226.1 L 200.5,194.0' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 235.3,246.7 L 223.9,218.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 223.9,218.0 L 212.4,189.2' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 206.3,164.2 L 226.8,138.2' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 226.8,138.2 L 247.4,112.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 247.4,112.1 L 233.7,78.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 233.7,78.0 L 220.1,43.9' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-5 atom-7' d='M 247.4,112.1 L 283.6,117.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-5 atom-7' d='M 283.6,117.4 L 319.8,122.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-5 atom-7' d='M 252.8,125.8 L 285.4,130.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-5 atom-7' d='M 285.4,130.6 L 317.9,135.3' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 337.7,139.2 L 350.5,171.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 350.5,171.4 L 363.3,203.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-8 atom-9' d='M 363.3,203.5 L 399.6,208.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-8 atom-9' d='M 399.6,208.8 L 435.8,214.0' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 453.7,230.6 L 466.5,262.8' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-9 atom-10' d='M 466.5,262.8 L 479.3,294.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-10 atom-10 atom-11' d='M 479.3,294.9 L 563.7,307.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-11 atom-10 atom-12' d='M 479.3,294.9 L 426.6,361.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-12 atom-8 atom-13' d='M 363.3,203.5 L 342.8,229.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-12 atom-8 atom-13' d='M 342.8,229.6 L 322.3,255.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-12 atom-8 atom-13' d='M 348.7,201.4 L 330.5,224.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-12 atom-8 atom-13' d='M 330.5,224.5 L 312.3,247.7' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-13 atom-13 atom-3' d='M 298.6,268.8 L 262.4,263.5' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-13 atom-13 atom-3' d='M 262.4,263.5 L 226.2,258.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 86.4,316.4 L 89.0,313.0 L 90.9,313.3' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-2' d='M 168.1 313.2
+L 176.0 326.0
+Q 176.8 327.2, 178.0 329.5
+Q 179.3 331.8, 179.4 331.9
+L 179.4 313.2
+L 182.6 313.2
+L 182.6 337.3
+L 179.3 337.3
+L 170.8 323.3
+Q 169.8 321.7, 168.7 319.8
+Q 167.7 317.9, 167.4 317.4
+L 167.4 337.3
+L 164.3 337.3
+L 164.3 313.2
+L 168.1 313.2
+' fill='#0000FF'/>
+<path class='atom-2' d='M 187.3 313.2
+L 190.6 313.2
+L 190.6 323.4
+L 202.9 323.4
+L 202.9 313.2
+L 206.2 313.2
+L 206.2 337.3
+L 202.9 337.3
+L 202.9 326.2
+L 190.6 326.2
+L 190.6 337.3
+L 187.3 337.3
+L 187.3 313.2
+' fill='#0000FF'/>
+<path class='atom-4' d='M 189.2 167.0
+L 197.2 179.8
+Q 197.9 181.1, 199.2 183.4
+Q 200.5 185.6, 200.5 185.8
+L 200.5 167.0
+L 203.7 167.0
+L 203.7 191.2
+L 200.4 191.2
+L 191.9 177.2
+Q 191.0 175.5, 189.9 173.7
+Q 188.9 171.8, 188.6 171.2
+L 188.6 191.2
+L 185.4 191.2
+L 185.4 167.0
+L 189.2 167.0
+' fill='#0000FF'/>
+<path class='atom-6' d='M 193.1 33.8
+Q 193.1 27.8, 195.9 24.6
+Q 198.7 21.5, 204.1 21.5
+Q 209.1 21.5, 211.7 25.0
+L 209.5 26.8
+Q 207.5 24.3, 204.1 24.3
+Q 200.4 24.3, 198.5 26.7
+Q 196.6 29.1, 196.6 33.8
+Q 196.6 38.6, 198.6 41.0
+Q 200.6 43.5, 204.5 43.5
+Q 207.1 43.5, 210.2 41.9
+L 211.2 44.4
+Q 209.9 45.2, 208.0 45.7
+Q 206.1 46.2, 204.0 46.2
+Q 198.7 46.2, 195.9 43.0
+Q 193.1 39.8, 193.1 33.8
+' fill='#00CC00'/>
+<path class='atom-6' d='M 214.2 20.0
+L 217.3 20.0
+L 217.3 45.9
+L 214.2 45.9
+L 214.2 20.0
+' fill='#00CC00'/>
+<path class='atom-7' d='M 326.4 112.3
+L 334.3 125.1
+Q 335.1 126.3, 336.4 128.6
+Q 337.6 130.9, 337.7 131.0
+L 337.7 112.3
+L 340.9 112.3
+L 340.9 136.4
+L 337.6 136.4
+L 329.1 122.4
+Q 328.1 120.8, 327.0 118.9
+Q 326.0 117.0, 325.7 116.5
+L 325.7 136.4
+L 322.6 136.4
+L 322.6 112.3
+L 326.4 112.3
+' fill='#0000FF'/>
+<path class='atom-9' d='M 442.4 203.7
+L 450.3 216.5
+Q 451.1 217.7, 452.3 220.0
+Q 453.6 222.3, 453.7 222.4
+L 453.7 203.7
+L 456.9 203.7
+L 456.9 227.8
+L 453.6 227.8
+L 445.1 213.8
+Q 444.1 212.2, 443.0 210.3
+Q 442.0 208.4, 441.7 207.9
+L 441.7 227.8
+L 438.6 227.8
+L 438.6 203.7
+L 442.4 203.7
+' fill='#0000FF'/>
+<path class='atom-9' d='M 461.6 203.7
+L 464.9 203.7
+L 464.9 213.9
+L 477.2 213.9
+L 477.2 203.7
+L 480.5 203.7
+L 480.5 227.8
+L 477.2 227.8
+L 477.2 216.7
+L 464.9 216.7
+L 464.9 227.8
+L 461.6 227.8
+L 461.6 203.7
+' fill='#0000FF'/>
+<path class='atom-13' d='M 305.2 258.4
+L 313.2 271.2
+Q 313.9 272.5, 315.2 274.8
+Q 316.5 277.0, 316.5 277.2
+L 316.5 258.4
+L 319.7 258.4
+L 319.7 282.6
+L 316.4 282.6
+L 307.9 268.6
+Q 306.9 266.9, 305.9 265.1
+Q 304.9 263.2, 304.6 262.6
+L 304.6 282.6
+L 301.4 282.6
+L 301.4 258.4
+L 305.2 258.4
+' fill='#0000FF'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:1912-24-9  ---  MW: 215.6851</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CCNc1nc(Cl)nc(NC(C)C)n1</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C8H14ClN5</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: atrazine</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 6-chloro-N'-ethyl-N-propan-2-yl-1,3,5-triazine-2,4-diamine</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ["6-chloro-N'-ethyl-N-propan-2-yl-1,3,5-triazine-2,4-diamine", "6-chloro-N'-ethyl-N-isopropyl-1,3,5-triazine-2,4-diamine", '(4-chloro-6-ethylamino-s-triazin-2-yl)-isopropyl-amine', '1912-24-9', '11121-31-6', '12040-45-8', '12797-72-7', '39400-72-1', '69771-31-9', '93616-39-8', 'EINECS 217-617-8', 'EPA Pesticide Chemical Code 080803', 'Farmco atrazine', 'G 30027', 'Geigy 30,027', 'Gesaprim', 'Gesaprim 50', 'Gesaprin', 'Gesoprim', 'Griffex', 'HSDB 413', 'Herbatoxol', 'Hungazin', 'Hungazin (VAN)', 'Hungazin PK', 'Inakor', 'NSC 163046', 'Oleogesaprim', 'Pitezin', 'Primatol A', 'Primaze', 'Radazin', 'Radizin', 'Shell atrazine herbicide', 'Strazine', 'Triazine A 1294', 'Vectal', 'Vectal SC', 'Weedex A', 'Wonuk', 'Zeapos', 'Zeazin', 'Zeazine', 'Zeopos', 's-Triazine, 2-chloro-4-(ethylamino)-6-(isopropylamino)-', 's-Triazine, 2-chloro-4-ethylamino-6-isopropylamino-', 'BSPBio_002341', 'Oleogesaprim 200', 'KBio2_007459', '48187_SUPELCO', 'Spectrum_001821', 'NCGC00090784-01', '2-CHLORO-4-ISOPROPYLAMINO-6-ETHYLAMINO-1,3,5-TRIAZINE', "6-chloro-N-ethyl-N'-(propan-2-yl)-1,3,5-triazine-2,4-diamine", 'MLS000389718', 'SMR000255992', 'KBioGR_001061', '2-Chloro-4-(ethylamino)-6-(isopropylamino)triazine', 'Fermco atrazine', 'Gesaprim 500', 'Maizina', 'ZINC00163707', 'Primitol A', 'Radizine', 'Zeapho', 'c0002', 'Spectrum4_000661', 'NCGC00090784-04', 'Atrazine', 'C06551', "6-chloro-N-ethyl-N'-isopropyl-1,3,5-triazine-2,4-diamine", 'CHEBI:15930', '2-chloro-4-ethylamino-6-isopropylamino-1,3,5-triazine-ring-ul-14C', '297127_SIGMA', 'Atrazine-ring-UL-14C', 'SPBio_001760', '2-CHLORO-4-ISOPROPYLAMINO-6-ETHYLAMINO -1,3,5-TRIAZINE', 'ATZ', 'SpecPlus_000422', 'SBB003393', 'Spectrum3_000821', 'Spectrum5_001954', 'Fenatrol', '49085_SUPELCO', 'SPECTRUM330029', 'KBioSS_002326', 'DivK1c_006518', 'KBio2_002323', 'KBio2_004891', 'PS380_SUPELCO', 'Spectrum2_001880', 'KBio3_001841', '36665_RIEDEL', 'Atrazine solution', '1-Chloro-3-(ethylamino)-5-(isopropylamino)-2,4,6-triazine', '1-Chloro-3-(ethylamino)-5-(isopropylamino)-s-triazine', '2-Aethylamino-4-chlor-6-isopropylamino-1,3,5-triazin', '2-Chloro-4-(2-propylamino)-6-(ethylamino)-s-triazine', '2-Chloro-4-(ethylamino)-6-(isopropylamino)-1,3,5-triazine', '2-Chloro-4-(ethylamino)-6-(isopropylamino)-s-triazine', 'NSC163046', 'WLN: T6N CN ENJ BMY1&1 DM2 FG', 'NCGC00090784-02', 'ZINC03078958', '45330_RIEDEL', 'NCGC00090784-03', 'KBio1_001462', 'Primatol', 'Oprea1_839865', "1,3,5-Triazine-2,4-diamine, 6-chloro-N-ethyl-N'-(1-methylethyl)-", "1,3,5-Triazine-2,4-diamine, 6-chloro-N-ethyl-N'-(1-methylethyl)- (9CI)", '1-Chloro-3-ethylamino-5-isopropylamino-2,4,6-triazine', '1-Chloro-3-ethylamino-5-isopropylamino-s-triazine', '2-Aethylamino-4-chlor-6-isopropylamino-1,3,5-triazin [German]', '2-Aethylamino-4-isopropylamino-6-chlor-1,3,5-triazin [German]', '2-Chloro-4-(2-propylamino)-6-ethylamino-s-triazine', '2-Chloro-4-ethylamineisopropylamine-s-triazine', '2-Chloro-4-ethylamino-6-isopropylamino-1,3,5-triazine', '2-Chloro-4-ethylamino-6-isopropylamino-s-triazine', '2-Ethylamino-4-isopropylamino-6-chloro-s-triazine', "6-Chloro-N-ethyl-N'-(1-methylethyl)-1,3,5-triazine-2,4-diamine", '6-Chloro-N2-ethyl-N4-isopropyl-1,3,5-triazine-2,4-diamine', 'A 361', 'AI3-28244', 'Aatram', 'Aatram 20G', 'Aatrex', 'Aatrex 4L', 'Aatrex 80W', 'Aatrex nine-O', 'Actinite PK', 'Akticon', 'Aktikon', 'Aktikon PK', 'Aktinit A', 'Aktinit PK', 'Aneldazin', 'Argezin', 'Atazinax', 'Atranex', 'Atrasine', 'Atrataf', 'Atratol', 'Atratol A', 'Atrazin', 'Atrazine [ANSI:BSI:ISO]', 'Atred', 'Atrex', 'Azoprim', 'BRN 0612020', 'CCRIS 1025', 'Candex', 'Caswell No. 063', 'Ceasin 50', 'Cekuzina-T', 'Chromozin', 'Crisatrina', 'Crisazine', 'Cyazin']</text></svg>

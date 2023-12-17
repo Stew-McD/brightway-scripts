@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 131.3,199.8 L 468.7,199.8' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 90.5 200.8
+Q 90.5 193.8, 93.8 190.1
+Q 97.1 186.4, 103.4 186.4
+Q 109.2 186.4, 112.4 190.5
+L 109.7 192.6
+Q 107.4 189.6, 103.4 189.6
+Q 99.1 189.6, 96.8 192.5
+Q 94.6 195.4, 94.6 200.8
+Q 94.6 206.4, 96.9 209.3
+Q 99.3 212.2, 103.8 212.2
+Q 107.0 212.2, 110.6 210.3
+L 111.7 213.3
+Q 110.2 214.2, 108.0 214.8
+Q 105.8 215.4, 103.3 215.4
+Q 97.1 215.4, 93.8 211.6
+Q 90.5 207.8, 90.5 200.8
+' fill='#00CC00'/>
+<path class='atom-0' d='M 115.2 184.6
+L 118.9 184.6
+L 118.9 215.0
+L 115.2 215.0
+L 115.2 184.6
+' fill='#00CC00'/>
+<path class='atom-1' d='M 481.1 200.8
+Q 481.1 193.8, 484.4 190.1
+Q 487.7 186.4, 494.0 186.4
+Q 499.8 186.4, 502.9 190.5
+L 500.3 192.6
+Q 498.0 189.6, 494.0 189.6
+Q 489.7 189.6, 487.4 192.5
+Q 485.2 195.4, 485.2 200.8
+Q 485.2 206.4, 487.5 209.3
+Q 489.8 212.2, 494.4 212.2
+Q 497.5 212.2, 501.2 210.3
+L 502.3 213.3
+Q 500.8 214.2, 498.6 214.8
+Q 496.3 215.4, 493.8 215.4
+Q 487.7 215.4, 484.4 211.6
+Q 481.1 207.8, 481.1 200.8
+' fill='#00CC00'/>
+<path class='atom-1' d='M 505.8 184.6
+L 509.5 184.6
+L 509.5 215.0
+L 505.8 215.0
+L 505.8 184.6
+' fill='#00CC00'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7782-50-5  ---  MW: 70.906</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: ClCl</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Cl2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: chlorine, for reuse in titanium tetrachloride production</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Molecular chlorine</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Molecular chlorine', '7782-50-5', 'Chlorinated water (chlorine)', 'Chlorine [UN1017]  [Poison gas]', 'Chlorine gas', 'Chlorine mol.', 'Cloro [Italian]', 'EINECS 231-959-5', 'EPA Pesticide Chemical Code 020501', 'HSDB 206', 'Molecular chlorine', 'UN 1017', 'UN1017', '295132_ALDRICH', 'CHEBI:29310', 'dichlorine', 'Bertholite', 'Bertholite /warfare gas/', 'CCRIS 2280', 'CHLORINE', 'Caswell No. 179', 'Chloor [Dutch]', 'Chlor [German]', 'Chlore [French]']</text></svg>

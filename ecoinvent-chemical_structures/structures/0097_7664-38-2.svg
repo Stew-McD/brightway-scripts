@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 178.7,277.9 L 238.9,243.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 238.9,243.1 L 299.1,208.4' style='fill:none;fill-rule:evenodd;stroke:#FF7F00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 302.4,179.7 L 269.7,123.0' style='fill:none;fill-rule:evenodd;stroke:#FF7F00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 269.7,123.0 L 236.9,66.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 325.6,219.8 L 358.4,276.8' style='fill:none;fill-rule:evenodd;stroke:#FF7F00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 358.4,276.8 L 391.3,333.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-1 atom-4' d='M 335.6,202.7 L 395.7,168.0' style='fill:none;fill-rule:evenodd;stroke:#FF7F00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-1 atom-4' d='M 395.7,168.0 L 455.9,133.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-1 atom-4' d='M 322.2,179.6 L 382.4,144.9' style='fill:none;fill-rule:evenodd;stroke:#FF7F00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-1 atom-4' d='M 382.4,144.9 L 442.6,110.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 118.9 274.8
+L 122.7 274.8
+L 122.7 286.8
+L 137.2 286.8
+L 137.2 274.8
+L 141.1 274.8
+L 141.1 303.1
+L 137.2 303.1
+L 137.2 290.0
+L 122.7 290.0
+L 122.7 303.1
+L 118.9 303.1
+L 118.9 274.8
+' fill='#FF0000'/>
+<path class='atom-0' d='M 146.9 288.8
+Q 146.9 282.0, 150.2 278.2
+Q 153.6 274.4, 159.9 274.4
+Q 166.1 274.4, 169.5 278.2
+Q 172.9 282.0, 172.9 288.8
+Q 172.9 295.7, 169.5 299.6
+Q 166.1 303.5, 159.9 303.5
+Q 153.6 303.5, 150.2 299.6
+Q 146.9 295.8, 146.9 288.8
+M 159.9 300.3
+Q 164.2 300.3, 166.5 297.4
+Q 168.9 294.5, 168.9 288.8
+Q 168.9 283.3, 166.5 280.5
+Q 164.2 277.6, 159.9 277.6
+Q 155.5 277.6, 153.2 280.4
+Q 150.9 283.2, 150.9 288.8
+Q 150.9 294.6, 153.2 297.4
+Q 155.5 300.3, 159.9 300.3
+' fill='#FF0000'/>
+<path class='atom-1' d='M 313.3 185.6
+Q 318.1 185.6, 320.6 187.8
+Q 323.0 190.0, 323.0 193.9
+Q 323.0 197.9, 320.5 200.1
+Q 318.0 202.3, 313.3 202.3
+L 308.8 202.3
+L 308.8 213.9
+L 304.9 213.9
+L 304.9 185.6
+L 313.3 185.6
+M 313.3 199.1
+Q 316.1 199.1, 317.5 197.8
+Q 319.0 196.5, 319.0 193.9
+Q 319.0 191.4, 317.5 190.1
+Q 316.1 188.8, 313.3 188.8
+L 308.8 188.8
+L 308.8 199.1
+L 313.3 199.1
+' fill='#FF7F00'/>
+<path class='atom-2' d='M 184.0 31.7
+L 187.9 31.7
+L 187.9 43.7
+L 202.4 43.7
+L 202.4 31.7
+L 206.2 31.7
+L 206.2 60.0
+L 202.4 60.0
+L 202.4 46.9
+L 187.9 46.9
+L 187.9 60.0
+L 184.0 60.0
+L 184.0 31.7
+' fill='#FF0000'/>
+<path class='atom-2' d='M 212.0 45.7
+Q 212.0 38.9, 215.4 35.1
+Q 218.7 31.3, 225.0 31.3
+Q 231.3 31.3, 234.6 35.1
+Q 238.0 38.9, 238.0 45.7
+Q 238.0 52.6, 234.6 56.5
+Q 231.2 60.4, 225.0 60.4
+Q 218.8 60.4, 215.4 56.5
+Q 212.0 52.7, 212.0 45.7
+M 225.0 57.2
+Q 229.3 57.2, 231.6 54.3
+Q 234.0 51.4, 234.0 45.7
+Q 234.0 40.2, 231.6 37.4
+Q 229.3 34.5, 225.0 34.5
+Q 220.7 34.5, 218.3 37.3
+Q 216.0 40.1, 216.0 45.7
+Q 216.0 51.5, 218.3 54.3
+Q 220.7 57.2, 225.0 57.2
+' fill='#FF0000'/>
+<path class='atom-3' d='M 390.0 354.0
+Q 390.0 347.2, 393.3 343.4
+Q 396.7 339.6, 403.0 339.6
+Q 409.2 339.6, 412.6 343.4
+Q 416.0 347.2, 416.0 354.0
+Q 416.0 360.9, 412.6 364.8
+Q 409.2 368.7, 403.0 368.7
+Q 396.7 368.7, 393.3 364.8
+Q 390.0 360.9, 390.0 354.0
+M 403.0 365.5
+Q 407.3 365.5, 409.6 362.6
+Q 412.0 359.7, 412.0 354.0
+Q 412.0 348.4, 409.6 345.6
+Q 407.3 342.8, 403.0 342.8
+Q 398.6 342.8, 396.3 345.6
+Q 394.0 348.4, 394.0 354.0
+Q 394.0 359.7, 396.3 362.6
+Q 398.6 365.5, 403.0 365.5
+' fill='#FF0000'/>
+<path class='atom-3' d='M 420.4 339.9
+L 424.2 339.9
+L 424.2 351.9
+L 438.7 351.9
+L 438.7 339.9
+L 442.5 339.9
+L 442.5 368.2
+L 438.7 368.2
+L 438.7 355.1
+L 424.2 355.1
+L 424.2 368.2
+L 420.4 368.2
+L 420.4 339.9
+' fill='#FF0000'/>
+<path class='atom-4' d='M 455.1 110.9
+Q 455.1 104.1, 458.5 100.3
+Q 461.8 96.5, 468.1 96.5
+Q 474.4 96.5, 477.7 100.3
+Q 481.1 104.1, 481.1 110.9
+Q 481.1 117.8, 477.7 121.7
+Q 474.3 125.6, 468.1 125.6
+Q 461.9 125.6, 458.5 121.7
+Q 455.1 117.8, 455.1 110.9
+M 468.1 122.4
+Q 472.4 122.4, 474.7 119.5
+Q 477.1 116.6, 477.1 110.9
+Q 477.1 105.3, 474.7 102.5
+Q 472.4 99.7, 468.1 99.7
+Q 463.8 99.7, 461.4 102.5
+Q 459.1 105.3, 459.1 110.9
+Q 459.1 116.6, 461.4 119.5
+Q 463.8 122.4, 468.1 122.4
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7664-38-2  ---  MW: 97.9951</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: O[P](O)(O)=O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: H3O4P</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: phosphoric acid, industrial grade, without water, in 85% solution state</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: ['Phosphoric acid', 'tetrahydroxyphosphanium']</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Phosphoric acid', 'tetrahydroxyphosphanium', 'tetrahydroxyphosphonium', '1339-32-8', '9043-01-0', '9044-08-0', '9066-91-5', '178560-73-1', '28602-75-7', '7664-38-2', 'Phosphoric acid (NF)', '40266_RIEDEL', 'Buffer concentrate from phosphoric acid', 'PHS', '79626_FLUKA', 'c0693', '438081_SIAL', 'tetraoxophosphoric acid', 'H3PO4', '[PO(OH)3]', '79617_FLUKA', 'Acide phosphorique [French]', 'Acido fosforico [Italian]', 'Acidum phosphoricum', 'CCRIS 2949', 'Caswell No. 662', 'EINECS 231-633-2', 'EPA Pesticide Chemical Code 076001', 'FEMA No. 2900', 'Fosforzuuroplossingen [Dutch]', 'HSDB 1187', 'Phosphate standard concentrate 1.00 g PO43-', 'NSC 80804', 'Phosphoric acid [UN1805]  [Corrosive]', 'Phosphoric acid, ortho-', 'Phosphorsaeure', 'Phosphorsaeureloesungen [German]', 'UN1805', 'White phosphoric acid', '466123_ALDRICH', '30417_RIEDEL', '79606_FLUKA', '03367_FLUKA', 'Phosphate standard concentrate 10.00 g PO43-', '79623_FLUKA', '04102_RIEDEL', 'W290017_ALDRICH', '42280_FLUKA', 'NCGC00091005-01', 'C00009', 'Orthophosphoric acid', 'Phosphoric acid', '79607_FLUKA', 'PO4-PHS', '64957_FLUKA', '215104_SIAL', '345245_ALDRICH', '612162_ALDRICH', '2HP', 'D-Mannan, dihydrogen phosphate', 'CHEBI:26078', '40297_RIEDEL', 'Pi', '40278_RIEDEL', 'trihydrogen tetraoxophosphate(3-)', 'trihydroxidooxidophosphorus', 'PO4', '03366_FLUKA', '79614_FLUKA', 'phosphomannan', 'P5811_SIGMA', 'Phosphoric acid solution', '04107_RIEDEL', '40299_RIEDEL', '452289_ALDRICH', '79621_FLUKA', 'Acide phosphorique', 'Acido fosforico', 'EVITs', 'Fosforzuuroplossingen', 'NSC80804', 'Phosphorsaeureloesungen', 'Sonac', 'WC-Reiniger', 'o-Phosphoric acid', 'PO3', 'D05467']</text></svg>

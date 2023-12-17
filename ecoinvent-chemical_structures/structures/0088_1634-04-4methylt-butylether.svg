@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 30.0,200.0 L 110.1,153.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 110.1,153.8 L 190.1,107.5' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 229.9,107.5 L 309.9,153.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 309.9,153.8 L 390.0,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 390.0,200.0 L 493.9,20.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-4' d='M 390.0,200.0 L 286.1,380.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-2 atom-5' d='M 390.0,200.0 L 570.0,303.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-1' d='M 197.0 96.2
+Q 197.0 89.4, 200.4 85.6
+Q 203.7 81.8, 210.0 81.8
+Q 216.3 81.8, 219.6 85.6
+Q 223.0 89.4, 223.0 96.2
+Q 223.0 103.0, 219.6 107.0
+Q 216.2 110.8, 210.0 110.8
+Q 203.8 110.8, 200.4 107.0
+Q 197.0 103.1, 197.0 96.2
+M 210.0 107.6
+Q 214.3 107.6, 216.6 104.8
+Q 219.0 101.8, 219.0 96.2
+Q 219.0 90.6, 216.6 87.8
+Q 214.3 85.0, 210.0 85.0
+Q 205.7 85.0, 203.3 87.8
+Q 201.0 90.6, 201.0 96.2
+Q 201.0 101.9, 203.3 104.8
+Q 205.7 107.6, 210.0 107.6
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:1634-04-4  ---  MW: 88.1492</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: COC(C)(C)C</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C5H12O</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: methyl t-butyl ether</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2-Methoxy-2-methylpropane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2-Methoxy-2-methylpropane', '2-methoxy-2-methyl-propane', '1634-04-4', 'Methyl <i>tert</i>-butyl ether', '34498_RIEDEL', '34875_SIAL', 'ZINC00967772', '675407_ALDRICH', '20257_FLUKA', '1,1-dimethylethyl methyl ether', '2-Methoxy-2-methylpropane', '2-Methyl-2-methoxypropane', '4-01-00-01615 (Beilstein Handbook Reference)', 'BRN 1730942', 'CCRIS 7596', 'EINECS 216-653-1', 'Ether, tert-butyl methyl', 'HSDB 5847', 'MTBE', 'Methyl 1,1-dimethylethyl ether', 'Methyl t-butyl ether', 'Methyl tert-butyl ether [UN2398]  [Flammable liquid]', 'Methyl tertiary-butyl ether', 'Methyl-tert-butyl ether', 'Propane, 2-methoxy-2-methyl-', 'T-BUTYL METHYL ETHER', 'UN2398', 'Methyl-t-butyl ether', 'NCGC00091717-01', 'Methyl Tertiary Butyl Ether', 'c0515', '179787_ALDRICH', '08603_FLUKA', '443808_SIAL', '20249_FLUKA', '48027_SUPELCO', '306975_ALDRICH', 'InChI=1/C5H12O/c1-5(2,3)6-4/h1-4H', '650560_ALDRICH', '295868_SIAL', 'C11344', 'Methyl tert-butyl ether', 'tert-Butyl methyl ether', '20256_FLUKA']</text></svg>

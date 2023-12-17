@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 45.9,64.7 L 202.1,154.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 202.1,154.9 L 202.1,335.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 202.1,154.9 L 358.3,64.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 358.3,64.7 L 426.9,104.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 426.9,104.3 L 495.6,144.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 350.5,69.2 L 358.3,64.7 L 361.8,66.7' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-4' d='M 501.5 155.0
+Q 501.5 148.2, 504.9 144.4
+Q 508.3 140.6, 514.5 140.6
+Q 520.8 140.6, 524.2 144.4
+Q 527.5 148.2, 527.5 155.0
+Q 527.5 161.9, 524.1 165.8
+Q 520.7 169.7, 514.5 169.7
+Q 508.3 169.7, 504.9 165.8
+Q 501.5 161.9, 501.5 155.0
+M 514.5 166.5
+Q 518.9 166.5, 521.2 163.6
+Q 523.5 160.7, 523.5 155.0
+Q 523.5 149.4, 521.2 146.6
+Q 518.9 143.8, 514.5 143.8
+Q 510.2 143.8, 507.9 146.6
+Q 505.5 149.4, 505.5 155.0
+Q 505.5 160.7, 507.9 163.6
+Q 510.2 166.5, 514.5 166.5
+' fill='#FF0000'/>
+<path class='atom-4' d='M 531.9 140.9
+L 535.8 140.9
+L 535.8 152.9
+L 550.3 152.9
+L 550.3 140.9
+L 554.1 140.9
+L 554.1 169.2
+L 550.3 169.2
+L 550.3 156.1
+L 535.8 156.1
+L 535.8 169.2
+L 531.9 169.2
+L 531.9 140.9
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:78-83-1  ---  MW: 74.1224</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CC(C)CO</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C4H10O</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: isobutanol</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2-Methylpropan-1-ol</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2-Methylpropan-1-ol', '68989-27-5', '78-83-1', 'InChI=1/C4H10O/c1-4(2)3-5/h4-5H,3H2,1-2H', '320048_SIAL', '1-Hydroxymethylpropane', '1-Propanol, 2-methyl-', '2-Methyl-1-propanol', '2-Methylpropan-1-ol', '2-Methylpropanol-1', '2-Methylpropyl alcohol', 'Alcool isobutylique', 'Fermentation butyl alcohol', 'Isobutanol', 'Isobutyl alcohol', 'Isobutylalkohol', 'Isopropylcarbinol', 'NSC5708', 'WLN: Q1Y1&1', '442623_SUPELCO', '33064_RIEDEL', '294829_ALDRICH', '58448_FLUKA', 'C14710', 'NCGC00091851-01', '58450_FLUKA', '154687_SIAL', '270466_ALDRICH', '82059_FLUKA', 'LS-1756', '2-Methyl propanol', '4-01-00-01588 (Beilstein Handbook Reference)', 'AI3-01777', 'Alcool isobutylique [French]', 'BRN 1730878', 'CCRIS 2300', 'EINECS 201-148-0', 'FEMA No. 2179', 'FEMA Number 2179', 'HSDB 49', 'Iso-butyl alcohol', 'Isobutanol or isobutyl alcohol [UN1212]  [Flammable liquid]', 'Isobutyl alcohol (natural)', 'Isobutylalkohol [Czech]', 'NSC 5708', 'RCRA waste no. U140', 'RCRA waste number U140', 'UN1212', '2-methylpropanol', 'CHEBI:46645', 'i-Butanol', 'i-Butyl alcohol', 'iso-C4H9OH', 'ZINC01687155', '538132_ALDRICH', 'EINECS 273-552-5', 'W217913_ALDRICH', 'Alcohols, C8-13-iso-', 'W217905_ALDRICH']</text></svg>

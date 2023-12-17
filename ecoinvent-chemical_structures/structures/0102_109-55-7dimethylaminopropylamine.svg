@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 33.1,114.0 L 72.4,139.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 72.4,139.8 L 111.6,165.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 125.0,192.9 L 122.3,239.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 122.3,239.4 L 119.7,286.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 140.5,167.8 L 182.9,146.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 182.9,146.4 L 225.3,125.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 225.3,125.1 L 318.3,186.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 318.3,186.1 L 417.6,136.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 417.6,136.1 L 456.8,161.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 456.8,161.9 L 496.1,187.7' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 223.2,126.1 L 225.3,125.1 L 230.0,128.1' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 313.6,183.0 L 318.3,186.1 L 323.2,183.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 412.6,138.6 L 417.6,136.1 L 419.5,137.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-1' d='M 119.8 160.9
+L 129.1 175.9
+Q 130.0 177.3, 131.5 180.0
+Q 133.0 182.7, 133.0 182.9
+L 133.0 160.9
+L 136.8 160.9
+L 136.8 189.2
+L 132.9 189.2
+L 123.0 172.8
+Q 121.8 170.9, 120.6 168.7
+Q 119.4 166.5, 119.0 165.8
+L 119.0 189.2
+L 115.3 189.2
+L 115.3 160.9
+L 119.8 160.9
+' fill='#0000FF'/>
+<path class='atom-6' d='M 504.2 183.0
+L 513.5 198.0
+Q 514.4 199.5, 515.9 202.1
+Q 517.4 204.8, 517.4 205.0
+L 517.4 183.0
+L 521.2 183.0
+L 521.2 211.3
+L 517.3 211.3
+L 507.4 194.9
+Q 506.2 193.0, 505.0 190.8
+Q 503.8 188.6, 503.4 187.9
+L 503.4 211.3
+L 499.7 211.3
+L 499.7 183.0
+L 504.2 183.0
+' fill='#0000FF'/>
+<path class='atom-6' d='M 526.6 183.0
+L 530.5 183.0
+L 530.5 195.0
+L 544.9 195.0
+L 544.9 183.0
+L 548.8 183.0
+L 548.8 211.3
+L 544.9 211.3
+L 544.9 198.2
+L 530.5 198.2
+L 530.5 211.3
+L 526.6 211.3
+L 526.6 183.0
+' fill='#0000FF'/>
+<path class='atom-6' d='M 554.3 210.3
+Q 555.0 208.5, 556.6 207.6
+Q 558.3 206.6, 560.5 206.6
+Q 563.4 206.6, 565.0 208.1
+Q 566.5 209.6, 566.5 212.3
+Q 566.5 215.1, 564.5 217.7
+Q 562.4 220.3, 558.2 223.4
+L 566.9 223.4
+L 566.9 225.5
+L 554.3 225.5
+L 554.3 223.7
+Q 557.7 221.2, 559.8 219.4
+Q 561.9 217.5, 562.9 215.9
+Q 563.9 214.2, 563.9 212.5
+Q 563.9 210.7, 563.0 209.7
+Q 562.1 208.7, 560.5 208.7
+Q 559.0 208.7, 558.0 209.3
+Q 557.0 209.9, 556.3 211.2
+L 554.3 210.3
+' fill='#0000FF'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:109-55-7  ---  MW: 102.179</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CN(C)CCCN</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C5H14N2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: dimethylaminopropylamine</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: N,N-dimethylpropane-1,3-diamine</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['N,N-dimethylpropane-1,3-diamine', '3-aminopropyl-dimethyl-amine', '109-55-7', '68497-58-5', '3-(Dimethylamino)propylamine', '3-Amino-1-(dimethylamino)propane', 'N,N-Dimethyl-1,3-diaminopropane', 'N,N-Dimethyl-1,3-propanediamine', 'N,N-Dimethyl-1,3-propylenediamine', 'N,N-Dimethyl-N-(3-aminopropyl)amine', 'N,N-Dimethylpropylenediamine', 'N,N-Dimethyltrimethylenediamine', 'N-Dimethyltrimethylenediamine', 'NSC1067', 'Propylamine, 3-(N,N-dimethylamino)-', 'WLN: Z3N1&1', 'EINECS 203-680-9', 'HSDB 5391', 'NSC 1067', 'gamma-(Dimethylamino)propylamine', '1-Amino-3-dimethylamino propane', '39380_FLUKA', '1-Amino-3-dimethylaminopropane', '3-Aminopropyldimethylamine', '3-Dimethylaminopropylamine', '4-04-00-01259 (Beilstein Handbook Reference)', 'InChI=1/C5H14N2/c1-7(2)5-3-4-6/h3-6H2,1-2H', 'AI3-25441', 'PROPANE,1-AMINO,3-DIMETHYLAMINO', 'BRN 0605293', 'CCRIS 4799', '240052_ALDRICH', 'N,N-dimethylpropane-1,3-diamine', '3-AMINO-(DIMETHYLPROPYLAMINE)', 'DIB', 'D145009_ALDRICH', '.gamma.-(Dimethylamino)propylamine', '1,3-Propanediamine, N,N-dimethyl-', '1-(Dimethylamino)-3-aminopropane', '1-Amino-3-(dimethylamino)propane', '3-(Dimethylamino)-1-propanamine', '3-(Dimethylamino)-1-propylamine']</text></svg>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 495.6,75.4 L 426.9,115.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 426.9,115.1 L 358.3,154.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 344.8,146.9 L 344.8,230.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 344.8,230.8 L 344.8,314.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 371.8,146.9 L 371.8,230.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 371.8,230.8 L 371.8,314.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 358.3,154.7 L 202.1,64.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 202.1,64.5 L 45.9,154.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 202.1,95.7 L 59.4,178.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 361.8,152.7 L 358.3,154.7 L 350.5,150.2' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 209.9,69.0 L 202.1,64.5 L 194.3,69.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 501.5 64.6
+Q 501.5 57.8, 504.9 54.0
+Q 508.3 50.2, 514.5 50.2
+Q 520.8 50.2, 524.2 54.0
+Q 527.5 57.8, 527.5 64.6
+Q 527.5 71.5, 524.1 75.4
+Q 520.7 79.3, 514.5 79.3
+Q 508.3 79.3, 504.9 75.4
+Q 501.5 71.5, 501.5 64.6
+M 514.5 76.1
+Q 518.9 76.1, 521.2 73.2
+Q 523.5 70.3, 523.5 64.6
+Q 523.5 59.0, 521.2 56.2
+Q 518.9 53.4, 514.5 53.4
+Q 510.2 53.4, 507.9 56.2
+Q 505.5 59.0, 505.5 64.6
+Q 505.5 70.3, 507.9 73.2
+Q 510.2 76.1, 514.5 76.1
+' fill='#FF0000'/>
+<path class='atom-0' d='M 531.9 50.5
+L 535.8 50.5
+L 535.8 62.5
+L 550.3 62.5
+L 550.3 50.5
+L 554.1 50.5
+L 554.1 78.8
+L 550.3 78.8
+L 550.3 65.7
+L 535.8 65.7
+L 535.8 78.8
+L 531.9 78.8
+L 531.9 50.5
+' fill='#FF0000'/>
+<path class='atom-2' d='M 345.3 335.1
+Q 345.3 328.3, 348.7 324.5
+Q 352.0 320.7, 358.3 320.7
+Q 364.6 320.7, 368.0 324.5
+Q 371.3 328.3, 371.3 335.1
+Q 371.3 342.0, 367.9 345.9
+Q 364.5 349.8, 358.3 349.8
+Q 352.1 349.8, 348.7 345.9
+Q 345.3 342.1, 345.3 335.1
+M 358.3 346.6
+Q 362.6 346.6, 365.0 343.7
+Q 367.3 340.8, 367.3 335.1
+Q 367.3 329.6, 365.0 326.8
+Q 362.6 323.9, 358.3 323.9
+Q 354.0 323.9, 351.6 326.7
+Q 349.3 329.5, 349.3 335.1
+Q 349.3 340.9, 351.6 343.7
+Q 354.0 346.6, 358.3 346.6
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:79-10-7  ---  MW: 72.0634</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: OC(=O)C=C</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C3H4O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: acrylic acid</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: prop-2-enoic acid</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['prop-2-enoic acid', 'Acrylic acid', '29862-29-1', '55927-87-2', '101360-15-0', '104922-39-6', '105913-47-1', '11132-69-7', '125857-68-3', '165724-08-3', '174594-09-3', '25987-55-7', '37241-23-9', '39341-22-5', '51142-25-7', '54578-44-8', '54990-82-8', '56747-65-0', '59233-19-1', '65742-16-7', '71767-27-6', '71767-28-7', '81031-52-9', '82446-45-5', '87913-02-8', '88650-89-9', '9003-03-6', '79-10-7', '54182-57-9', '9007-20-9', 'Carbomer 934P (NF)', 'Carbopol 934P (TN)', 'D03394', 'Carbomer 940 (NF)', 'Carbopol 940 (TN)', 'D03395', 'Carbomer 941 (NF)', 'Carbopol 941 (TN)', 'D03396', 'Carbomer 1342 (NF)', 'Carbopol 1342 (TN)', 'D03397', 'ST5213933', '181285_ALDRICH', '147230_ALDRICH', '181293_ALDRICH', 'Acroleic acid', 'Acrylic acid, glacial', 'Ethylenecarboxylic acid', 'NSC4765', 'Propene acid', 'Propenoic acid', 'WLN: QV1U1', 'Carbomer 934', 'AKR', 'Poly(acrylic acid) solution', 'Carbomer 934P', '407585_ALDRICH', 'prop-2-enoic acid', 'CHEBI:18308', 'Carbomere [INN-French]', '323667_ALDRICH', 'Carbomero [INN-Spanish]', 'Carbomerum [INN-Latin]', '306215_ALDRICH', '306223_ALDRICH', '306231_ALDRICH', 'LMFA01030193', 'InChI=1/C3H4O2/c1-2-3(4)5/h2H,1H2,(H,4,5', '4-02-00-01455 (Beilstein Handbook Reference)', 'AI3-15717', 'Acide acrylique [French]', 'Acido acrilio [Spanish]', 'Acrylic acid, inhibited [UN2218]  [Corrosive]', 'BRN 0635743', 'CCRIS 737', 'Caswell No. 009A', 'EINECS 201-177-9', 'HSDB 1421', 'Kyselina akrylova [Czech]', 'NSC 4765', 'RCRA waste no. U008', 'RCRA waste number U008', 'UN2218', '2-Propenoic acid, homopolymer', 'Acrylic acid homopolymer', 'Acrylic acid polymer', 'Acrylic acid resin', 'Acrylic acid, polymer', 'Acrylic acid, polymers', 'Acrylic polymer', 'Acrylic polymer resins', 'Acrylic resin', 'Acrysol A 1', 'Acrysol A 3', 'Acrysol A 5', 'Acrysol AC 5', 'Acrysol WS-24', 'Acrysol ase-75', 'Acrysol lmw-20X', 'Antiprex 461', 'Antiprex A', 'Arasorb 750', 'Arasorb S 100F', 'Arolon', 'Aron', 'Aron A 10H', 'Atactic poly(acrylic acid)', 'CCRIS 3234', 'Carbomer', 'Carbomer 1342', 'Carbomer 910', 'Carbomer 910 [USAN]', 'Carbomer 934 [USAN]', 'Carbomer 934p [USAN]', 'Carbomer 940 [USAN]', 'Carbomer 941 [USAN]', 'Carbopol 1342', 'Carbopol 910', 'Carbopol 934', 'Carbopol 934p', 'Carbopol 940', 'Carbopol 941', 'Carbopol 960', 'Carbopol 961', 'Carbopol 971P', 'Carbopol 974P', 'Carbopol 980', 'Carbopol 981', 'Carboset 515', 'Carboset Resin No. 515', 'Carboxy vinyl polymer', 'Carboxypolymethylene', 'Carpolene', 'Colloids 119/50', 'Cyguard 266', 'Dispex C40', 'Dow Latex 354', 'G-Cure', 'Good-rite K 37', 'Good-rite K 702', 'Good-rite K 732', 'Good-rite K-700', 'Good-rite K727', 'Good-rite WS 801', 'Haloflex 202', 'Haloflex 208', 'Joncryl 678', 'Junlon 110', 'Jurimer AC 10H', 'Jurimer AC 10P', 'NSC 106034', 'NSC 106035', 'NSC 106036', 'NSC 106037', 'NSC 112122', 'NSC 112123', 'NSC 114472', 'NSC 165257', 'Nalfloc 636', 'Neocryl A-1038', 'OLD 01', 'P 11H', 'P-11H', 'PA 11M', 'POLYACRYLIC ACID', 'Pemulen TR-1', 'Pemulen TR-2', 'Poly(acrylic acid)', 'Polyacrylate', 'Polyacrylate elastomers', 'Polymer of 2-propenoic acid, cross-linked with allyl ethers of pentaerythritol', 'Polymer of 2-propenoic acid, cross-linked with allyl ethers of sucrose', 'Polymer of 2-propenoic acid, cross-linked with allyl ethers of sucrose or pentaerythritol', 'Polymer of acrylic acid, cross-linked with allyl ethers of pentaerythritol', 'Polymer of acrylic acid, cross-linked with allyl ethers of sucrose or pentaerythritol', 'Polymer, carboxy vinyl', 'Polymerized acrylic acid', 'Polytex 973', 'Propenoic acid polymer', 'R968', 'Racryl', 'Revacryl A 191', 'NCGC00166246-01', 'Sokalan PAS', 'Solidokoll N', 'Synthemul 90-588', 'TB 1131', 'Tecpol', 'Texcryl', 'The viscosity of a neutralized 1.0 percent aqueous dispersion of Carbomer 1342 is between 9,500 and 26,500 centipoises', 'Versicol E 7', 'Versicol E15', 'Versicol E9', 'Versicol K 11', 'Versicol S 25', 'Viscalex HV 30', 'Viscon 103', 'WS 24', 'WS 801', 'XPA', '2-Carboxyethyl acrylate oligomers', '192023_ALDRICH', 'Poly(acrylic acid) partial sodium salt solution', '535931_ALDRICH', '192031_ALDRICH', '01730_FLUKA', '192058_ALDRICH', 'Carbomer 941', '2-Propenoic acid, 2-methyl-, 2-hydroxyethyl ester, polymer with ethenyl acetate and 2-ethylhexyl 2-propenoate', '523925_ALDRICH', '416002_ALDRICH', '2-Propenoic acid', 'Acrylic acid', 'C00511', 'Propenoate', 'Vinylformic acid', 'Carbopol', 'Carboxypolymethylene resin', 'Carbomer 940', 'Carbomer 910 (USAN)', 'Carbopol 910 (TN)', 'D03392', 'Carbomer 934 (NF)', 'Carbopol 934 (TN)', 'D03393', 'AIDS-209945', 'AIDS209945', 'Carbomer;Carbopol 934P']</text></svg>

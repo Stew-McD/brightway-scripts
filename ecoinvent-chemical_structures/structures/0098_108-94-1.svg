@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 533.6,212.9 L 452.9,212.9' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 452.9,212.9 L 372.3,212.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 533.6,187.1 L 452.9,187.1' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 452.9,187.1 L 372.3,187.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 379.8,200.0 L 293.5,349.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 293.5,349.4 L 121.0,349.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 121.0,349.4 L 34.7,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 34.7,200.0 L 121.0,50.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 121.0,50.6 L 293.5,50.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-1' d='M 293.5,50.6 L 379.8,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 375.4,207.5 L 379.8,200.0 L 375.4,192.5' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 297.8,341.9 L 293.5,349.4 L 284.9,349.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 129.6,349.4 L 121.0,349.4 L 116.7,341.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 39.0,207.5 L 34.7,200.0 L 39.0,192.5' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 116.7,58.1 L 121.0,50.6 L 129.6,50.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 284.9,50.6 L 293.5,50.6 L 297.8,58.1' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 539.3 200.1
+Q 539.3 193.3, 542.6 189.5
+Q 546.0 185.7, 552.3 185.7
+Q 558.6 185.7, 561.9 189.5
+Q 565.3 193.3, 565.3 200.1
+Q 565.3 207.0, 561.9 210.9
+Q 558.5 214.8, 552.3 214.8
+Q 546.0 214.8, 542.6 210.9
+Q 539.3 207.0, 539.3 200.1
+M 552.3 211.6
+Q 556.6 211.6, 558.9 208.7
+Q 561.3 205.8, 561.3 200.1
+Q 561.3 194.5, 558.9 191.7
+Q 556.6 188.9, 552.3 188.9
+Q 548.0 188.9, 545.6 191.7
+Q 543.3 194.5, 543.3 200.1
+Q 543.3 205.8, 545.6 208.7
+Q 548.0 211.6, 552.3 211.6
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:108-94-1  ---  MW: 98.1444</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: O=C1CCCCC1</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C6H10O</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: cyclohexanone</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Cyclohexanone</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Cyclohexanone', '11119-77-0', '9003-41-2', '9075-99-4', '108-94-1', '29135_FLUKA', '398241_SIAL', 'W390909_ALDRICH', '442532_SUPELCO', 'Anon', 'Anone', 'Cicloesanone', 'Cyclohexanon', 'Cykloheksanon', 'Hexanon', 'Hytrol O', 'Ketohexamethylene', 'NCI-C55005', 'NSC5711', 'Nadone', 'Pimelic ketone', 'Pimelin ketone', 'Sextone', 'WLN: L6VTJ', 'Cyclohexanone, homopolymer', 'ST5214418', 'C00414', 'Cyclohexanone', 'CYH', 'InChI=1/C6H10O/c7-6-4-2-1-3-5-6/h1-5H', 'ketocyclohexane', 'oxocyclohexane', 'ZINC04528575', 'AI3-00041', 'CCRIS 5897', 'Caswell No. 270', 'Cicloesanone [Italian]', 'Cyclohexanon [Dutch]', 'Cyclohexanone [UN1915]  [Flammable liquid]', 'Cykloheksanon [Polish]', 'EINECS 203-631-1', 'EPA Pesticide Chemical Code 025902', 'HSDB 186', 'NSC 5711', 'RCRA waste no. U057', 'RCRA waste number U057', 'UN1915', 'CHEBI:17854', 'NCGC00091786-01', 'C02019', 'Cyclic ketone', '29140_FLUKA', 'Hytrolo', 'c0195', '02482_FLUKA', 'C102180_SIAL']</text></svg>

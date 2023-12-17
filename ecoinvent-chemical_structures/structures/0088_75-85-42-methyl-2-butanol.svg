@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 45.9,200.0 L 202.1,109.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 202.1,109.8 L 358.3,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 358.3,200.0 L 268.1,356.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-2 atom-4' d='M 358.3,200.0 L 448.5,43.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-2 atom-5' d='M 358.3,200.0 L 426.9,239.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-2 atom-5' d='M 426.9,239.6 L 495.6,279.2' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 194.3,114.3 L 202.1,109.8 L 209.9,114.3' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-5' d='M 501.5 290.3
+Q 501.5 283.5, 504.9 279.7
+Q 508.3 275.9, 514.5 275.9
+Q 520.8 275.9, 524.2 279.7
+Q 527.5 283.5, 527.5 290.3
+Q 527.5 297.1, 524.1 301.1
+Q 520.7 304.9, 514.5 304.9
+Q 508.3 304.9, 504.9 301.1
+Q 501.5 297.2, 501.5 290.3
+M 514.5 301.7
+Q 518.9 301.7, 521.2 298.9
+Q 523.5 295.9, 523.5 290.3
+Q 523.5 284.7, 521.2 281.9
+Q 518.9 279.1, 514.5 279.1
+Q 510.2 279.1, 507.9 281.9
+Q 505.5 284.7, 505.5 290.3
+Q 505.5 296.0, 507.9 298.9
+Q 510.2 301.7, 514.5 301.7
+' fill='#FF0000'/>
+<path class='atom-5' d='M 531.9 276.2
+L 535.8 276.2
+L 535.8 288.2
+L 550.3 288.2
+L 550.3 276.2
+L 554.1 276.2
+L 554.1 304.5
+L 550.3 304.5
+L 550.3 291.4
+L 535.8 291.4
+L 535.8 304.5
+L 531.9 304.5
+L 531.9 276.2
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:75-85-4  ---  MW: 88.1492</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CCC(C)(C)O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C5H12O</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: 2-methyl-2-butanol</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2-Methylbutan-2-ol</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2-Methylbutan-2-ol', '75-85-4', 'Amylene hydrate (NF)', 'D02931', '2-Methylbutan-2-ol', '3-Methyl-butanol-(3) [German]', '4-01-00-01668 (Beilstein Handbook Reference)', 'AI3-24191', 'Amylalkohol, tertiaerer', 'Amylene hydrate [USAN]', 'Amylenum hydratum', 'BRN 1361351', 'Dimethylethylcarbinol', 'EINECS 200-908-9', 'Ethyldimethylcarbinol', 'HSDB 5005', 'NSC 25498', 't-Pentyl alcohol', '1,1-Dimethyl-1-propanol', '2-Butanol, 2-methyl-', '2-Methyl butanol-2', '2-Methyl-2-butanol', '3-Methylbutan-3-ol', 'Amylene hydrate', 'Dimethyl ethyl carbinol', 'Ethyl dimethyl carbinol', 'NSC25498', 'WLN: QX2&1&1', 't-Amyl alcohol', 'tert-Amyl alcohol', 'tert-Isoamyl alcohol', 'tert-Pentanol', 'tert-Pentyl alcohol', 'tert-n-Amyl alcohol', '19954_FLUKA', '152463_SIAL', '2-BUTANOL,2-METHYL', 'InChI=1/C5H12O/c1-4-5(2,3)6/h6H,4H2,1-3H', 'NCGC00166208-01', '240486_SIAL', 'ZINC01481970']</text></svg>

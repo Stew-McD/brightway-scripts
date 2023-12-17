@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 110.3,371.5 L 280.4,273.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 319.6,273.3 L 489.7,371.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 316.4,240.6 L 316.4,152.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 316.4,152.7 L 316.4,64.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 283.6,240.6 L 283.6,152.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 283.6,152.7 L 283.6,64.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-1' d='M 288.7 271.7
+Q 289.0 271.8, 290.3 272.4
+Q 291.6 272.9, 293.1 273.3
+Q 294.6 273.6, 296.0 273.6
+Q 298.7 273.6, 300.2 272.3
+Q 301.8 271.0, 301.8 268.7
+Q 301.8 267.2, 301.0 266.2
+Q 300.2 265.3, 299.0 264.7
+Q 297.8 264.2, 295.8 263.6
+Q 293.3 262.9, 291.8 262.1
+Q 290.3 261.4, 289.2 259.9
+Q 288.2 258.4, 288.2 255.8
+Q 288.2 252.3, 290.6 250.1
+Q 293.0 247.9, 297.8 247.9
+Q 301.1 247.9, 304.8 249.4
+L 303.9 252.5
+Q 300.5 251.1, 298.0 251.1
+Q 295.2 251.1, 293.7 252.3
+Q 292.2 253.4, 292.2 255.3
+Q 292.2 256.9, 293.0 257.8
+Q 293.8 258.7, 294.9 259.2
+Q 296.0 259.7, 298.0 260.3
+Q 300.5 261.1, 302.0 261.9
+Q 303.6 262.7, 304.6 264.4
+Q 305.8 266.0, 305.8 268.7
+Q 305.8 272.7, 303.1 274.8
+Q 300.5 276.9, 296.2 276.9
+Q 293.6 276.9, 291.7 276.3
+Q 289.8 275.8, 287.6 274.9
+L 288.7 271.7
+' fill='#000000'/>
+<path class='atom-1' d='M 308.7 247.8
+L 312.4 247.8
+L 312.4 251.3
+L 308.7 251.3
+L 308.7 247.8
+M 308.7 255.5
+L 312.4 255.5
+L 312.4 276.1
+L 308.7 276.1
+L 308.7 255.5
+' fill='#000000'/>
+<path class='atom-3' d='M 287.0 42.9
+Q 287.0 36.1, 290.4 32.3
+Q 293.7 28.5, 300.0 28.5
+Q 306.3 28.5, 309.6 32.3
+Q 313.0 36.1, 313.0 42.9
+Q 313.0 49.8, 309.6 53.7
+Q 306.2 57.6, 300.0 57.6
+Q 293.8 57.6, 290.4 53.7
+Q 287.0 49.8, 287.0 42.9
+M 300.0 54.4
+Q 304.3 54.4, 306.6 51.5
+Q 309.0 48.6, 309.0 42.9
+Q 309.0 37.4, 306.6 34.6
+Q 304.3 31.7, 300.0 31.7
+Q 295.7 31.7, 293.3 34.5
+Q 291.0 37.3, 291.0 42.9
+Q 291.0 48.6, 293.3 51.5
+Q 295.7 54.4, 300.0 54.4
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:9016-00-6  ---  MW: 74.1548</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: C[Si](C)=O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C2H6OSi</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: polydimethylsiloxane</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: dimethyl-oxosilane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['dimethyl-oxosilane', 'dimethyl-oxo-silane', 'keto-dimethyl-silane', '9063-73-4', '9087-48-3', '9087-49-4', '47956-45-6', '109946-28-3', '110616-98-3', '118731-39-8', '123243-00-5', '123515-75-3', '12619-98-6', '12620-09-6', '12680-27-2', '12680-28-3', '141093-32-5', '231934-55-7', '37200-44-5', '37221-89-9', '37340-53-7', '39457-57-3', '39476-41-0', '51569-26-7', '51888-90-5', '51910-51-1', '52232-96-9', '52622-98-7', '53125-20-5', '53239-64-8', '54351-38-1', '54351-90-5', '56730-54-2', '57679-15-9', '58391-68-7', '60440-54-2', '60842-63-9', '9016-00-6', '90250-23-0', '9049-10-9', '401N', 'A 50 (silicone)', 'A 80R', 'AF 60 (siloxane)', 'AK 100 (silicone)', 'AK 300000', 'AK 50 (siloxane)', 'AK 5000', 'AK 750', 'ASI 100 Methyl', 'ASP 3 (silicone)', 'AV 1000', 'Accuglass 210', 'Accuglass 211', 'Accuglass 305', 'Aeropax', 'Akvastop', 'Antaphron NM 42', 'Antifoam A compd', 'Antifoam FD 62', 'Aquasil E', 'B 160-40', 'BIO-PSA Q 7-4301', 'BW 400', 'BY 16-801', 'BY 16-817', 'BY 22-064', 'BY 27-003', 'BY 27-007', 'Baysilone M 50EL', 'Baysilone MA', 'Bicolon', 'CF 1241', 'CP-Sil 5', 'CT 89E', 'CY 52-111', 'Chaline Buruba 520C', 'DB 1 (silicone)', 'DC 2-1184', 'DC 2-1691', 'DC 225', 'DC 6-1104', 'DC-MDX 4-4139', 'Delesan', 'Dow corning 346', 'Dymasyl', 'Good-rite', 'HSDB 1444', 'Hycar', 'Meteorex', 'Mylicon', 'Mylocon', 'Ovol', 'POLY(OXY(DIMETHYLSILYLENE))', 'Poly(dimethylsiloxane)', 'Polydimethyl siloxane', 'Polysilon', 'Silain', 'Dimethylpolysiloxane', 'LS-2295', '361879_ALDRICH', '81153_FLUKA', '81157_FLUKA', '81158_FLUKA', '81159_FLUKA', 'DMPS2C_SIGMA', '81163_FLUKA', '81165_FLUKA', '81166_FLUKA', '81167_FLUKA', 'Polydimethylsiloxane', '81168_FLUKA', '81169_FLUKA', '482064_ALDRICH', '81171_FLUKA', '482145_ALDRICH', '181846_ALDRICH', '423785_ALDRICH', 'Poly(dimethylsiloxane), hydride terminated', '433012_ALDRICH', 'Poly(dimethylsiloxane), vinyl terminated', '85411_FLUKA', 'Silicone oil DC 200', '85412_FLUKA', '85413_FLUKA', 'Polydimethylsiloxane (silicone)', 'Dimethyloxosilane', 'EINECS 256-344-9', '85414_FLUKA', 'DMPS12M_SIGMA', 'DMPS1C_SIGMA', '85416_FLUKA', 'DMPS1M_SIGMA', '85421_FLUKA', 'DMPS2X_SIGMA', '85422_FLUKA', 'DMPS5C_SIGMA', 'DMPS5X_SIGMA', '85424_FLUKA', 'DMPSV_SIGMA', '85425_FLUKA']</text></svg>

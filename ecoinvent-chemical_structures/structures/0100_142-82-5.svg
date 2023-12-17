@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 30.0,226.0 L 120.0,174.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 120.0,174.0 L 210.0,226.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 210.0,226.0 L 300.0,174.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 300.0,174.0 L 390.0,226.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 390.0,226.0 L 480.0,174.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 480.0,174.0 L 570.0,226.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 115.5,176.6 L 120.0,174.0 L 124.5,176.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 205.5,223.4 L 210.0,226.0 L 214.5,223.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 295.5,176.6 L 300.0,174.0 L 304.5,176.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 385.5,223.4 L 390.0,226.0 L 394.5,223.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 475.5,176.6 L 480.0,174.0 L 484.5,176.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:142-82-5  ---  MW: 100.2034</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CCCCCCC</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C7H16</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: heptane</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: HEPTANE</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['HEPTANE', '142-82-5', '44607-13-8', '8031-33-2', '34495_RIEDEL', 'InChI=1/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H', '650536_ALDRICH', '442677_SUPELCO', 'CH3-[CH2]5-CH3', 'CHEBI:43098', '246654_ALDRICH', '80123_FLUKA', 'Dipropylmethane', 'Eptani', 'HEPTANE', 'Heptan', 'Heptanen', 'Heptyl hydride', 'NSC62784', 'Skellysolve C', 'WLN: 7H', 'n-Heptane', 'HP6', '32287_RIEDEL', '51730_FLUKA', '592579_ALDRICH', '15674_RIEDEL', '494526_ALDRICH', '51760_FLUKA', '154873_ALDRICH', '34873_SIAL', 'AI3-28784', 'Dipropyl methane', 'EINECS 205-563-8', 'Eptani [Italian]', 'Gettysolve-C', 'HSDB 90', 'Heptan [Polish]', 'Heptanen [Dutch]', 'Heptanes [UN1206]  [Flammable liquid]', 'NSC 62784', 'UN1206', '15677_RIEDEL', '32004_RIEDEL', 'Heptane Fraction', '51745_FLUKA']</text></svg>

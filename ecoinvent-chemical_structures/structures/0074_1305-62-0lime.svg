@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 142.2 310.3
+L 146.0 310.3
+L 146.0 322.4
+L 160.5 322.4
+L 160.5 310.3
+L 164.4 310.3
+L 164.4 338.7
+L 160.5 338.7
+L 160.5 325.6
+L 146.0 325.6
+L 146.0 338.7
+L 142.2 338.7
+L 142.2 310.3
+' fill='#FF0000'/>
+<path class='atom-0' d='M 169.9 324.4
+Q 169.9 317.6, 173.2 313.8
+Q 176.6 310.0, 182.9 310.0
+Q 189.1 310.0, 192.5 313.8
+Q 195.9 317.6, 195.9 324.4
+Q 195.9 331.3, 192.5 335.2
+Q 189.1 339.1, 182.9 339.1
+Q 176.6 339.1, 173.2 335.2
+Q 169.9 331.3, 169.9 324.4
+M 182.9 335.9
+Q 187.2 335.9, 189.5 333.0
+Q 191.9 330.1, 191.9 324.4
+Q 191.9 318.9, 189.5 316.1
+Q 187.2 313.2, 182.9 313.2
+Q 178.5 313.2, 176.2 316.0
+Q 173.9 318.8, 173.9 324.4
+Q 173.9 330.1, 176.2 333.0
+Q 178.5 335.9, 182.9 335.9
+' fill='#FF0000'/>
+<path class='atom-0' d='M 199.9 314.6
+L 209.6 314.6
+L 209.6 316.8
+L 199.9 316.8
+L 199.9 314.6
+' fill='#FF0000'/>
+<path class='atom-1' d='M 390.4 310.3
+L 394.2 310.3
+L 394.2 322.4
+L 408.7 322.4
+L 408.7 310.3
+L 412.5 310.3
+L 412.5 338.7
+L 408.7 338.7
+L 408.7 325.6
+L 394.2 325.6
+L 394.2 338.7
+L 390.4 338.7
+L 390.4 310.3
+' fill='#FF0000'/>
+<path class='atom-1' d='M 418.0 324.4
+Q 418.0 317.6, 421.4 313.8
+Q 424.7 310.0, 431.0 310.0
+Q 437.3 310.0, 440.7 313.8
+Q 444.0 317.6, 444.0 324.4
+Q 444.0 331.3, 440.6 335.2
+Q 437.2 339.1, 431.0 339.1
+Q 424.8 339.1, 421.4 335.2
+Q 418.0 331.3, 418.0 324.4
+M 431.0 335.9
+Q 435.3 335.9, 437.7 333.0
+Q 440.0 330.1, 440.0 324.4
+Q 440.0 318.9, 437.7 316.1
+Q 435.3 313.2, 431.0 313.2
+Q 426.7 313.2, 424.3 316.0
+Q 422.0 318.8, 422.0 324.4
+Q 422.0 330.1, 424.3 333.0
+Q 426.7 335.9, 431.0 335.9
+' fill='#FF0000'/>
+<path class='atom-1' d='M 448.1 314.6
+L 457.8 314.6
+L 457.8 316.8
+L 448.1 316.8
+L 448.1 314.6
+' fill='#FF0000'/>
+<path class='atom-2' d='M 171.9 76.3
+Q 171.9 69.3, 175.2 65.6
+Q 178.5 61.9, 184.8 61.9
+Q 190.7 61.9, 193.8 66.0
+L 191.1 68.1
+Q 188.9 65.1, 184.8 65.1
+Q 180.5 65.1, 178.3 68.0
+Q 176.0 70.9, 176.0 76.3
+Q 176.0 81.9, 178.3 84.8
+Q 180.7 87.7, 185.3 87.7
+Q 188.4 87.7, 192.0 85.8
+L 193.1 88.8
+Q 191.7 89.7, 189.4 90.3
+Q 187.2 90.9, 184.7 90.9
+Q 178.5 90.9, 175.2 87.1
+Q 171.9 83.3, 171.9 76.3
+' fill='#000000'/>
+<path class='atom-2' d='M 197.3 84.9
+Q 197.3 81.7, 199.9 79.9
+Q 202.6 78.1, 207.4 78.1
+L 210.4 78.1
+L 210.4 77.3
+Q 210.4 74.7, 209.4 73.6
+Q 208.3 72.5, 205.8 72.5
+Q 204.1 72.5, 202.8 72.9
+Q 201.6 73.1, 199.6 74.0
+L 198.4 71.4
+Q 202.2 69.6, 205.8 69.6
+Q 210.2 69.6, 212.2 71.5
+Q 214.2 73.3, 214.2 77.3
+L 214.2 90.5
+L 211.3 90.5
+Q 211.2 90.3, 211.1 89.7
+Q 211.0 89.1, 210.8 88.1
+Q 207.9 91.0, 204.0 91.0
+Q 201.0 91.0, 199.1 89.3
+Q 197.3 87.7, 197.3 84.9
+M 201.0 84.9
+Q 201.0 86.4, 202.0 87.2
+Q 203.0 88.0, 204.8 88.0
+Q 206.4 88.0, 207.9 87.3
+Q 209.4 86.5, 210.4 85.3
+L 210.4 80.9
+L 207.6 80.9
+Q 204.4 80.9, 202.7 81.9
+Q 201.0 82.9, 201.0 84.9
+' fill='#000000'/>
+<path class='atom-2' d='M 219.3 64.6
+Q 219.9 62.9, 221.6 61.9
+Q 223.2 60.9, 225.5 60.9
+Q 228.3 60.9, 229.9 62.4
+Q 231.5 64.0, 231.5 66.7
+Q 231.5 69.4, 229.4 72.0
+Q 227.4 74.6, 223.2 77.7
+L 231.8 77.7
+L 231.8 79.8
+L 219.2 79.8
+L 219.2 78.0
+Q 222.7 75.5, 224.7 73.7
+Q 226.8 71.9, 227.8 70.2
+Q 228.8 68.5, 228.8 66.8
+Q 228.8 65.0, 227.9 64.0
+Q 227.0 63.0, 225.5 63.0
+Q 224.0 63.0, 223.0 63.6
+Q 222.0 64.2, 221.3 65.6
+L 219.3 64.6
+' fill='#000000'/>
+<path class='atom-2' d='M 235.3 70.7
+L 240.3 70.7
+L 240.3 65.5
+L 242.5 65.5
+L 242.5 70.7
+L 247.6 70.7
+L 247.6 72.6
+L 242.5 72.6
+L 242.5 77.9
+L 240.3 77.9
+L 240.3 72.6
+L 235.3 72.6
+L 235.3 70.7
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:1305-62-0  ---  MW: 74.0946</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [OH-].[OH-].[Ca++]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: CaH2O2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: lime, hydrated, packed</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Calcium dihydroxide</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Calcium dihydroxide', '1305-62-0', '1333-29-5', '7719-01-9', 'Yukijirushisakanyo', 'CALCIUM ION, 2 WATERS COORDINATED', 'OC2', 'AI3-02602', 'Bell mine', 'Biocalc', 'Calbit', 'Calcium dihydroxide', 'Calcium hydrate', 'Calcium hydroxide (Ca(OH)2)', 'Calcium hydroxide slurry', 'Caldic 1000', 'Calvit', 'Carboxide', 'Caswell No. 144', 'EINECS 215-137-3', 'EPA Pesticide Chemical Code 075601', 'HSDB 919', 'Hydralime', 'Hydrated lime', 'Kalkhydrate', 'Kemikal', 'Kentoku K 100', 'Limbux', 'Lime hydrate', 'Lime milk', 'Lime water', 'Milk of lime', 'NICC 3000', 'Rhenofit CF', 'Sa 074', 'Slaked lime', 'Super Microstar', 'C12277', 'Calcium hydroxide', 'LS-3174', 'CHEBI:31341', 'Ca(OH)2', 'Kalziumhydroxid', 'Loeschkalk', 'calcium(2+) hydroxide', 'calcium(II) hydroxide', 'geloeschter Kalk', '450146_ALDRICH', 'Calcium hydroxide (JP15/USP)', 'Calkyl', 'Calkyl (TN)', 'D01083', '239232_SIAL', '31219_RIEDEL']</text></svg>

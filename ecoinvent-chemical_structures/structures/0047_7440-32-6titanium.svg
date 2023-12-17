@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 295.9 189.0
+L 287.1 189.0
+L 287.1 185.8
+L 308.0 185.8
+L 308.0 189.0
+L 299.7 189.0
+L 299.7 214.2
+L 295.9 214.2
+L 295.9 189.0
+' fill='#000000'/>
+<path class='atom-0' d='M 309.2 185.8
+L 312.9 185.8
+L 312.9 189.3
+L 309.2 189.3
+L 309.2 185.8
+M 309.2 193.6
+L 312.9 193.6
+L 312.9 214.2
+L 309.2 214.2
+L 309.2 193.6
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7440-32-6  ---  MW: 47.9</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Ti]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Ti</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: titanium, triple-melt</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: TITANIUM</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['TITANIUM', '37261-68-0', '37269-05-9', '37301-57-8', '37333-92-9', '53549-90-9', '54319-51-6', '57854-37-2', '62650-70-8', '67796-94-5', '7440-32-6', '14067-04-0', '11147-83-4', '12718-64-8', '12794-00-2', '182260-48-6', '195161-81-0', '37246-34-7', '37246-36-9', '37246-37-0', 'IRMM531C_FLUKA', '305812_ALDRICH', '347132_ALDRICH', '433675_ALDRICH', '348821_ALDRICH', '578347_ALDRICH', '209279_SIAL', '22Ti', 'CHEBI:33341', '348848_ALDRICH', 'titanio', 'Titanium, ion (Ti1+)', '460397_ALDRICH', 'titane', '267902_ALDRICH', 'Titanium(II) hydride', '369489_ALDRICH', '348791_ALDRICH', '274933_ALDRICH', 'Titanium atomic absorption standard solution', '266019_ALDRICH', '366994_ALDRICH', '266035_ALDRICH', '266043_ALDRICH', '266051_ALDRICH', '460400_ALDRICH', '348805_ALDRICH', '433667_ALDRICH', '268526_ALDRICH', '268496_ALDRICH', '348813_ALDRICH', '75A', 'ATI 24', 'C.P. titanium', 'CP Titanium', 'Contimet 30', 'EINECS 231-142-3', 'EMO 140', 'HSDB 868', 'IMI 115', 'IMI 130', 'IMI-125', 'Jistp28', 'NCI-C04251', 'Oremet', 'Smelloff-cutter titanium', 'T 40', 'T 60', 'TI 40', 'TI 40A', 'TI 50A', 'TI 75A', 'TITANIUM', 'Ti60', 'Titan vt 1-1', 'Titanate', 'Titanium (dry powder)', 'Titanium 50A', 'Titanium A-40', 'Titanium VT1', 'Titanium alloy', 'Titanium metal powder, dry', 'Titanium-125', 'VT 1', 'VT 1 L', 'VT 1-0', 'VT 1-1', 'VT 1-2', 'VT-1D', 'VTl-0', '267481_ALDRICH', 'IRMM531A_FLUKA', 'Ti', '513415_ALDRICH', '348856_ALDRICH', '348864_ALDRICH', '267503_ALDRICH', 'IRMM531B_FLUKA']</text></svg>

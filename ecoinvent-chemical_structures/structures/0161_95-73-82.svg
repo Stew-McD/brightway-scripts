@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 566.0,299.3 L 439.7,269.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 439.7,269.7 L 350.9,364.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 417.8,264.6 L 344.4,342.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 350.9,364.4 L 224.5,334.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 224.5,334.8 L 186.9,210.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 239.9,318.4 L 208.8,215.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 186.9,210.6 L 126.8,196.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 126.8,196.5 L 66.6,182.5' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-4 atom-6' d='M 186.9,210.6 L 275.7,115.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 275.7,115.9 L 402.1,145.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 282.2,137.4 L 386.7,161.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 402.1,145.5 L 438.9,106.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 438.9,106.2 L 475.7,67.0' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-7 atom-1' d='M 402.1,145.5 L 439.7,269.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 355.3,359.6 L 350.9,364.4 L 344.5,362.9' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 230.8,336.3 L 224.5,334.8 L 222.6,328.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 271.2,120.6 L 275.7,115.9 L 282.0,117.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-5' d='M 34.0 182.0
+Q 34.0 175.0, 37.2 171.3
+Q 40.6 167.6, 46.8 167.6
+Q 52.7 167.6, 55.8 171.7
+L 53.2 173.8
+Q 50.9 170.8, 46.8 170.8
+Q 42.6 170.8, 40.3 173.7
+Q 38.0 176.6, 38.0 182.0
+Q 38.0 187.6, 40.4 190.5
+Q 42.7 193.4, 47.3 193.4
+Q 50.4 193.4, 54.0 191.5
+L 55.2 194.5
+Q 53.7 195.4, 51.4 196.0
+Q 49.2 196.6, 46.7 196.6
+Q 40.6 196.6, 37.2 192.8
+Q 34.0 189.0, 34.0 182.0
+' fill='#00CC00'/>
+<path class='atom-5' d='M 58.7 165.8
+L 62.4 165.8
+L 62.4 196.2
+L 58.7 196.2
+L 58.7 165.8
+' fill='#00CC00'/>
+<path class='atom-8' d='M 479.9 51.8
+Q 479.9 44.7, 483.2 41.1
+Q 486.5 37.3, 492.8 37.3
+Q 498.7 37.3, 501.8 41.5
+L 499.1 43.6
+Q 496.9 40.6, 492.8 40.6
+Q 488.5 40.6, 486.3 43.5
+Q 484.0 46.3, 484.0 51.8
+Q 484.0 57.4, 486.3 60.3
+Q 488.7 63.1, 493.3 63.1
+Q 496.4 63.1, 500.0 61.3
+L 501.1 64.3
+Q 499.7 65.2, 497.4 65.8
+Q 495.2 66.3, 492.7 66.3
+Q 486.5 66.3, 483.2 62.6
+Q 479.9 58.8, 479.9 51.8
+' fill='#00CC00'/>
+<path class='atom-8' d='M 504.7 35.6
+L 508.3 35.6
+L 508.3 66.0
+L 504.7 66.0
+L 504.7 35.6
+' fill='#00CC00'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:95-73-8  ---  MW: 161.0304</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: Cc1ccc(Cl)cc1Cl</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C7H6Cl2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: 2,4-dichlorotoluene</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2,4-Dichloro-1-methylbenzene</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2,4-Dichloro-1-methylbenzene', '2,4-dichloro-1-methyl-benzene', '95-73-8', '2,4-dichloromethylbenzene', 'c0865', 'ST5406573', '45972_RIEDEL', 'InChI=1/C7H6Cl2/c1-5-2-3-6(8)4-7(5)9/h2-4H,1H', '2,4-Dichloro-1-methylbenzene', '4-05-00-00815 (Beilstein Handbook Reference)', 'BRN 1931691', 'EINECS 202-445-8', 'HSDB 2567', 'NSC 8764', '2,4-Dichlorotoluene', 'Benzene, 2,4-dichloro-1-methyl-', 'NSC8764', 'Toluene, 2,4-dichloro-', '145009_ALDRICH', 'NCGC00164064-01', '2,4-DCT']</text></svg>

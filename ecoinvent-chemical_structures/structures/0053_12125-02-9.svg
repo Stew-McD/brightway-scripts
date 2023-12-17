@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 98.9 179.3
+L 108.2 194.3
+Q 109.1 195.8, 110.6 198.4
+Q 112.0 201.1, 112.1 201.3
+L 112.1 179.3
+L 115.9 179.3
+L 115.9 207.6
+L 112.0 207.6
+L 102.0 191.2
+Q 100.9 189.3, 99.6 187.1
+Q 98.4 184.9, 98.1 184.2
+L 98.1 207.6
+L 94.4 207.6
+L 94.4 179.3
+L 98.9 179.3
+' fill='#0000FF'/>
+<path class='atom-0' d='M 121.3 179.3
+L 125.1 179.3
+L 125.1 191.3
+L 139.6 191.3
+L 139.6 179.3
+L 143.5 179.3
+L 143.5 207.6
+L 139.6 207.6
+L 139.6 194.5
+L 125.1 194.5
+L 125.1 207.6
+L 121.3 207.6
+L 121.3 179.3
+' fill='#0000FF'/>
+<path class='atom-0' d='M 161.1 215.3
+L 163.4 215.3
+L 163.4 217.4
+L 161.1 217.4
+L 161.1 221.8
+L 158.6 221.8
+L 158.6 217.4
+L 149.0 217.4
+L 149.0 215.8
+L 157.2 203.1
+L 161.1 203.1
+L 161.1 215.3
+M 152.0 215.3
+L 158.6 215.3
+L 158.6 204.7
+L 152.0 215.3
+' fill='#0000FF'/>
+<path class='atom-0' d='M 150.0 184.4
+L 155.0 184.4
+L 155.0 179.1
+L 157.2 179.1
+L 157.2 184.4
+L 162.3 184.4
+L 162.3 186.3
+L 157.2 186.3
+L 157.2 191.6
+L 155.0 191.6
+L 155.0 186.3
+L 150.0 186.3
+L 150.0 184.4
+' fill='#0000FF'/>
+<path class='atom-1' d='M 462.7 194.4
+Q 462.7 187.4, 465.9 183.7
+Q 469.3 180.0, 475.5 180.0
+Q 481.4 180.0, 484.5 184.1
+L 481.9 186.2
+Q 479.6 183.2, 475.5 183.2
+Q 471.3 183.2, 469.0 186.1
+Q 466.7 189.0, 466.7 194.4
+Q 466.7 200.0, 469.1 202.9
+Q 471.4 205.8, 476.0 205.8
+Q 479.1 205.8, 482.7 203.9
+L 483.9 206.9
+Q 482.4 207.9, 480.1 208.4
+Q 477.9 209.0, 475.4 209.0
+Q 469.3 209.0, 465.9 205.2
+Q 462.7 201.5, 462.7 194.4
+' fill='#00CC00'/>
+<path class='atom-1' d='M 487.4 178.2
+L 491.1 178.2
+L 491.1 208.6
+L 487.4 208.6
+L 487.4 178.2
+' fill='#00CC00'/>
+<path class='atom-1' d='M 495.9 184.0
+L 505.6 184.0
+L 505.6 186.1
+L 495.9 186.1
+L 495.9 184.0
+' fill='#00CC00'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:12125-02-9  ---  MW: 53.4913</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [NH4+].[Cl-]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: ClH4N</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: ammonium chloride</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: azanium chloride</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['azanium chloride', 'AMMONIUM CHLORIDE', '12125-02-9', '127634-24-6', '128532-42-3', '154383-48-9', '15630-61-2', '20548-08-7', '50295-88-0', '54450-56-5', '55871-05-1', '75944-36-4', '89485-84-7', '89485-85-8', '443093_ALDRICH', '[NH4]Cl', 'A0171_SIGMA', 'Filling solution for sodium electrode (2M NH4Cl)', '09677_FLUKA', 'Ammonium chloride solution', 'Ammonium ion standard solution', 'A9434_SIGMA', 'Ammonium Ion Chromatography Standard Solution Fluka', '31107_RIEDEL', '318639_ALDRICH', 'Ammonium solution', '09683_FLUKA', 'Conclyte-A (TN)', '443069_ALDRICH', 'Filling solution for ammonia electrode (0.53% NH4Cl)', '09685_FLUKA', '326372_ALDRICH', '88163_FLUKA', '95023_FLUKA', 'AI3-08937', 'AMMONIUM CHLORIDE', 'Amchlor', 'Ammon Chlor', 'Ammonchlor', 'Ammoneric', 'Ammonii Chloridum', 'Ammonium Chloratum', 'Ammonium Chloride Injection', 'Ammonium Chloride Tablets', 'Ammonium chloride ((NH4)Cl)', 'Ammonium chloride [USAN]', 'Ammonium chloride fume', 'Ammonium muriate', 'Ammoniumchlorid [German]', 'Ammoniumklorid', 'CCRIS 7262', 'Chlorammonic', 'Chlorammonic [France]', 'Chloramon', 'Chlorid ammonia [Czech]', 'Chlorid amonny [Czech]', 'Cloruro de Amonio', 'Darammon', 'EINECS 235-186-4', 'Elektrolyt', 'Gen-Diur (Spain)', 'HSDB 483', 'Muriate of Ammonia', 'Sal ammonia', 'Sal ammoniac', 'Salammonite', 'Salmiac', 'A4514_SIAL', '09725_FLUKA', '09718_FLUKA', 'pyrrolidine, 2,5-dimethyl-, (2R,5S)-', 'InChI=1/ClH.H3N/h1H;1H', 'Ammoniumchlorid', 'D01139', 'NH4Cl', '11209_RIEDEL', '254134_ALDRICH', '213330_SIAL', '443166_ALDRICH', 'Activity standard solution for ammonia electrode (100 ppm as nitrogen)', 'Ammonium chloride (JAN/USP)', 'CHEBI:31206', 'Conclyte-A']</text></svg>

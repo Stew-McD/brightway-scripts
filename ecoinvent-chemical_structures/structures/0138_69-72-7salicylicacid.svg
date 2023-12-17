@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 480.7,343.8 L 457.7,298.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 457.7,298.8 L 434.7,253.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 439.5,263.3 L 467.8,219.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 467.8,219.4 L 496.2,175.5' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 424.1,253.4 L 452.5,209.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 452.5,209.5 L 480.9,165.6' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 434.7,253.9 L 313.2,247.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 313.2,247.8 L 247.2,349.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 292.2,246.8 L 237.6,331.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 247.2,349.9 L 125.8,343.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 125.8,343.9 L 70.3,235.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 137.2,326.2 L 91.4,236.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 70.3,235.6 L 136.3,133.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 136.3,133.5 L 257.8,139.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-7 atom-8' d='M 145.9,152.3 L 246.3,157.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-8 atom-9' d='M 257.8,139.6 L 284.7,97.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-8 atom-9' d='M 284.7,97.9 L 311.6,56.2' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-8 atom-3' d='M 257.8,139.6 L 313.2,247.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 435.8,256.1 L 434.7,253.9 L 428.6,253.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 250.5,344.8 L 247.2,349.9 L 241.1,349.6' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 131.9,344.2 L 125.8,343.9 L 123.0,338.4' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 73.1,241.1 L 70.3,235.6 L 73.6,230.5' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path d='M 133.0,138.6 L 136.3,133.5 L 142.4,133.8' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-0' d='M 477.1 362.2
+Q 477.1 355.4, 480.5 351.6
+Q 483.8 347.8, 490.1 347.8
+Q 496.4 347.8, 499.7 351.6
+Q 503.1 355.4, 503.1 362.2
+Q 503.1 369.1, 499.7 373.0
+Q 496.3 376.9, 490.1 376.9
+Q 483.9 376.9, 480.5 373.0
+Q 477.1 369.1, 477.1 362.2
+M 490.1 373.7
+Q 494.4 373.7, 496.7 370.8
+Q 499.1 367.9, 499.1 362.2
+Q 499.1 356.6, 496.7 353.8
+Q 494.4 351.0, 490.1 351.0
+Q 485.8 351.0, 483.4 353.8
+Q 481.1 356.6, 481.1 362.2
+Q 481.1 367.9, 483.4 370.8
+Q 485.8 373.7, 490.1 373.7
+' fill='#FF0000'/>
+<path class='atom-0' d='M 507.5 348.1
+L 511.4 348.1
+L 511.4 360.1
+L 525.8 360.1
+L 525.8 348.1
+L 529.7 348.1
+L 529.7 376.4
+L 525.8 376.4
+L 525.8 363.3
+L 511.4 363.3
+L 511.4 376.4
+L 507.5 376.4
+L 507.5 348.1
+' fill='#FF0000'/>
+<path class='atom-2' d='M 487.6 151.8
+Q 487.6 145.0, 491.0 141.2
+Q 494.4 137.4, 500.6 137.4
+Q 506.9 137.4, 510.3 141.2
+Q 513.6 145.0, 513.6 151.8
+Q 513.6 158.7, 510.2 162.6
+Q 506.8 166.5, 500.6 166.5
+Q 494.4 166.5, 491.0 162.6
+Q 487.6 158.8, 487.6 151.8
+M 500.6 163.3
+Q 505.0 163.3, 507.3 160.4
+Q 509.6 157.5, 509.6 151.8
+Q 509.6 146.3, 507.3 143.5
+Q 505.0 140.6, 500.6 140.6
+Q 496.3 140.6, 494.0 143.4
+Q 491.6 146.2, 491.6 151.8
+Q 491.6 157.6, 494.0 160.4
+Q 496.3 163.3, 500.6 163.3
+' fill='#FF0000'/>
+<path class='atom-9' d='M 310.7 37.5
+Q 310.7 30.7, 314.1 26.9
+Q 317.5 23.1, 323.7 23.1
+Q 330.0 23.1, 333.4 26.9
+Q 336.7 30.7, 336.7 37.5
+Q 336.7 44.4, 333.3 48.3
+Q 329.9 52.2, 323.7 52.2
+Q 317.5 52.2, 314.1 48.3
+Q 310.7 44.5, 310.7 37.5
+M 323.7 49.0
+Q 328.1 49.0, 330.4 46.1
+Q 332.7 43.2, 332.7 37.5
+Q 332.7 32.0, 330.4 29.2
+Q 328.1 26.3, 323.7 26.3
+Q 319.4 26.3, 317.1 29.1
+Q 314.7 31.9, 314.7 37.5
+Q 314.7 43.3, 317.1 46.1
+Q 319.4 49.0, 323.7 49.0
+' fill='#FF0000'/>
+<path class='atom-9' d='M 341.2 23.5
+L 345.0 23.5
+L 345.0 35.5
+L 359.5 35.5
+L 359.5 23.5
+L 363.3 23.5
+L 363.3 51.8
+L 359.5 51.8
+L 359.5 38.7
+L 345.0 38.7
+L 345.0 51.8
+L 341.2 51.8
+L 341.2 23.5
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:69-72-7  ---  MW: 138.1226</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: OC(=O)c1ccccc1O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C7H6O3</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: salicylic acid</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2-Hydroxybenzoic acid</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2-Hydroxybenzoic acid', '7681-06-3', '8052-31-1', '69-72-7', '2-Hydroxybenzoic acid', 'Benzoic acid, 2-hydroxy-', 'NSC180', 'Phenol-2-carboxylic acid', 'Psoriacid-S-Stift', 'Retarder W', 'Rutranex', 'Salicylic acid collodion', 'Salicylic acid, tech.', 'Salonil', 'WLN: QVR BQ', 'STK258681', 'CHEBI:16914', 'K 537', '84210_FLUKA', 'UPCMLD-DP126:001', 'Acido salicilico [Italian]', 'Caswell No. 731', 'SAL', 'CPD-110', '27301_SIAL', 'o-hydroxybenzoic acid', 'SMP2_000145', 'salicylic acid', 'C00805', 'S7401_SIGMA', 'to_000004', 'MLS000069653', 'SMR000059163', 'DivK1c_000301', 'S8519_SIGMA', 'Salicylic acid-ring-UL-14C', '54-21-7 (SODIUM SALT)', 'AIDS-006789', 'AIDS006789', 'Occlusal', 'Spectrum_000948', 'BENZOIC ACID,2-HYDROXY   SALICYLIC ACID', 'Oprea1_040343', 'W398500_ALDRICH', '247588_SIAL', 'NCGC00159447-02', 'D00097', 'Salicylic acid (JP15/USP)', 'Salicylic acid (TN)', '2-Carboxyphenol', '2-Hydroxybenzenecarboxylic acid', 'AI3-02407', 'Acido o-idrossibenzoico [Italian]', 'S5922_SIGMA', 'Acidum salicylicum', 'BRN 0774890', 'CCRIS 6714', 'KBio1_000301', 'Compound w', 'Domerine', 'Duofilm', 'Duoplant', 'EINECS 200-712-3', 'EPA Pesticide Chemical Code 076602', 'Freezone', 'HSDB 672', 'Ionil', 'Ionil-Plus', 'Keralyt', 'Kyselina 2-hydroxybenzoova [Czech]', 'Kyselina salicylova [Czech]', 'NSC 180', 'Orthohydroxybenzoic acid', 'Salicylic acid & Sulfur Soap', 'Salicylic acid [USAN:JAN]', 'Salicylic acid soap', 'Saligel', 'Sebucare', 'Sebulex', 'Stri-Dex', 'Trans-Ver-Sal', 'Verrugon', 'o-Carboxyphenol', 'KBioSS_001428', '105910_ALDRICH', 'NCGC00159447-04', 'KBio2_001428', 'KBio2_003996', 'KBio2_006564', 'Advanced Pain Relief Callus Removers', 'Advanced Pain Relief Corn Removers', 'Benzoic acid, 2-hydroxy- (9CI)', 'CMC_13852', 'Clear away Wart Remover', "Dr. Scholl's Callus Removers", "Dr. Scholl's Corn Removers", "Dr. Scholl's Wart Remover Kit", 'Duofil Wart Remover', 'Ionil Plus', 'IDI1_000301', 'Salicylic acid (6CI,8CI)', 'SGCUT00012', 'NINDS_000301', 'InChI=1/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10']</text></svg>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 92.2,380.0 L 300.0,260.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 300.0,260.0 L 507.8,380.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 300.0,260.0 L 300.0,20.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:75-28-5  ---  MW: 58.123</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CC(C)C</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C4H10</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: used refrigerant R600a</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: 2-Methylpropane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['2-Methylpropane', 'ISOBUTANE', '75-28-5', '100494-20-0', '70357-15-2', 'CHEBI:30363', 'D04623', '1,1-Dimethylethane', '2-Methylpropane', 'A 31 (hydrocarbon)', 'Caswell No. 503A', 'EINECS 200-857-2', 'EPA Pesticide Chemical Code 097101', 'HSDB 608', 'ISOBUTANE', 'Propane, 2-methyl-', 'R 600a', 'Trimethylmethane', 'Isobutane (NF)', '295450_ALDRICH', '539821_ALDRICH', '(CH3)2CH-CH3']</text></svg>

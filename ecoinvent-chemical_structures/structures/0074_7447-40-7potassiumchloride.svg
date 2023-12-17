@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 122.4 200.8
+Q 122.4 193.8, 125.7 190.1
+Q 129.0 186.4, 135.3 186.4
+Q 141.2 186.4, 144.3 190.5
+L 141.6 192.6
+Q 139.4 189.6, 135.3 189.6
+Q 131.0 189.6, 128.8 192.5
+Q 126.5 195.4, 126.5 200.8
+Q 126.5 206.4, 128.8 209.3
+Q 131.2 212.2, 135.8 212.2
+Q 138.9 212.2, 142.5 210.3
+L 143.6 213.3
+Q 142.2 214.2, 139.9 214.8
+Q 137.7 215.4, 135.2 215.4
+Q 129.0 215.4, 125.7 211.6
+Q 122.4 207.8, 122.4 200.8
+' fill='#00CC00'/>
+<path class='atom-0' d='M 147.2 184.6
+L 150.9 184.6
+L 150.9 215.0
+L 147.2 215.0
+L 147.2 184.6
+' fill='#00CC00'/>
+<path class='atom-0' d='M 155.7 190.3
+L 165.4 190.3
+L 165.4 192.5
+L 155.7 192.5
+L 155.7 190.3
+' fill='#00CC00'/>
+<path class='atom-1' d='M 441.1 185.7
+L 444.9 185.7
+L 444.9 214.0
+L 441.1 214.0
+L 441.1 185.7
+M 456.9 185.7
+L 462.1 185.7
+L 450.9 198.5
+L 462.9 214.0
+L 457.9 214.0
+L 445.8 198.7
+L 456.9 185.7
+' fill='#000000'/>
+<path class='atom-1' d='M 465.2 190.8
+L 470.2 190.8
+L 470.2 185.5
+L 472.4 185.5
+L 472.4 190.8
+L 477.6 190.8
+L 477.6 192.7
+L 472.4 192.7
+L 472.4 197.9
+L 470.2 197.9
+L 470.2 192.7
+L 465.2 192.7
+L 465.2 190.8
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7447-40-7  ---  MW: 74.551</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Cl-].[K+]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: ClK</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: potassium chloride</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Potassium chloride</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Potassium chloride', '7447-40-7', '12599-00-7', '126415-35-8', '59217-68-4', '34262_RIEDEL', 'LS-1643', 'K-Predne-Dome', 'P5405_SIGMA', 'P9327_SIAL', '02682_FLUKA', 'Potassium atomic spectroscopy standard concentrate 1.00 g K', 'P9333_SIAL', '449989_ALDRICH', '60121_FLUKA', '60128_FLUKA', '60130_FLUKA', '409316_ALDRICH', '60131_FLUKA', '60133_FLUKA', '60134_FLUKA', '60136_FLUKA', '60137_FLUKA', '60138_FLUKA', '61794_FLUKA', '31248_RIEDEL', 'Acronitol', 'Addi-K', 'Apo-K', 'CCRIS 1962', 'Caswell No. 686', 'Celeka', 'Cena-K', 'Chlorid draselny [Czech]', 'Chloride of potash', 'Clor-K-Zaf', 'Diffu-K', 'Dipotassium dichloride', 'Durekal', 'Durules', 'Durules-K', 'EINECS 231-211-8', 'EPA Pesticide Chemical Code 013904', 'Enpott', 'HSDB 1252', 'Infalyte', 'K Tab', 'K-10', 'K-Care', 'K-Dur', 'K-Grad', 'K-Lease', 'K-Lyte Cl', 'K-Norm', 'K-SR', 'K-Sol', 'K-Tab', 'KCL Retard', 'KSR', 'Kadalex', 'Kalcorid', 'Kaleorid', 'Kaliduron', 'Kaliglutol', 'Kalilente', 'Kalinor-Retard P', 'Kalinorm', 'Kalinorm Depottab', 'Kaliolite', 'Kalipor', 'Kalipoz', 'Kalitrans Retard', 'Kalium Duriles', 'Kalium Durules', 'Kalium Retard', 'Kalium S.R.', 'Kalium SR', 'Kalium-Durettes', 'Kalium-R', 'Kaon Cl', 'Kaon-Cl 10', 'Kaon-Cl TABS', 'Kato', 'Kay-Cee-L', 'Kay-Ciel', 'Kayciel', 'Keylyte', 'Klorvess', 'Lento-K', 'Lento-Kalium', 'Leo-K', 'Micro-K', 'Micro-K Extentcaps', 'Micro-Kalium Retard', 'Miopotasio', 'Monopotassium chloride', 'Muriate of potash', 'NSC 77368', 'Natural sylvite', 'Neobakasal', 'Nu-K', 'Peter-kal', 'Plus Kalium Retard', 'Potasion', 'Potasol', 'Potassium chloride (K3Cl3)', 'Potassium chloride [JAN]', 'Potassium chloride solution', 'Potassium muriate', 'Rekawan Retard', 'Repone K', 'Rum-K', 'Slow-K tablets', 'Span-K', 'Steropotassium', 'Super K', 'Super K (salt)', 'Ten-K', 'Tripotassium trichloride', 'Ultra K Chlor', 'Ultra-K-Chlor', 'P4504_SIAL', '05257_FLUKA', '378852_ALDRICH', 'CHEBI:32588', 'sylvite', 'ISA (ionic strength adjustment solution: 1 M KCl)', 'P9541_SIGMA', '443085_ALDRICH', 'Filling solution for reference Ag/AgCl electrode (30% KCl/trace AgCl)', '34070_RIEDEL', 'Potassium chloride (JP15/USP)', '204099_ALDRICH', '58221_FLUKA', 'Conductance standard solution', 'CLK', 'Potassium chloride standard', 'Kaliumchlorid', '[KCl]', '60142_FLUKA', 'Potassium standard for AAS', '03375_FLUKA', 'Potassium standard concentrate 10.00 g K', '60032_FLUKA', 'D02060', 'K-dur (TN)', 'KCL', 'KCL (TN)', 'Kaon-Cl (TN)', 'Klor-con (TN)', 'Chloropotassuril', 'Chlorvescent', 'Emplets potassium chloride', 'Enseal', 'K-Contin', 'K-Lor', 'K-Lyte/Cl', 'KCl-retard Zyma', 'Kalitabs', 'Kaochlor', 'Kaon-Cl', 'Kay Ciel', 'Kay-EM', 'Klor-Con', 'Klor-Lyte', 'Kloren', 'Klotrix', 'NSC77368', 'Pfiklor', 'Potassium chloride', 'Potassium chloride (KCl)', 'Potassium monochloride', 'Potassium thallium chloride (KTlCl)', 'Potavescent', 'Rekawan', 'Slow-K', 'WLN: KA G', 'component of Kadalex', 'P8041_SIGMA', '319309_SIAL', '11118_FLUKA', 'Conductivity Standard Solution, 500 - S/cm; Potassium chloride solution', 'component of K-Predne-Dome', 'Klotrix (TN)', 'P3911_SIAL', '05433_FLUKA', 'Conductivity Standard Solution, 1413 - S/cm; Potassium chloride solution', '12636_RIEDEL', '451029_ALDRICH']</text></svg>

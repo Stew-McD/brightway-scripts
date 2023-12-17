@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 36.5,49.5 L 114.8,94.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 114.8,94.6 L 193.0,139.8' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 210.4,170.6 L 210.4,260.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 210.4,260.6 L 210.4,350.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 227.7,139.8 L 305.9,94.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-1 atom-3' d='M 305.9,94.6 L 384.2,49.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 384.2,49.5 L 461.3,94.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 461.3,94.0 L 538.4,138.5' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 384.2,84.2 L 446.2,120.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 446.2,120.1 L 523.3,164.6' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 380.3,51.7 L 384.2,49.5 L 388.0,51.7' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-1' d='M 204.1 135.7
+L 213.4 150.7
+Q 214.3 152.1, 215.8 154.8
+Q 217.3 157.5, 217.3 157.7
+L 217.3 135.7
+L 221.1 135.7
+L 221.1 164.0
+L 217.2 164.0
+L 207.3 147.6
+Q 206.1 145.7, 204.9 143.5
+Q 203.7 141.3, 203.3 140.6
+L 203.3 164.0
+L 199.6 164.0
+L 199.6 135.7
+L 204.1 135.7
+' fill='#0000FF'/>
+<path class='atom-4' d='M 537.5 162.9
+Q 537.5 156.1, 540.8 152.3
+Q 544.2 148.5, 550.5 148.5
+Q 556.7 148.5, 560.1 152.3
+Q 563.5 156.1, 563.5 162.9
+Q 563.5 169.8, 560.1 173.7
+Q 556.7 177.6, 550.5 177.6
+Q 544.2 177.6, 540.8 173.7
+Q 537.5 169.9, 537.5 162.9
+M 550.5 174.4
+Q 554.8 174.4, 557.1 171.5
+Q 559.5 168.6, 559.5 162.9
+Q 559.5 157.4, 557.1 154.6
+Q 554.8 151.7, 550.5 151.7
+Q 546.1 151.7, 543.8 154.5
+Q 541.5 157.3, 541.5 162.9
+Q 541.5 168.7, 543.8 171.5
+Q 546.1 174.4, 550.5 174.4
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:68-12-2  ---  MW: 73.0944</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CN(C)C=O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C3H7NO</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: N,N-dimethylformamide</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: N,N-Dimethylformamide</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['N,N-Dimethylformamide', 'N,N-Dimethylmethanamide', '68-12-2', '114057-15-7', '15175-63-0', '15175-77-6', '33513-42-7', 'FORMIN ACID,AMIDE,N,N-DIMETHYL', '227056_ALDRICH', 'formamide, dimethyl-', '437573_SIAL', '72438_FLUKA', 'DMF (amide)', 'DMFA', 'Dimethylforamide', 'Dimethylformamid', 'Dimethylformamide', 'Dimetilformamide', 'Dwumetyloformamid', 'Formamide, N,N-dimethyl-', 'N-Formyldimethylamine', 'NSC-5356', 'NSC5356', 'U-4224', 'WLN: VHN1&1', '40243_FLUKA', '15440_RIEDEL', 'ST5214383', '442568_SUPELCO', '270547_ALDRICH', '494488_ALDRICH', 'ZINC00901648', 'NCGC00090785-01', '539465_ALDRICH', 'AI3-03311', 'CCRIS 1638', 'Caswell No. 366A', 'Dimethyl formamide', 'Dimethylamid kyseliny mravenci [Czech]', 'Dimethylformamid [German]', 'Dimetilformamide [Italian]', 'Dimetylformamidu [Czech]', 'Dwumetyloformamid [Polish]', 'EINECS 200-679-5', 'EPA Pesticide Chemical Code 366200', 'Formic acid, amide, N,N-dimethyl-', 'HSDB 78', 'N,N-Dimethyl formamide', 'N,N-Dimethylformamide [UN2265]  [Flammable liquid]', 'N,N-Dimetilformamida [Spanish]', 'NCI-C60913', 'NSC 5356', 'UN2265', '648531_ALDRICH', '40248_FLUKA', '34699_RIEDEL', 'InChI=1/C3H7NO/c1-4(2)3-5/h3H,1-2H', '644390_ALDRICH', 'AIDS-000716', 'AIDS000716', 'CHEBI:17741', '154814_SIAL', 'C03134', 'DMF', 'N,N-Dimethylformamide', 'N,N-Dimethylmethanamide', 'NCGC00090785-03', 'D4551_SIGMA', 'NCGC00090785-02', '33120_RIEDEL', '319937_SIAL']</text></svg>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 278.7 183.8
+L 282.6 183.8
+L 282.6 195.8
+L 297.1 195.8
+L 297.1 183.8
+L 300.9 183.8
+L 300.9 212.1
+L 297.1 212.1
+L 297.1 199.0
+L 282.6 199.0
+L 282.6 212.1
+L 278.7 212.1
+L 278.7 183.8
+' fill='#000000'/>
+<path class='atom-0' d='M 306.2 194.4
+L 306.2 191.5
+L 309.8 191.5
+L 309.8 188.5
+Q 309.8 185.0, 311.6 183.3
+Q 313.5 181.7, 316.3 181.7
+Q 317.7 181.7, 318.9 182.0
+Q 320.0 182.2, 321.3 182.8
+L 320.1 185.4
+Q 318.3 184.7, 316.7 184.7
+Q 315.2 184.7, 314.4 185.6
+Q 313.5 186.5, 313.5 188.2
+L 313.5 191.5
+L 319.9 191.5
+L 319.9 194.4
+L 313.5 194.4
+L 313.5 218.3
+L 309.8 218.3
+L 309.8 194.4
+L 306.2 194.4
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7440-58-6  ---  MW: 178.49</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Hf]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Hf</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: hafnium sponge</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: HAFNIUM</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['HAFNIUM', '412316-00-8', '7440-58-6', 'HF', '266809_ALDRICH', '266795_ALDRICH', 'Celtium', 'EINECS 231-166-4', 'HAFNIUM', 'HSDB 552', 'Hafnium and compounds', 'Hafnium powder, dry [UN2545]  [Spontaneously combustible]', 'Hafnium powder, wetted with not <25% water (a visible excess of water must be present) (a) mechanically produced, particle size <53 microns, (b) chemically produced, particle size <840 microns [UN1326]  [Flammable solid]', 'Hafnium, elemental', 'UN1326', 'UN2545', '72Hf', '266752_ALDRICH', 'hafnio', 'CHEBI:33343', '356905_ALDRICH', '266760_ALDRICH', '266779_ALDRICH', '266787_ALDRICH']</text></svg>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 445.9,200.0 L 154.1,200.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 445.9,249.8 L 154.1,249.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 445.9,150.2 L 154.1,150.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 457.9 210.8
+Q 458.2 210.9, 459.5 211.5
+Q 460.9 212.0, 462.3 212.4
+Q 463.8 212.7, 465.2 212.7
+Q 467.9 212.7, 469.5 211.4
+Q 471.0 210.1, 471.0 207.8
+Q 471.0 206.3, 470.2 205.3
+Q 469.5 204.3, 468.3 203.8
+Q 467.1 203.3, 465.1 202.7
+Q 462.5 201.9, 461.0 201.2
+Q 459.5 200.5, 458.5 199.0
+Q 457.4 197.5, 457.4 194.9
+Q 457.4 191.3, 459.8 189.1
+Q 462.3 186.9, 467.1 186.9
+Q 470.3 186.9, 474.1 188.5
+L 473.1 191.6
+Q 469.7 190.2, 467.2 190.2
+Q 464.4 190.2, 462.9 191.3
+Q 461.4 192.5, 461.4 194.4
+Q 461.4 195.9, 462.2 196.9
+Q 463.0 197.8, 464.1 198.3
+Q 465.3 198.8, 467.2 199.4
+Q 469.7 200.2, 471.3 201.0
+Q 472.8 201.8, 473.9 203.5
+Q 475.0 205.1, 475.0 207.8
+Q 475.0 211.7, 472.3 213.9
+Q 469.7 215.9, 465.4 215.9
+Q 462.9 215.9, 460.9 215.4
+Q 459.1 214.9, 456.8 213.9
+L 457.9 210.8
+' fill='#000000'/>
+<path class='atom-0' d='M 488.3 194.3
+Q 492.6 194.3, 494.9 196.9
+Q 497.3 199.6, 497.3 204.5
+Q 497.3 209.7, 494.5 212.6
+Q 491.7 215.5, 486.8 215.5
+Q 483.5 215.5, 480.5 214.3
+L 478.7 213.9
+L 478.7 184.8
+L 482.5 184.8
+L 482.5 196.9
+Q 484.6 194.3, 488.3 194.3
+M 486.7 212.5
+Q 489.9 212.5, 491.7 210.5
+Q 493.5 208.3, 493.5 204.5
+Q 493.5 201.0, 492.1 199.1
+Q 490.7 197.2, 488.1 197.2
+Q 486.0 197.2, 484.5 198.3
+Q 483.0 199.5, 482.5 201.4
+L 482.5 211.9
+Q 484.5 212.5, 486.7 212.5
+' fill='#000000'/>
+<path class='atom-1' d='M 103.7 210.8
+Q 104.1 210.9, 105.4 211.5
+Q 106.7 212.0, 108.1 212.4
+Q 109.6 212.7, 111.1 212.7
+Q 113.7 212.7, 115.3 211.4
+Q 116.9 210.1, 116.9 207.8
+Q 116.9 206.3, 116.1 205.3
+Q 115.3 204.3, 114.1 203.8
+Q 112.9 203.3, 110.9 202.7
+Q 108.4 201.9, 106.9 201.2
+Q 105.4 200.5, 104.3 199.0
+Q 103.3 197.5, 103.3 194.9
+Q 103.3 191.3, 105.7 189.1
+Q 108.1 186.9, 112.9 186.9
+Q 116.2 186.9, 119.9 188.5
+L 119.0 191.6
+Q 115.6 190.2, 113.0 190.2
+Q 110.3 190.2, 108.7 191.3
+Q 107.2 192.5, 107.3 194.4
+Q 107.3 195.9, 108.0 196.9
+Q 108.8 197.8, 109.9 198.3
+Q 111.1 198.8, 113.0 199.4
+Q 115.6 200.2, 117.1 201.0
+Q 118.6 201.8, 119.7 203.5
+Q 120.8 205.1, 120.8 207.8
+Q 120.8 211.7, 118.2 213.9
+Q 115.6 215.9, 111.2 215.9
+Q 108.7 215.9, 106.8 215.4
+Q 104.9 214.9, 102.7 213.9
+L 103.7 210.8
+' fill='#000000'/>
+<path class='atom-1' d='M 134.1 194.3
+Q 138.4 194.3, 140.8 196.9
+Q 143.2 199.6, 143.2 204.5
+Q 143.2 209.7, 140.3 212.6
+Q 137.5 215.5, 132.6 215.5
+Q 129.4 215.5, 126.3 214.3
+L 124.5 213.9
+L 124.5 184.8
+L 128.3 184.8
+L 128.3 196.9
+Q 130.5 194.3, 134.1 194.3
+M 132.6 212.5
+Q 135.7 212.5, 137.5 210.5
+Q 139.3 208.3, 139.3 204.5
+Q 139.3 201.0, 137.9 199.1
+Q 136.5 197.2, 133.9 197.2
+Q 131.8 197.2, 130.3 198.3
+Q 128.9 199.5, 128.3 201.4
+L 128.3 211.9
+Q 130.3 212.5, 132.6 212.5
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7440-36-0  ---  MW: 243.5</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Sb]#[Sb]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Sb2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: antimony</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: stibanylidynestibane</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['stibanylidynestibane', 'stybylidynestibane', '117011-47-9', '73063-67-9', '7440-36-0', 'Antimony Black', 'Antimony and compounds', 'Antimony powder [UN2871]  [Poison]', 'Antimony, elemental', 'Antimony, metallic', 'Antimony, regulus', 'Antymon [Polish]', 'C.I. 77050', 'CI 77050', 'EINECS 231-146-5', 'HSDB 508', 'Regulus of antimony', 'Stibium', 'Stibium metallicum', 'UN2871', 'diantimony', 'CHEBI:30303', 'Sb#Sb']</text></svg>

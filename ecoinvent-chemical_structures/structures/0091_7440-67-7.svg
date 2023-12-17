@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 282.9 211.2
+L 297.2 189.1
+L 283.4 189.1
+L 283.4 185.8
+L 302.0 185.8
+L 302.0 188.7
+L 287.6 210.8
+L 301.8 210.8
+L 301.8 214.2
+L 282.9 214.2
+L 282.9 211.2
+' fill='#000000'/>
+<path class='atom-0' d='M 308.3 193.6
+L 308.8 196.4
+Q 310.9 193.2, 314.4 193.2
+Q 315.6 193.2, 317.1 193.6
+L 316.5 197.0
+Q 314.8 196.6, 313.8 196.6
+Q 312.1 196.6, 311.0 197.3
+Q 309.9 197.9, 309.0 199.5
+L 309.0 214.2
+L 305.3 214.2
+L 305.3 193.6
+L 308.3 193.6
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7440-67-7  ---  MW: 91.22</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Zr]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: Zr</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: zirconium sponge, nuclear-grade</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: ZIRCONIUM</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['ZIRCONIUM', '141631-75-6', '141631-77-8', '182260-46-4', '7440-67-7', '141631-74-5', '419141_ALDRICH', '497428_ALDRICH', '14602_RIEDEL', '403288_ALDRICH', 'CHEBI:33342', '267678_ALDRICH', 'circonio', 'zirconio', '208558_ALDRICH', 'Zirconium(II) hydride', '267651_ALDRICH', 'Zirkonium', '267694_ALDRICH', 'EINECS 231-176-9', 'HSDB 2528', 'UN1358', 'UN1932', 'UN2008', 'UN2009', 'UN2858', 'ZIRCONIUM', 'Zircat', 'Zirconium and compounds', 'Zirconium compounds', 'Zirconium metal, dry, chemically produced, finer than 20 mesh particle size (UN2008)', 'Zirconium powder', 'Zirconium powder, dry [UN2008]  [Spontaneously combustible]', 'Zirconium powder, wetted with not <25% water (a visible excess of water must be present) (a) mechanically produced, particle size <53 microns, (b) chemically produced, particle size <840 microns [UN1358]  [Flammable solid]', 'Zirconium scrap [UN1932]  [Spontaneously combustible]', 'Zirconium, dry, coiled wire, finished metal sheets, strip (thinner than 254 microns but not thinner than 18 microns) [UN2858]  [Flammable solid]', 'Zirconium, dry, finished sheets, strip or coiled wire [UN2009]  [Spontaneously combustible]', 'Zirconium, elemental', '356751_ALDRICH', 'Zirconium  solution', 'Zirconium ICP/DCP standard solution', '267724_ALDRICH', 'Zirconium standard for AAS', '96568_FLUKA', 'Zr', '40Zr', '403296_ALDRICH']</text></svg>

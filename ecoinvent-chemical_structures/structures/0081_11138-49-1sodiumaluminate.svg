@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-1 atom-2' d='M 81.9,259.8 L 179.5,259.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-1 atom-2' d='M 179.5,259.8 L 277.0,259.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-1 atom-2' d='M 81.9,295.7 L 179.5,295.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-1 atom-2' d='M 179.5,295.7 L 277.0,295.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 337.5,259.8 L 427.8,259.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 427.8,259.8 L 518.1,259.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 337.5,295.7 L 427.8,295.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-2 atom-3' d='M 427.8,295.7 L 518.1,295.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 293.7 104.3
+L 303.0 119.3
+Q 303.9 120.8, 305.4 123.5
+Q 306.9 126.2, 307.0 126.3
+L 307.0 104.3
+L 310.7 104.3
+L 310.7 132.6
+L 306.9 132.6
+L 296.9 116.2
+Q 295.7 114.3, 294.5 112.1
+Q 293.3 109.9, 292.9 109.2
+L 292.9 132.6
+L 289.3 132.6
+L 289.3 104.3
+L 293.7 104.3
+' fill='#000000'/>
+<path class='atom-0' d='M 316.0 127.1
+Q 316.0 123.8, 318.6 122.0
+Q 321.2 120.2, 326.1 120.2
+L 329.1 120.2
+L 329.1 119.4
+Q 329.1 116.8, 328.0 115.8
+Q 327.0 114.7, 324.4 114.7
+Q 322.8 114.7, 321.5 115.0
+Q 320.2 115.3, 318.2 116.2
+L 317.1 113.6
+Q 320.9 111.7, 324.5 111.7
+Q 328.9 111.7, 330.9 113.6
+Q 332.9 115.4, 332.9 119.5
+L 332.9 132.6
+L 330.0 132.6
+Q 329.9 132.5, 329.8 131.9
+Q 329.7 131.2, 329.4 130.2
+Q 326.6 133.1, 322.7 133.1
+Q 319.6 133.1, 317.8 131.5
+Q 316.0 129.8, 316.0 127.1
+M 319.7 127.0
+Q 319.7 128.5, 320.7 129.4
+Q 321.6 130.2, 323.4 130.2
+Q 325.0 130.2, 326.6 129.4
+Q 328.1 128.7, 329.1 127.4
+L 329.1 123.0
+L 326.3 123.0
+Q 323.0 123.0, 321.4 124.0
+Q 319.7 125.0, 319.7 127.0
+' fill='#000000'/>
+<path class='atom-0' d='M 337.9 112.9
+L 342.9 112.9
+L 342.9 107.6
+L 345.1 107.6
+L 345.1 112.9
+L 350.2 112.9
+L 350.2 114.8
+L 345.1 114.8
+L 345.1 120.1
+L 342.9 120.1
+L 342.9 114.8
+L 337.9 114.8
+L 337.9 112.9
+' fill='#000000'/>
+<path class='atom-1' d='M 48.1 277.8
+Q 48.1 271.0, 51.4 267.2
+Q 54.8 263.4, 61.1 263.4
+Q 67.3 263.4, 70.7 267.2
+Q 74.1 271.0, 74.1 277.8
+Q 74.1 284.7, 70.7 288.6
+Q 67.3 292.5, 61.1 292.5
+Q 54.8 292.5, 51.4 288.6
+Q 48.1 284.8, 48.1 277.8
+M 61.1 289.3
+Q 65.4 289.3, 67.7 286.4
+Q 70.1 283.5, 70.1 277.8
+Q 70.1 272.3, 67.7 269.5
+Q 65.4 266.6, 61.1 266.6
+Q 56.7 266.6, 54.4 269.4
+Q 52.1 272.2, 52.1 277.8
+Q 52.1 283.6, 54.4 286.4
+Q 56.7 289.3, 61.1 289.3
+' fill='#FF0000'/>
+<path class='atom-2' d='M 305.8 292.9
+L 302.8 284.6
+L 291.6 284.6
+L 288.7 292.9
+L 284.9 292.9
+L 294.7 264.6
+L 299.4 264.6
+L 309.5 292.9
+L 305.8 292.9
+M 292.7 281.4
+L 301.7 281.4
+L 297.1 268.6
+L 292.7 281.4
+' fill='#000000'/>
+<path class='atom-2' d='M 311.4 262.6
+L 315.1 262.6
+L 315.1 292.9
+L 311.4 292.9
+L 311.4 262.6
+' fill='#000000'/>
+<path class='atom-2' d='M 320.0 268.3
+L 329.7 268.3
+L 329.7 270.4
+L 320.0 270.4
+L 320.0 268.3
+' fill='#000000'/>
+<path class='atom-3' d='M 525.9 277.8
+Q 525.9 271.0, 529.3 267.2
+Q 532.7 263.4, 538.9 263.4
+Q 545.2 263.4, 548.6 267.2
+Q 551.9 271.0, 551.9 277.8
+Q 551.9 284.7, 548.5 288.6
+Q 545.1 292.5, 538.9 292.5
+Q 532.7 292.5, 529.3 288.6
+Q 525.9 284.8, 525.9 277.8
+M 538.9 289.3
+Q 543.3 289.3, 545.6 286.4
+Q 547.9 283.5, 547.9 277.8
+Q 547.9 272.3, 545.6 269.5
+Q 543.3 266.6, 538.9 266.6
+Q 534.6 266.6, 532.3 269.4
+Q 529.9 272.2, 529.9 277.8
+Q 529.9 283.6, 532.3 286.4
+Q 534.6 289.3, 538.9 289.3
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:11138-49-1  ---  MW: 81.9701</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Na+].O=[Al-]=O</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: AlNaO2</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: sodium aluminate, powder</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: </text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['7758-17-0', '11138-49-1', '12393-50-9', '12598-12-8', '1302-42-7', '162264-71-3', '180395-80-6', 'ALUMINUM SODIUM OXIDE', 'Alumina-C', 'Dynaflock L', 'EINECS 234-391-6', 'J 242', 'Maxifloc 8010', 'Monofrax H', 'Aluminate (AlO21-), sodium', 'Aluminate, sodium', 'Aluminium sodium dioxide', 'Aluminum sodium oxide (Al2Na2O4)', 'EINECS 215-100-1', 'HSDB 5023', 'SODIUM ALUMINATE', 'Sodium aluminate (Na2Al2O4)', 'Sodium aluminate (NaAlO2)', 'Sodium aluminate solution', 'Sodium aluminum dioxide', 'Sodium aluminum oxide (NaAlO2)', 'Sodium metaaluminate', 'Sodium metaaluminate (NaAlO2)', 'Nalco 680', 'Sodium aluminate, solid [UN2812]  [Corrosive]', 'Sodium aluminate, solution [UN1819]  [Corrosive]', 'Sodium aluminum oxide', 'Sodium polyaluminate', 'UN1819', 'UN2812', 'VSA 45']</text></svg>

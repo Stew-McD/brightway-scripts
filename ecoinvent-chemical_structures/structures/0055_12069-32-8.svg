@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 195.6,306.7 L 404.4,306.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 436.6,283.3 L 532.9,116.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 527.5,93.3 L 72.5,93.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 72.5,93.3 L 300.0,93.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-3 atom-0' d='M 67.1,116.7 L 163.4,283.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-4 atom-0' d='M 300.0,93.3 L 190.3,283.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-4 atom-1' d='M 300.0,93.3 L 409.7,283.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-4 atom-2' d='M 300.0,93.3 L 527.5,93.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='atom-0' d='M 181.0 305.9
+Q 183.7 306.7, 185.1 308.4
+Q 186.5 310.0, 186.5 312.5
+Q 186.5 316.4, 183.9 318.6
+Q 181.5 320.8, 176.7 320.8
+L 167.2 320.8
+L 167.2 292.5
+L 175.6 292.5
+Q 180.4 292.5, 182.9 294.5
+Q 185.3 296.4, 185.3 300.0
+Q 185.3 304.3, 181.0 305.9
+M 171.0 295.7
+L 171.0 304.6
+L 175.6 304.6
+Q 178.4 304.6, 179.8 303.5
+Q 181.3 302.3, 181.3 300.0
+Q 181.3 295.7, 175.6 295.7
+L 171.0 295.7
+M 176.7 317.6
+Q 179.5 317.6, 181.0 316.3
+Q 182.5 315.0, 182.5 312.5
+Q 182.5 310.1, 180.8 309.0
+Q 179.2 307.8, 176.1 307.8
+L 171.0 307.8
+L 171.0 317.6
+L 176.7 317.6
+' fill='#000000'/>
+<path class='atom-1' d='M 427.3 305.9
+Q 430.0 306.7, 431.4 308.4
+Q 432.8 310.0, 432.8 312.5
+Q 432.8 316.4, 430.3 318.6
+Q 427.8 320.8, 423.1 320.8
+L 413.5 320.8
+L 413.5 292.5
+L 421.9 292.5
+Q 426.7 292.5, 429.2 294.5
+Q 431.6 296.4, 431.6 300.0
+Q 431.6 304.3, 427.3 305.9
+M 417.3 295.7
+L 417.3 304.6
+L 421.9 304.6
+Q 424.7 304.6, 426.1 303.5
+Q 427.6 302.3, 427.6 300.0
+Q 427.6 295.7, 421.9 295.7
+L 417.3 295.7
+M 423.1 317.6
+Q 425.8 317.6, 427.3 316.3
+Q 428.8 315.0, 428.8 312.5
+Q 428.8 310.1, 427.1 309.0
+Q 425.5 307.8, 422.5 307.8
+L 417.3 307.8
+L 417.3 317.6
+L 423.1 317.6
+' fill='#000000'/>
+<path class='atom-2' d='M 550.4 92.6
+Q 553.2 93.4, 554.5 95.1
+Q 555.9 96.7, 555.9 99.1
+Q 555.9 103.1, 553.4 105.3
+Q 550.9 107.5, 546.2 107.5
+L 536.7 107.5
+L 536.7 79.2
+L 545.0 79.2
+Q 549.9 79.2, 552.3 81.1
+Q 554.8 83.1, 554.8 86.7
+Q 554.8 91.0, 550.4 92.6
+M 540.5 82.4
+L 540.5 91.3
+L 545.0 91.3
+Q 547.8 91.3, 549.3 90.1
+Q 550.8 89.0, 550.8 86.7
+Q 550.8 82.4, 545.0 82.4
+L 540.5 82.4
+M 546.2 104.3
+Q 549.0 104.3, 550.4 103.0
+Q 551.9 101.7, 551.9 99.1
+Q 551.9 96.8, 550.3 95.7
+Q 548.7 94.5, 545.6 94.5
+L 540.5 94.5
+L 540.5 104.3
+L 546.2 104.3
+' fill='#000000'/>
+<path class='atom-3' d='M 57.8 92.6
+Q 60.6 93.4, 61.9 95.1
+Q 63.3 96.7, 63.3 99.1
+Q 63.3 103.1, 60.8 105.3
+Q 58.3 107.5, 53.6 107.5
+L 44.1 107.5
+L 44.1 79.2
+L 52.4 79.2
+Q 57.3 79.2, 59.7 81.1
+Q 62.2 83.1, 62.2 86.7
+Q 62.2 91.0, 57.8 92.6
+M 47.9 82.4
+L 47.9 91.3
+L 52.4 91.3
+Q 55.2 91.3, 56.7 90.1
+Q 58.2 89.0, 58.2 86.7
+Q 58.2 82.4, 52.4 82.4
+L 47.9 82.4
+M 53.6 104.3
+Q 56.4 104.3, 57.8 103.0
+Q 59.3 101.7, 59.3 99.1
+Q 59.3 96.8, 57.7 95.7
+Q 56.1 94.5, 53.0 94.5
+L 47.9 94.5
+L 47.9 104.3
+L 53.6 104.3
+' fill='#000000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:12069-32-8  ---  MW: 55.251</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: B12B3B4B1C234</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: CB4</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: boron carbide</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: </text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['12069-32-8', '12075-36-4', '12676-28-7', '216987-54-1', '37269-74-2', '53239-04-6', 'B4-C', 'Boron carbide', 'Boron carbide (B4C)', 'EINECS 235-111-5']</text></svg>

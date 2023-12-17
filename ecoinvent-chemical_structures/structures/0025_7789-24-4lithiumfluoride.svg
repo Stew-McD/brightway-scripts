@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='atom-0' d='M 97.3 185.9
+L 101.1 185.9
+L 101.1 210.9
+L 114.0 210.9
+L 114.0 214.2
+L 97.3 214.2
+L 97.3 185.9
+' fill='#000000'/>
+<path class='atom-0' d='M 116.4 185.9
+L 120.1 185.9
+L 120.1 189.4
+L 116.4 189.4
+L 116.4 185.9
+M 116.4 193.7
+L 120.1 193.7
+L 120.1 214.2
+L 116.4 214.2
+L 116.4 193.7
+' fill='#000000'/>
+<path class='atom-0' d='M 124.9 191.0
+L 129.9 191.0
+L 129.9 185.8
+L 132.1 185.8
+L 132.1 191.0
+L 137.2 191.0
+L 137.2 192.9
+L 132.1 192.9
+L 132.1 198.2
+L 129.9 198.2
+L 129.9 192.9
+L 124.9 192.9
+L 124.9 191.0
+' fill='#000000'/>
+<path class='atom-1' d='M 473.7 185.9
+L 490.6 185.9
+L 490.6 189.2
+L 477.5 189.2
+L 477.5 197.8
+L 489.1 197.8
+L 489.1 201.0
+L 477.5 201.0
+L 477.5 214.2
+L 473.7 214.2
+L 473.7 185.9
+' fill='#33CCCC'/>
+<path class='atom-1' d='M 493.0 190.6
+L 502.7 190.6
+L 502.7 192.7
+L 493.0 192.7
+L 493.0 190.6
+' fill='#33CCCC'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:7789-24-4  ---  MW: 25.9394</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: [Li+].[F-]</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: FLi</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: lithium fluoride</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: Lithium fluoride</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['Lithium fluoride', '7789-24-4', '12382-07-9', '17409-87-9', '12285-65-3', '40619-18-9', '64975-45-7', '12382-05-7', '14885-65-5', '12159-92-1', 'Fluorolithium', 'Lithium fluoride', 'Lithium fluoride (Li3F3)', 'Lithium fluoride (LiF)', 'Lithium fluorure', 'Lithium monofluoride', 'NSC12957', 'NTL 50', 'TLD 100', 'TLD 700', '237965_ALDRICH', 'WLN: LI F', '01140_RIEDEL', '669431_ALDRICH', 'AIDS-155883', 'AIDS155883', 'Hydrofluoric acid, ion(1-), with lithanylium (1:1)', 'Lithium fluorure (FRENCH)', '62497_FLUKA', '449903_ALDRICH', '(7L)Lithium fluoride', 'EINECS 241-438-4', '203645_ALDRICH', 'LIF', 'EINECS 235-292-0', 'Lithium bifluoride', 'Lithium fluoride (Li(HF2))', 'Lithium hydrogen difluoride', 'Lithium fluoride (7LiF)', 'Trilithium trifluoride', 'EINECS 232-152-0', 'HSDB 651', 'Lithium fluorure  [French]', 'Lithium fluorure [French]', 'NSC 12957', '(6L)Lithium fluoride', 'EINECS 238-958-9', 'Lithium fluoride (6LiF)']</text></svg>

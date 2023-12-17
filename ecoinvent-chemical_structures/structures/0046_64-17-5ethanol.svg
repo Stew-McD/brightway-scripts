@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='600px' height='400px' viewBox='0 0 600 400'>
+<!-- END OF HEADER -->
+<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='600.0' height='400.0' x='0.0' y='0.0'> </rect>
+<path class='bond-0 atom-0 atom-1' d='M 60.4,256.1 L 280.2,129.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 280.2,129.2 L 379.4,186.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 379.4,186.4 L 478.6,243.7' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 269.2,135.5 L 280.2,129.2 L 285.2,132.0' style='fill:none;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;' />
+<path class='atom-2' d='M 487.0 256.1
+Q 487.0 249.3, 490.4 245.5
+Q 493.7 241.7, 500.0 241.7
+Q 506.3 241.7, 509.6 245.5
+Q 513.0 249.3, 513.0 256.1
+Q 513.0 263.0, 509.6 266.9
+Q 506.2 270.8, 500.0 270.8
+Q 493.8 270.8, 490.4 266.9
+Q 487.0 263.1, 487.0 256.1
+M 500.0 267.6
+Q 504.3 267.6, 506.6 264.7
+Q 509.0 261.8, 509.0 256.1
+Q 509.0 250.6, 506.6 247.8
+Q 504.3 244.9, 500.0 244.9
+Q 495.7 244.9, 493.3 247.7
+Q 491.0 250.5, 491.0 256.1
+Q 491.0 261.9, 493.3 264.7
+Q 495.7 267.6, 500.0 267.6
+' fill='#FF0000'/>
+<path class='atom-2' d='M 517.4 242.1
+L 521.3 242.1
+L 521.3 254.1
+L 535.7 254.1
+L 535.7 242.1
+L 539.6 242.1
+L 539.6 270.4
+L 535.7 270.4
+L 535.7 257.3
+L 521.3 257.3
+L 521.3 270.4
+L 517.4 270.4
+L 517.4 242.1
+' fill='#FF0000'/>
+<text x="20" y="10" font-family="Arial Narrow" font-size="12">CAS:64-17-5  ---  MW: 46.0688</text><text x="20" y="25" font-family="Arial Narrow" font-size="8">SMILES: CCO</text><text x="20" y="35" font-family="Arial Narrow" font-size="8">Formula: C2H6O</text><text x="20" y="370" font-family="Arial Narrow" font-size="12">ecoinvent: ethanol, without water, in 99.7% solution state, from fermentation, vehicle grade</text><text x="20" y="385" font-family="Arial Narrow" font-size="12">IUPAC: ethanol</text><text x="20" y="395" font-family="Arial Narrow" font-size="2">Synonyms: ['ethanol', '121182-78-3', '64-17-5', '8024-45-1', '8000-16-6', '68475-56-9', '71076-86-3', '71329-38-9', 'Ethyl alcohol & water, 50%', 'Ethyl alcohol & water, 60%', 'Ethyl alcohol & water, 70%', 'Ethyl alcohol & water, 80%', 'Ethyl alcohol & water, 95%', 'Ethyl alcohol & water, 96%', 'Ethyl alcohol, anhydrous', 'Ethyl hydrate', 'Ethyl hydroxide', 'Ethylalcohol', 'Etylowy alkohol', 'Fermentation alcohol', 'Jaysol', 'Jaysol S', 'Molasses alcohol', 'NCI-C03134', 'NSC85228', 'Potato alcohol', 'SD Alchol 23-hydrogen', 'Spirits of wine', 'Spirt', 'Tecsol', 'Thanol', 'WLN: Q2', 'Absolute ethyl alcohol', '459828_ALDRICH', '02878_FLUKA', '187380_ALDRICH', '02882_FLUKA', '02883_FLUKA', '459836_ALDRICH', 'UK Industrial methylated spirit', '02884_FLUKA', 'Alcare Hand Degermer', '(C6-C9)Alkyl alcohol', 'Alcohols, C6-9', '02890_FLUKA', '34963_RIEDEL', 'D00068', 'Dehydrated ethanol (JP15)', 'Dehydrated ethanol (TN)', '02891_FLUKA', '676829_SIAL', 'Alcohols, C1-3', 'Anti-EphB1 (ELK Receptor)-CY antibody produced in sheep', 'Higher alcohol distillate', 'E7517_SIGMA', '02875_FLUKA', '[CH2Me(OH)]', 'c0038', 'cologne spirits (alcohol)', 'sd alcohol 23-hydrogen', 'spirit', 'D06542', 'Ethanol (JP15)', 'Ethanol (TN)', 'EOH', '24102_RIEDEL', '41322_FLUKA', 'EOX', 'ETHYLOXY GROUP', '24103_RIEDEL', '39278_FLUKA', '02877_FLUKA', 'CDA 19', '270741_ALDRICH', '24105_RIEDEL', '493511_SIAL', 'alcohol etilico', '493538_ALDRICH', '277649_ALDRICH', 'Ethanol Fixative 80% v/v', '24106_RIEDEL', '493546_ALDRICH', 'AIDS006139', 'OXA', 'OXYDIMETHYLENE GROUP', '32294_RIEDEL', '32205_RIEDEL', 'HYDROXYETHYL GROUP', 'Ethicap', '02857_FLUKA', '29221_FLUKA', '40210_RIEDEL', '02858_FLUKA', '245119_ALDRICH', 'Alcohols, C>30', '24194_RIEDEL', 'SY Fresh M', '02870_FLUKA', 'Duplicating Fluid 100C.NPA', '02860_FLUKA', '32221_RIEDEL', 'AIDS-006139', 'QMHAIh@', 'Esumiru WK 88', '459844_SIAL', '100C.NPA', 'C2H5OH', 'CHEBI:16236', 'C00469', 'Dehydrated ethanol', 'Methylcarbinol', 'etanol', 'spiritus vini', '48075_SUPELCO', 'InChI=1/C2H6O/c1-2-3/h3H,2H2,1H', 'ETOH', 'absolute alcohol', 'alcohol', 'Alkohol', 'Anhydrol', '2858_SIGMA', 'Cologne spirit', 'Hinetoless', 'Methylated spirit', '[OEtH]', 'Alcohol (USP)', '1-Hydroxyethane', 'AI3-01706', 'Aethanol [German]', 'Aethylalkohol [German]', 'Alcohol (ethyl alcohol)', 'Alcohol dehydrated', 'Alcohol, ethyl', 'Alcool ethylique [French]', 'Alcool etilico [Italian]', 'Alkohol [German]', 'Alkoholu etylowego [Polish]', 'CCRIS 945', 'Caswell No. 430', 'Denatured alcohol', 'Distilled spirits', 'EINECS 200-578-6', 'EPA Pesticide Chemical Code 001501', 'Etanolo [Italian]', 'Ethanol solution', 'Ethanol, undenatured', 'Ethyl alcohol and water', 'Ethyl alcohol anhydrous', 'Ethyl alcohol in alcoholic beverages', 'Ethyl alcohol usp', 'Ethyl alcohol, undenatured', 'Ethylalcohol [Dutch]', 'Etylowy alkohol [Polish]', 'FEMA No. 2419', 'FEMA Number 2419', 'HSDB 82', 'Hydroxyethane', 'NSC 85228', 'AHD 2000', 'SDM No. 37', 'Tecsol C', 'Ethanol (9CI)', '02483_FLUKA', 'Ethyl alcohol (6CI,7CI,8CI)', 'E2385_SIGMA', 'IMS 99', 'Infinity Pure', 'Lux', 'SDA 3A', 'SDA 40-2', 'Ethanol standards 10% (v/v)', 'Sekundasprit', 'Synasol', '458600_ALDRICH', 'NCGC00091458-01', 'Anhydrol PM 4085', 'E7023_ALDRICH', 'Anhydrous alcohol', 'E7148_ALDRICH', '02865_FLUKA', '02851_FLUKA', '02853_FLUKA', '34870_SIAL', 'CDA 19-200', '02854_FLUKA', 'Dehydrated alcohol', '02855_FLUKA', 'Desinfektol EL', '02856_FLUKA', 'ZINC04795012', 'EINECS 270-649-4', 'Absolute ethanol', 'Aethanol', 'Aethylalkohol', 'Alcohol, anhydrous', 'Alcohol, dehydrated', 'Alcohol, diluted', 'Alcohols', 'Alcool ethylique', 'Alcool etilico', 'Algrain', 'ethanol', 'ethyl alcohol', 'grain alcohol', 'Cologne spirits', 'Denatured alcohol CD-10', 'Denatured alcohol CD-5', 'Denatured alcohol CD-5a', 'Denatured alcohol SD-1', 'Denatured alcohol SD-13a', 'Denatured alcohol SD-17', 'Denatured alcohol SD-23a', 'Denatured alcohol SD-28', 'Denatured alcohol SD-30', 'Denatured alcohol SD-39b', 'Denatured alcohol SD-39c', 'Denatured alcohol SD-3a', 'Denatured alcohol SD-40m', 'Denatured ethanol', 'Etanolo', 'Ethanol 200 proof', 'Ethyl alc', 'Ethyl alcohol & water, 10%', 'Ethyl alcohol & water, 20%', 'Ethyl alcohol & water, 30%', 'Ethyl alcohol & water, 40%', 'Ethyl alcohol & water, 5%']</text></svg>
