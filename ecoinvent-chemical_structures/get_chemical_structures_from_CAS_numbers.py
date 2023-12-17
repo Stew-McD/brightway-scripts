@@ -40,7 +40,7 @@ fields = [
 ]
 
 # if you just want to use the output file from a previous run to make images, set this to False
-RESOLVE = True
+RESOLVE = False
 if not RESOLVE:
     FILE_INPUT = FILE_OUTPUT
 
@@ -117,7 +117,7 @@ def get_image(x, font):
             f'<text x="20" y="35" font-family={font} font-size="8">Formula: {x["formula"]}</text>'
             f'<text x="20" y="370" font-family={font} font-size="12">ecoinvent: {x["name"]}</text>'
             f'<text x="20" y="385" font-family={font} font-size="12">IUPAC: {x["iupac_name"]}</text>'
-            f'<text x="20" y="395" font-family={font} font-size="2">Synonyms: {x["names"]}</text>'
+            # f'<text x="20" y="395" font-family={font} font-size="2">Synonyms: {x["names"]}</text>'
             "</svg>"
         )
         if text:
@@ -125,9 +125,9 @@ def get_image(x, font):
 
         # add rounded mw and CAS number to filename for sorting
         FILE_STRUCTURE = DIR_STRUCTURES / f'{x["mw_round"]}_{x["CAS number"]}.svg'
-        if FILE_STRUCTURE.is_file():
-            new_filename = str(FILE_STRUCTURE).replace(".svg", f"{x['name'].replace(' ','').split(',')[0]}.svg")
-            FILE_STRUCTURE.rename(new_filename)
+        # if FILE_STRUCTURE.is_file():
+        #     new_filename = str(FILE_STRUCTURE).replace(".svg", f"{x['name'].replace(' ','').split(',')[0]}.svg")
+        #     FILE_STRUCTURE.rename(new_filename)
         with open(FILE_STRUCTURE, "w") as f:
             f.write(text)
         return None
@@ -223,5 +223,6 @@ if __name__ == "__main__":
     
     # Copy the structure images to the web directory
     if DIR_GIT_PAGES.is_dir():
-        shutil.copytree(DIR_STRUCTURES, DIR_GIT_PAGES / "assets/chemical_structures", dirs_exist_ok=True)
+        shutil.rmtree(DIR_GIT_PAGES / "assets/chemical_structures")
+        shutil.copytree(DIR_STRUCTURES, DIR_GIT_PAGES / "assets/chemical_structures")
         print(f"Structure images copied to {DIR_GIT_PAGES / 'assets/chemical_structures'}")
