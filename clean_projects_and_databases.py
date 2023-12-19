@@ -4,7 +4,6 @@ KEEP = [
     'default',
 ]
 
-
 for project in bd.projects:
     if project not in KEEP:
         try:
