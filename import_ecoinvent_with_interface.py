@@ -3,7 +3,7 @@ import os
 use_testing_dir = 1
 
 if use_testing_dir:
-    CUSTOM_BW2_DIR = os.path.join(os.path.expanduser("~"), "brightway2data-testing")
+    CUSTOM_BW2_DIR = os.path.join(os.path.expanduser("~"), "brightway25data-testing")
     if not os.path.exists(CUSTOM_BW2_DIR):
         os.makedirs(CUSTOM_BW2_DIR)
     os.environ["BRIGHTWAY2_DIR"] = CUSTOM_BW2_DIR
