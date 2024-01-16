@@ -1,22 +1,30 @@
 from itertools import product
+import os
+use_testing_dir = 1
+
+if use_testing_dir:
+    CUSTOM_BW2_DIR = os.path.join(os.path.expanduser("~"), "brightway2data-testing")
+    if not os.path.exists(CUSTOM_BW2_DIR):
+        os.makedirs(CUSTOM_BW2_DIR)
+    os.environ["BRIGHTWAY2_DIR"] = CUSTOM_BW2_DIR
 
 import bw2data as bd
 import bw2io as bi
 import bw2calc as bc
 import ecoinvent_interface as ei
 
-DELETE_PROJECT = False
-IMPORT_RELEASES = False
+DELETE_PROJECT = True
+IMPORT_RELEASES = True
 VALIDATE_DBS = True
 
-PROJECT = "default"
-VERSIONS = ["3.9.1"]
-SYSTEM_MODELS = ["cutoff", "consequential"]
+PROJECT = "default-310"
+VERSIONS = ["3.10"]
+SYSTEM_MODELS = ["cutoff"]  # , "consequential"]
 DBS = list(product(VERSIONS, SYSTEM_MODELS))
 
 settings = ei.Settings(username=ei.Settings().username, password=ei.Settings().password)
 
-if DELETE_PROJECT and PROJECT in bd.projects:
+if DELETE_PROJECT and PROJECT in bd.projects and len(bd.projects) > 1:
     print(f"Deleting project {PROJECT}")
     bd.projects.delete_project(PROJECT, delete_dir=True)
 
@@ -25,6 +33,7 @@ bd.projects.set_current(PROJECT)
 print(f"** Using project: {PROJECT} **")
 print(f"\tbw2data version: {bd.__version__}")
 print(f"\tbw2io version: {bi.__version__}")
+print(f"\tbw2calc version: {bc.__version__}")
 print(f"\tecoinvent_interface version: {ei.__version__}")
 
 print(f"** Existing databases **")
@@ -64,7 +73,6 @@ if VALIDATE_DBS:
                 score = lca.score
                 print(f"\t {lca.demand}\n\t {lca.method} \n\t {lca.score:.2e}")
         except Exception as e:
-            logging.error(f"FAILURE VALIDATING: {db} : {e}")
             print(f"FAILURE VALIDATING: {db} : {e}")
         if attempt == 10:
             print(f"** {db_name}: produced {attempt} zero scores **")
