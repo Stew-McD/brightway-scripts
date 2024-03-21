@@ -10,12 +10,15 @@ bwstrings = ["bw", "brightway"]
 bw2list = [x for x in os.listdir(HOME) if any(s in x for s in bwstrings)]
 
 # output of bw2list
-BW2DIRS = ["brightway25data-testing", "brightway2data-testing", "brightway25data", "brightway2data"]
+BW2DIRS = ["brightway25data-testing", 
+           "brightway2data-testing",
+            "brightway25data", 
+            "brightway2data"]
 
 BW2DIRS = [os.path.join(HOME, x) for x in BW2DIRS]
 
 # print a report for each directory
-BW2DIR = BW2DIRS[0]  # choose here
+BW2DIR = BW2DIRS[3]  # choose here
 
 print(f"Using: {BW2DIR}")
 os.environ["BRIGHTWAY2_DIR"] = BW2DIR
@@ -35,10 +38,9 @@ project_list = [x[0] for x in table_data]
 DELETE_LIST = [
     "SSP-cutoff",
     "SSP2-cutoff",
-    # "SSP2LT-cutoff",
-    "WMFootprint-SSP-cutoff",
-    "WMFootprint-SSP2-cutoff",
-    # "WMFootprint-SSP2LT-cutoff",
+    "SSP2LT-cutoff",
+    "T-reX-premise-SSP2-cutoff",
+    "T-reX-SSP2-cutoff",
     # "default",
 ]
 
