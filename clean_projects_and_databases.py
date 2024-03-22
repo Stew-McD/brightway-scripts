@@ -3,7 +3,7 @@ import bw2data as bd
 from pathlib import Path
 from tabulate import tabulate
 
-DELETE = 1
+DELETE = 0
 
 HOME = Path.home()
 bwstrings = ["bw", "brightway"]
@@ -18,7 +18,7 @@ BW2DIRS = ["brightway25data-testing",
 BW2DIRS = [os.path.join(HOME, x) for x in BW2DIRS]
 
 # print a report for each directory
-BW2DIR = BW2DIRS[3]  # choose here
+BW2DIR = BW2DIRS[0]  # choose here (restart kernel to choose another)
 
 print(f"Using: {BW2DIR}")
 os.environ["BRIGHTWAY2_DIR"] = BW2DIR
@@ -36,13 +36,15 @@ project_list = [x[0] for x in table_data]
 
 # output of project_list
 DELETE_LIST = [
-    "SSP-cutoff",
-    "SSP2-cutoff",
-    "SSP2LT-cutoff",
-    "T-reX-premise-SSP2-cutoff",
-    "T-reX-SSP2-cutoff",
+    "Premise-SSP2-cutoff",
+    "TreX-Premise-SSP2-cutoff",
+    # "TreX-test-premise-SSP2-cutoff",
     # "default",
+    "premise-SSP2-cutoff",
+    # "test-premise-SSP2-cutoff",
 ]
+print("\nAS LIST:")
+print(project_list)
 
 if DELETE:
     print(f'{"-"*60}')
@@ -56,9 +58,14 @@ if DELETE:
 
     # check that it worked
     print(f'{"-"*60}')
-    print("Checking that it worked")
+    print("\nCheck that it worked...\n")
     table_data = [(name, dbs, round(size, 2)) for name, dbs, size in bd.projects.report()]
 
     # Print the table
-    print("Projects:")
+    print("Remaining projects:")
     print(tabulate(table_data, headers=headers))
+    
+    print("\n Purging deleted directories")
+    bd.projects.purge_deleted_directories()
+    
+    print("\nDone!\n")
