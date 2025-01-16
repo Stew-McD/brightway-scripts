@@ -1,6 +1,6 @@
 from itertools import product
 import os
-use_testing_dir = 1
+use_testing_dir = 0
 
 if use_testing_dir:
     CUSTOM_BW2_DIR = os.path.join(os.path.expanduser("~"), "brightway25data-testing")
@@ -17,8 +17,8 @@ DELETE_PROJECT = True
 IMPORT_RELEASES = True
 VALIDATE_DBS = True
 
-PROJECT = "default-310"
-VERSIONS = ["3.10"]
+PROJECT = "default-311"
+VERSIONS = ["3.1.1"]
 SYSTEM_MODELS = ["cutoff"]  # , "consequential"]
 DBS = list(product(VERSIONS, SYSTEM_MODELS))
 
