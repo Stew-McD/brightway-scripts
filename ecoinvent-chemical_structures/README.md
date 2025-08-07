@@ -12,6 +12,6 @@ The source code, data and images related to processing the database and collecti
 
 ## The structures
 
-On [this page](https://stew-mcd.github.io/projects/ecoinvent_chemical-structures/gallery-ecoinvent_chemical-structures.html) you can find the images of the structures and their information, sorted by molecular weight. Click an image to find out more, including an external search function. The images are in SVG format and are named `<mW>_<CAS>.svg`, where `<mW>` is the rounded molecular weight and `<CAS>` is the CAS number. Each image is annotated with the CAS number, ecoinvent name, IUPAC name, smiles string, formula and synonyms.
+On [this page](https://stew-mcd.github.io/projects/ecoinvent-chemical-structures/gallery-ecoinvent-chemical-structures.html) you can find the images of the structures and their information, sorted by molecular weight. Click an image to find out more, including an external search function. The images are in SVG format and are named `<mW>_<CAS>.svg`, where `<mW>` is the rounded molecular weight and `<CAS>` is the CAS number. Each image is annotated with the CAS number, ecoinvent name, IUPAC name, smiles string, formula and synonyms.
 The SVG text SHOULD be searchable, so you can hit ctrl+f and search for whatever you are looking for and see the structure and other information instantly. (NOT WORKING RIGHT NOW)
 Ideally, this presentation would be interactive somehow, with filtering and sorting options, but I don't have the time to do that right now. If you want to do it, feel free to fork the repo and make a pull request.
